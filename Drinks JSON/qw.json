@@ -1,0 +1,46 @@
+{
+ "drinkName": [
+  {
+   "name": "Van Leer Rose",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2014/09/van-leer-rose-cocktail-recipe.jpg",
+   "about": "This bourbon-based cocktail is on the menu at Louisville, Kentucky’s watering hole The Monkey Wrench.",
+   "ingredients": [
+    {
+     "ingredient": "Bonded bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Esprit de June liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Grenadine (Wilks and Wilson, or any traditional grenadine with a touch of rose water)",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Abbots bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake vigorously, and strain into a cocktail glass, express lemon over top,."
+    },
+    {
+     "how": "For a lighter version, serve the drink over fresh ice with a slice of lemon."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3812 @@
+{
+ "drinkName": [
+  {
+   "name": "DIY Pink Gin Cocktail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/13090111/Pink-Gins-Is-Exactly-What-to-Drink-for-Valentines-Day-720x720-article.jpg",
+   "about": "Adapted from the 1939 classic cocktail book The Gentleman’s Companion by Charles H. Baker, the original cocktail nods to the drink’s Navy roots, suggesting that the excess bitters “go back in the bottle, on the floor or out the porthole or window, depending upon who, where and what we are.”",
+   "ingredients": [
+    {
+     "ingredient": "London dry or Old Tom gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "4 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Dash the bitters into a chilled coupe. Gently tip the glass and rotate it to coat the inside of the glass. Pour out the excess bitters."
+    },
+    {
+     "how": "Stir the gin in a mixing glass with ice, then strain into the prepared glass."
+    },
+    {
+     "how": "Garnish with a curl of lime peel."
+    }
+   ]
+  },
+  {
+   "name": "Diamond Claret Cup",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12140511/Diamond-Claret-Cup-720x720-recipe.jpg",
+   "about": "Red wine gets a boost from raspberry brandy in this eau-de-vie cocktail from John Codd of San Francisco’s Tradition.",
+   "ingredients": [
+    {
+     "ingredient": "St. George raspberry brandy",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Red wine",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Small Hand Foods gum syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Small Hand Foods grenadine",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Sparkling wine",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients except the Champagne water into mixing tin with ice, and shake briefly."
+    },
+    {
+     "how": "Strain into a Collins glass over ice, and top with the sparkling wine."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Pomelo Cream Fizz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12105630/pomelo-cream-fizz-720x720-recipe.jpg",
+   "about": "Pomelos—large thick-skinned citrus fruits—are easy to find in Asian markets. But grapefruit works just as well in this refreshingly fizzy drink. Brad Goocher, the beverage director at Charleston, S.C.’s Le Farfalle, also makes a mocktail version of the drink with three ounces of juice and one ounce each of honey and cream.",
+   "ingredients": [
+    {
+     "ingredient": "Gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed pomelo juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Heavy cream",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "honey",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Seltzer, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients except the seltzer to a blender with 1 cup of ice, and pulse until smooth."
+    },
+    {
+     "how": "Pour into a highball glass or Mason jar, and fill to the top with the chilled seltzer."
+    }
+   ]
+  },
+  {
+   "name": "Carrot Thing",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12104322/carrot-thing-720x720-recipe.jpg",
+   "about": "New York City’s Saxon + Parole plays with plenty of fresh produce on its drink menu, which means that (depending on the season) guests often request “that watermelon thing” or “that pumpkin thing.” This time, head bartenders Maxime Belfand and Masa Urushido stayed one step ahead and named their heirloom-carrot-packed winter drink accordingly.",
+   "ingredients": [
+    {
+     "ingredient": "Great King St. Glasgow Blend scotch",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Del Maguey Vida mezcal",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Liqor 43",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Heirloom carrot juice (purple, orange and yellow)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Agave syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Prepare a rocks glass with a half-rim of smoked Maldon sea salt."
+    },
+    {
+     "how": "Add all ingredients to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain over fresh ice into the prepared glass, and garnish with a carrot chip."
+    }
+   ]
+  },
+  {
+   "name": "Plain Killer",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12103421/plain-killer-720x720-recipe.jpg",
+   "about": "At James Beard Award winner Tory Miller’s pan-Asian restaurant, Sujeo in Madison, Wis., a duo of fresh pineapple and orange juices round out a Tiki-style libation (modeled on the classic Painkiller) built for two thirsty revelers.",
+   "ingredients": [
+    {
+     "ingredient": "El Dorado 15-year-old rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed pineapple juice",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed orange juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Coco Lopez coconut cream",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a shaker with ice and shake until chilled."
+    },
+    {
+     "how": "Pour with the ice into a Tiki mug, and garnish with freshly grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Calafia",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12102115/calafia-720x720-recipe1.jpg",
+   "about": "Newly opened in December 2016 from Top Chef alum Ryan Scott, the cocktail menu at San Francisco’s Finn Town boasts plenty of fresh juices—cucumber, ginger, etc. But fennel’s not one you see on the drink menu very often. This drink by bartender Anthony Parks lends freshness and subtle anise to a tequila-forward sipper.",
+   "ingredients": [
+    {
+     "ingredient": "Cimarrón blanco tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "El Silencio espadín mezcal",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fennel juice (juice of fennel bulbs)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Soda water, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients except the soda water into a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Pour over fresh ice into a Collins glass, and top with the soda water."
+    },
+    {
+     "how": "Garnish with fennel fronds and fennel pollen."
+    }
+   ]
+  },
+  {
+   "name": "Scottish Beats",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/12092635/scottish-beats-720x720-recipe.jpg",
+   "about": "Nodding to the classic Blood & Sand, this drink by Jason Percival, the bar manager at Boston’s Post 390, relies on beets for its dramatic rosy hue and a hint of sweetness.",
+   "ingredients": [
+    {
+     "ingredient": "Scotch",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cherry Heering liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth (Vya, Dolin or Carpano)",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Beet puree (cooked and peeled beets, pureed)",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients into a shaker with ice and shake until chilled."
+    },
+    {
+     "how": "Double-strain into a coupe or cocktail glass."
+    }
+   ]
+  },
+  {
+   "name": "Posset",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/20110354/posset-720-720-article-v2.jpg",
+   "about": "Although the full recipe takes a couple of hours, this classic drink is accomplished in a crockpot, so it’s basically a set-it-and-forget-it type of recipe. Get a batch started before friends arrive, then spoon into coffee mugs.",
+   "ingredients": [
+    {
+     "ingredient": "Mace",
+     "amount": "1⁄4 cup"
+    },
+    {
+     "ingredient": "Allspice berries",
+     "amount": "15"
+    },
+    {
+     "ingredient": "Whole cloves",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Grated fresh cinnamon",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Heavy cream",
+     "amount": "475 ml"
+    },
+    {
+     "ingredient": "Eggs",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "India pale ale",
+     "amount": "710 ml"
+    },
+    {
+     "ingredient": "Porter",
+     "amount": "240 ml"
+    },
+    {
+     "ingredient": "Strega liqueur",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Allspice dram",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Velvet falernum",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Serves 10�\"12 (6 oz pours)."
+    },
+    {
+     "how": "Place the mace, allspice berries, cloves and cinnamon on top of a square of cheesecloth, and use kitchen twine to tie tightly into a spice sachet."
+    },
+    {
+     "how": "Turn a crockpot on high. Add the cream and eggs, and whisk until homogenized. Once warm, whisk in the sugar until dissolved, then add the beers, liquors and spice sachet. Continue to cook on high for 2 hours, until the mixture forms what is essentially a cooked layer of egg and curd on top. Turn temperature down to warm until you’re ready to serve."
+    },
+    {
+     "how": "To serve, whisk into fine curds, then spoon into coffee mugs. Grate fresh nutmeg on top to garnish."
+    }
+   ]
+  },
+  {
+   "name": "Hot Apple Pie",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/09122939/hot-apple-pie-720-720-article.jpg",
+   "about": "Looking for something to warm you up when it’s cold out? Try this cocktail from Smith & Whistle at the Sheraton Grand London Park Lane.",
+   "ingredients": [
+    {
+     "ingredient": "Calvados",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Mead",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Apple juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Cinnamon-infused honey*",
+     "amount": "1 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Bring all of the ingredients to a boil while stirring occasionally."
+    },
+    {
+     "how": "Strain into an Irish Coffee mug, and garnish with 2 dried apple slices and a cinnamon stick."
+    },
+    {
+     "how": "*Cinnamon-infused honey: Add 3 to 5 cinnamon sticks to a small jar (4 oz or so), and fill with honey of choice. Let sit 4 to 6 days, tasting on occasion, and remove the cinnamon sticks once the cinnamon flavor is satisfactory (i.e. present without being overwhelmingly strong)."
+    }
+   ]
+  },
+  {
+   "name": "Steeply Devoted",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/02/08111948/nolet_steepydevoted_main_720x720.png",
+   "about": "This boozy tea by bartender Elia Covino at Chicago’s Rebar in Trump hotel will warm you up during winter. “I wanted to make something to replace the mulled wine we would serve around the holidays that would appeal to the Hot Toddy drinkers and that spirits people wouldn’t generally think would go well in a warm cocktail,” says Covino. “I knew I wanted vermouth to be a component, and the gin was a wonderful addition, adding more depth and a floral component. The milk chocolate elixir plays off both of those so well, and the ginger snap liqueur and honey add a touch of sweetness.”",
+   "ingredients": [
+    {
+     "ingredient": "NOLET'S Silver Dry Gin",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Art in the Age ginger snap liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Carpano Antica Formula vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Rare Tea Cellar Emperor’s Milk chocolate elixir",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Lemon peels",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Dried fruit mix**",
+     "amount": "1⁄2 cup"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Steep all the ingredients except for the dried fruit in 6 oz hot water for 4 minutes to make a tea."
+    },
+    {
+     "how": "Add the dried apples, apricots and strawberries in a cup."
+    },
+    {
+     "how": "Pour the tea over the fruit."
+    },
+    {
+     "how": "*Honey syrup: Add 1 cup honey and .5 cup water to a small saucepan over medium heat. Stir until blended. Strain into a jar and seal tightly with a lid. Will keep for 1 month in the refrigerator."
+    },
+    {
+     "how": "**Dried fruit mix: approximately 2 apples, 2 apricots and 5 strawberries."
+    }
+   ]
+  },
+  {
+   "name": "Remember the Maine",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05114640/remember-the-maine-720x720-recipe.jpg",
+   "about": "If you appreciate a good Manhattan—a rye Manhattan specifically—then the Remember the Maine will most likely find a home in your drinks repertoire. The cocktail comes from Charles H. Baker, Jr’s. The Gentleman’s Companion from 1939 and is notable for its additions of cherry liqueur and a touch of absinthe.",
+   "ingredients": [
+    {
+     "ingredient": "Rye whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cherry Heering liqueur",
+     "amount": "2 tsp"
+    },
+    {
+     "ingredient": "Absinthe",
+     "amount": "1⁄2 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a chilled coupe or cocktail glass, add the absinthe. Roll around to coat and discard the excess."
+    },
+    {
+     "how": "Add the rye, vermouth and liqueur to a mixing glass with ice and stir well."
+    },
+    {
+     "how": "Strain into the prepared glass, and garnish with a brandied cherry."
+    }
+   ]
+  },
+  {
+   "name": "Cobra’s Fang",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05094928/cobras-fang-720x720-recipe.jpg",
+   "about": "Until recently, fassionola syrup, which was used in many old Tiki drinks including the Hurricane, was lost to the past. The Jonathan English Company bottled it in the 1950s, and modern bartenders have either created house-made versions or substituted passion fruit syrup. Recently, Cocktail & Sons’ Max Messier bottled a seasonal version of it with local New Orleans strawberries, as well as pineapples, mango, passion fruit and steeped hibiscus flower syrup. The little-known Cobra’s Fang was created at Don the Beachcomber and also uses falernum, which has seen its own resurgence in recent years.",
+   "ingredients": [
+    {
+     "ingredient": "Dark Jamaican rum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "151-proof demerara rum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Falernum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fassionola syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Herbsaint liqueur",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Blend all of the ingredients with 6 oz of crushed ice for 5 seconds, and pour into a highball glass or tall Tiki mug."
+    },
+    {
+     "how": "Garnish with a mint leaf and lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Red Snapper",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05101425/red-snapper-720x720-recipe.jpg",
+   "about": "This classic gin cocktail is an alternative to the Bloody Mary.",
+   "ingredients": [
+    {
+     "ingredient": "Celery salt",
+     "amount": "2 pinches"
+    },
+    {
+     "ingredient": "Freshly ground black pepper",
+     "amount": "2 pinches"
+    },
+    {
+     "ingredient": "Lime wedge",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Tomato juice",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Tabasco",
+     "amount": "6 dashes"
+    },
+    {
+     "ingredient": "Worcestershire sauce",
+     "amount": "4 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour the salt and pepper onto a small plate."
+    },
+    {
+     "how": "Rub the juicy side of a lime wedge along the lip of a pint glass, rim the glass with the salt and pepper, and fill the glass with ice."
+    },
+    {
+     "how": "Add the remaining ingredients into a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into the prepared glass, and garnish with a celery stalk and lime wedge."
+    }
+   ]
+  },
+  {
+   "name": "Wisconsin Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05101700/Wisconsin-Old-Fashioned-720x720-recipe.jpg",
+   "about": "This cocktail, aka the Brandy Old Fashioned, is practically the official Wisconsin state drink and takes brandy instead of whiskey.",
+   "ingredients": [
+    {
+     "ingredient": "Orange slices",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Brandied or maraschino cherries",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    },
+    {
+     "ingredient": "7Up/Sprite, seltzer or sour soda (sour mix and soda water)",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Brandy\nTry it with Martell VS",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except for the brandy to an Old Fashioned glass and muddle."
+    },
+    {
+     "how": "Add ice to fill the glass, add the brandy, then top with the 7Up/Sprite (or seltzer or sour soda)."
+    },
+    {
+     "how": "Garnish with a skewered brandied or maraschino cherry and an orange slice."
+    }
+   ]
+  },
+  {
+   "name": "Pink Squirrel",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05084535/pink-squirrel-720x720-recipe.jpg",
+   "about": "This cocktail has a good deal in common with the Brandy Alexander and the Grasshopper with its crème de cacao and cream. Where it differs markedly is in the inclusion of crème de noyaux, a once popular but relatively forgotten liqueur that is similar to amaretto. The red color of the liqueur usually comes from cochineal, which doesn’t affect the singular herbal-meets-bitter almond flavor.",
+   "ingredients": [
+    {
+     "ingredient": "Tempus Fugit crème de noyaux",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Tempus Fugit white crème de cacao",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Heavy cream",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients into a shaker filled of ice and shake until cold."
+    },
+    {
+     "how": "Strain into a chilled coupe glass, and garnish with grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Rusty Nail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/05093329/rusty-nail-720x720-recipe.jpg",
+   "about": "Cocktails don’t come much easier than this one, which has been around since the late 1930s. A lot of recipes suggest equal parts, but you’re better off starting with two ounces of scotch and a half ounce of Drambuie, tinkering until you find your personal ratio. No matter how you drink it, you’ll be channeling the Rat Pack in no time.",
+   "ingredients": [
+    {
+     "ingredient": "Blended scotch whisky",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Drambuie liqueur",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine the ingredients in a rocks glass, add 1 large ice cube, and stir."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Maribell’s Late Again",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/04141555/maribells-late-again-720-720-recipe-v3.jpg",
+   "about": "This savory cocktail by bartender Reid Lewis at Dallas’ Bowen House features rosemary-infused olive oil.",
+   "ingredients": [
+    {
+     "ingredient": "Ransom Old Tom gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Don Ciccio & Figli finocchietto liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dolin Blanc",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Celery bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Rosemary-infused Spanish olive oil*"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients except for the olive oil in a mixing glass and stir."
+    },
+    {
+     "how": "Pour into a Nick & Nora glass, and top with the olive oil."
+    },
+    {
+     "how": "Garnish with a lemon peel speared with a rosemary sprig."
+    },
+    {
+     "how": "*Rosemary-infused Spanish olive oil: Take a large handful of fresh rosemary stems, split them into 2 equal parts, then moderately roast 1 part with a brulee torch. The other half remains fresh. Simmer 2 cups Spanish olive oil, add all of the rosemary, and simmer at low heat for 20 minutes. Strain through a cheesecloth into an eyedropper."
+    }
+   ]
+  },
+  {
+   "name": "Dr. Osthimer",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/19114324/few-dr-osthimer-main-720x720.png",
+   "about": "This shaken cocktail has just enough citrus to brighten up the sweet flavor profile. It’s precisely what the doctor ordered.",
+   "ingredients": [
+    {
+     "ingredient": "FEW bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Tempus Fugit crème de cacao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1⁄2"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a shaker, and dry-shake (without ice), then shake with ice."
+    },
+    {
+     "how": "Double-strain into a sherbet glass."
+    },
+    {
+     "how": "Garnish with 6 mint sprigs and 4 dashes of Angostura bitters."
+    }
+   ]
+  },
+  {
+   "name": "La Bruja Dulce",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/19114316/few-bruja-dulce-main-720x720.png",
+   "about": "La Bruja Dulce is a witch’s brew of high-quality rye and stand-out liqueurs. The spirit-forward cocktail perfectly balances sweet and spicy flavors.",
+   "ingredients": [
+    {
+     "ingredient": "FEW rye",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Luxardo Amaretto di Saschira liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Ancho Reyes ancho chile liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Leopold Bros. maraschino liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Bittercube Corazón bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Bittercube Jamaican #1 bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a mixing glass, and stir."
+    },
+    {
+     "how": "Pour into a bucket glass, and garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Wabash Avenue Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/19114331/few-wabash-ave-sour-main-720x720.png",
+   "about": "The Wabash Avenue Sour updates the Whiskey Sour by adding Chicago’s own FEW bourbon or rye. And that’s not the only ingredient shaking up the classic recipe.",
+   "ingredients": [
+    {
+     "ingredient": "FEW bourbon or rye",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cherry liqueur (Cherry Heering or Luxardo Sangue Morlacco)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Small Hand Foods pineapple gum syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients and dry-shake (without ice), then add ice, and shake again."
+    },
+    {
+     "how": "Strain into coupe and garnish with rhubarb bitters."
+    }
+   ]
+  },
+  {
+   "name": "NOLET’S Strawberry Mint Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/03141056/nolets_strawberrymintpunch_main_720x7201.jpg",
+   "ingredients": [
+    {
+     "ingredient": "Large strawberries",
+     "amount": "1 1⁄2"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "5"
+    },
+    {
+     "ingredient": "NOLET’S silver gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Juice of 1.5 limes",
+     "amount": "1 1⁄2"
+    },
+    {
+     "ingredient": "Soda water"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the strawberries and mint."
+    },
+    {
+     "how": "Add the gin, simple syrup and lime juice with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a Collins or Highball glass over ice, and top with the soda water."
+    },
+    {
+     "how": "To make punch, multiply by 4 and get after it!."
+    }
+   ]
+  },
+  {
+   "name": "Lunar Eclipse",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/22135405/turmeric-lunar-eclipse-720-720-recipe.jpg",
+   "about": "At upscale Dallas gastropub Victor Tangos, bartender Matt Ragan wanted to offer his guests a turmeric-infused vodka drink that could give them a nice healthy buzz.",
+   "ingredients": [
+    {
+     "ingredient": "Turmeric-infused vodka*",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Carrot juice**",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "honey",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients into a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass over ice, and garnish with a celery stick."
+    },
+    {
+     "how": "*Turmeric-infused vodka: Combine 1 stick chopped turmeric and 750 mL vodka, and let infuse for 24 hours. Check to taste, and let infuse longer as needed. Strain."
+    }
+   ]
+  },
+  {
+   "name": "Vodka Red Bull",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/22114511/vodka-red-bull-720x720-recipe.jpg",
+   "about": "Sometimes you want an expertly made and well-balanced cocktail. And sometimes you want some booze and artificial energy. Enter the Vodka Red Bull, once and arguably still quite popular at many city clubs and beyond.",
+   "ingredients": [
+    {
+     "ingredient": "Vodka",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Red Bull can",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a highball glass over ice and stir."
+    }
+   ]
+  },
+  {
+   "name": "Blow Job",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/22114129/Blow-Job-Shot-720x720-recipe.jpg",
+   "about": "This layered shot originated around the early ’90s in the U.S. and is meant to be imbibed hands-free.",
+   "ingredients": [
+    {
+     "ingredient": "Amaretto liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Irish cream liqueur",
+     "amount": "6 ml"
+    },
+    {
+     "ingredient": "Whipped cream"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shot glass, slowly pour the amaretto, then the Irish cream, and top it with the whipped cream without mixing."
+    },
+    {
+     "how": "1K+\nSave"
+    }
+   ]
+  },
+  {
+   "name": "Vodka Gimlet",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/22114757/vodka-gimlet-720x720-recipe.jpg",
+   "about": "The classic Gimlet takes gin, but many opt for this vodka version.",
+   "ingredients": [
+    {
+     "ingredient": "Vodka\nTry it with Absolut",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Asian Pear",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/22081033/Asian-Pear-720x720-recipe.jpg",
+   "about": "HKB baijiu was created as a “gateway” baijiu for the Western palate. Orson Salicetti, at New York City’s Lumos, uses it in this cocktail for its floral, lightly sweet notes, which complement the pear juice and liqueur. With the inclusion of agave and lime, this is essentially a sour with some additional components.",
+   "ingredients": [
+    {
+     "ingredient": "HKB baijiu",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "White pear juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Pear liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Lumos spice elixir*",
+     "amount": "5 dashes"
+    },
+    {
+     "ingredient": "Agave syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a coupe glass, and garnish with a fresh sage leaf."
+    },
+    {
+     "how": "*Lumos spice elixir: Infuse 1 part allspice, clove and cinnamon separately in 3 parts baijiu. After 3 weeks, strain and taste each infusion, then combine the infusions. Transfer to a dropper and use by single drops as it is very powerful."
+    }
+   ]
+  },
+  {
+   "name": "Kir Royale",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/21135126/kir-royale-720x720-article.jpg",
+   "about": "The best-known Champagne cocktail, the Kir Royale, turns any glass of bubbly into a special occasion.",
+   "ingredients": [
+    {
+     "ingredient": "Crème de Cassis",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dry sparkling wine"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the crème de cassis to a Champagne flute, and top with the sparkling wine."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Smoke on the Water",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/19113034/3-Tips-for-Lighting-Your-Drink-on-Fire-Without-Burning-Everything-Down-720x720-article.jpg",
+   "about": "This day-drinking-ready cocktail from Carlos Perez at Chicago’s Nellcote is simultaneously elegant and ready to blaze.",
+   "ingredients": [
+    {
+     "ingredient": "Banhez Mezcal Artesanal",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Hibiscus simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh watermelon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass."
+    },
+    {
+     "how": "Soak a fresh rosemary sprig upside down with 100-proof alcohol for five minutes."
+    },
+    {
+     "how": "Put the sprig upright in the rocks glass, and light right before the first sip."
+    }
+   ]
+  },
+  {
+   "name": "Maple Smoked Rumhattan",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/19122104/maple-smoked-rumhattan-720x720-recipe.jpg",
+   "about": "This drink from Zak Doy of Toronto’s Rush Lane & Co. enlists the help of a maple plank for smoking the inside of a glass (and reinforces Canadian pride, of course).",
+   "ingredients": [
+    {
+     "ingredient": "Maple plank",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Mount Gay Extra Old rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fernet-Branca",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Regans’ Orange Bitters No. 6",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Smoked mezcal bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Char the maple plank with the flame from a blowtorch, then cover the smoking surface with the glass so the smoke coats the inside of the glass with the maple aromatic."
+    },
+    {
+     "how": "Add all of ingredients to the smoked glass with one large ice cube, and stir to combine."
+    }
+   ]
+  },
+  {
+   "name": "Holywater",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/19121442/holywater-720x720-recipe.jpg",
+   "about": "“The fire caramelizes the sugar, giving the drink depth and added richness,” says Lauren Schell of Seaworthy in New Orleans. “It’s a crucial element of balance, in addition to being eye-catching and purposefully interactive.” The Chartreuse-meets-sugar fire inside a hollowed-out lime might be simple to create but is a visual stunner while simultaneously helping to balance out the drink’s citrus notes.",
+   "ingredients": [
+    {
+     "ingredient": "Spiced rum",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orgeat Syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except for the Chartreuse, bitters and sugar cube into a shaker, and dry-shake."
+    },
+    {
+     "how": "Pour into a chilled rock glass, top with crushed ice, and float 3 dashes of Angostura bitters."
+    },
+    {
+     "how": "Hollow out a lime half, and place it cut side up on top of the drink. Add the Chartreuse and sugar cube to the lime half. Light the lime half, aiming for the Chartreuse, let it burn for 10 to 15 seconds, and blow out the flame."
+    }
+   ]
+  },
+  {
+   "name": "Boozy Hot Chocolate",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/19131038/boozy-hot-chocolate-720x720-article.jpg",
+   "about": "A perfectly decadent after-dinner treat for your next party. Set out a few bottles of your favorite spirits and liqueurs and let your guests choose their own adventure.",
+   "ingredients": [
+    {
+     "ingredient": "Finely chopped semisweet chocolate",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Hot milk",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Spirit of choice (Kahlúa, Baileys Irish Cream, peppermint schnapps, Green Chartreuse or bourbon)",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Put the chopped chocolate in an Irish Coffee mug."
+    },
+    {
+     "how": "Pour the hot milk into the mug and let stand for 2 minutes, then stir with a spoon until smooth."
+    },
+    {
+     "how": "Pour in the spirit of your choice and stir to combine."
+    },
+    {
+     "how": "Garnish with mini marshmallows."
+    }
+   ]
+  },
+  {
+   "name": "Stone Fence",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/09/14141931/stone-fence-720x720-article.jpg",
+   "about": "This two-ingredient autumnal classic is traditionally made using two ounces of rye, bourbon, rum or brandy and topped with apple cider.",
+   "ingredients": [
+    {
+     "ingredient": "Rye, bourbon, rum or brandy",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Apple cider"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the spirit and bitters to a Collins glass over ice."
+    },
+    {
+     "how": "Fill the glass to the brim with the cider and stir."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Cardinal Penicillin",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/12140836/cardinal-penicilin-720x720-recipe.jpg",
+   "about": "This variation of the Penicillin is a local favorite at The Punch Room, at The Ritz-Carlton Charlotte, and is made with honey from beehives at the restaurant’s rooftop garden and locally grown ginger.",
+   "ingredients": [
+    {
+     "ingredient": "Cardinal Barrel Rested gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "House-made honey ginger syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a rocks glass with smoked lava sea salt."
+    },
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Double-strain into the prepared glass over ice."
+    },
+    {
+     "how": "*Honey ginger syrup: Add 2 cups water and 3 thumb-size pieces of peeled and thinly sliced ginger to a small pot, and bring to a boil. Reduce to a simmer for 30 minutes. Add 1.5 cups local honey, strain out the ginger, and let cool. Store in the refrigerator. Keeps up to 3 weeks."
+    }
+   ]
+  },
+  {
+   "name": "Draw Play",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/08084145/the-draw-play-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Wild Turkey 101 bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cynar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Honey syrup (1:1 honey:water)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Basil leaves",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Bundaberg blood orange soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the blood orange soda to a shaker with ice, and shake until cold."
+    },
+    {
+     "how": "Fine-strain over ice into a Collins glass, fill to top with the soda, and garnish with a basil leaf and straw."
+    }
+   ]
+  },
+  {
+   "name": "Gold Rusher",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/08080621/the-gold-rusher-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fernet-Branca",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Ginger solution*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Honey syrup (3:1 honey:water)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until cold."
+    },
+    {
+     "how": "Double-strain over a large handcut chunk of ice into a rocks glass, and garnish with a mint sprig."
+    },
+    {
+     "how": "*Ginger solution: Heat 1 part water in a small pot over medium heat. Add 1 part sugar and 1 part ginger juice, and stir until the sugar is completely dissolved. Remove from heat and let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Abbott Road",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/07161404/abbott-road-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Tommyrotter American gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Concord grape shrub*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lockhouse Ibisco bitter",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Honey syrup (2:1, honey:water)",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice and stir until cold."
+    },
+    {
+     "how": "Double-strain over a large ice cube into a rocks glass, and garnish with an apple skin twist and green apple foam."
+    },
+    {
+     "how": "*Concord grape shrub: Combine 1 cup pureed concorde grapes (pushed through a sieve to remove seeds and skins) with 1 cup raw sugar in a small saucepan over medium heat. Stir until the sugar is completely dissolved. Add 1/4 cup white wine vinegar, 1/4 cup red wine vinegar and a pinch of salt. Bring to a boil and allow to reduce by half. Cool to room temperature before using. Will keep in the refrigerator for at least 1 month."
+    },
+    {
+     "how": "**Green apple foam: In a bowl, combine 450 grams Granny Smith apple juice, 10 grams citric acid, 120 grams granulated sugar and 5 grams gelatin. Stir and pour into an iSi canister, and charge once before using to top the drink."
+    }
+   ]
+  },
+  {
+   "name": "Death Star",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/07162437/The-Deathstar-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Tequila Cabeza blanco",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Giffard blue curaçao liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cinnamon agave syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a coupe glass with salt."
+    },
+    {
+     "how": "Add all of the ingredients to shaker, and dry-shake (without ice) to aerate the ingredients with the egg white."
+    },
+    {
+     "how": "Wet-shake (with ice), and fine-strain into the prepared glass."
+    },
+    {
+     "how": "Use a star stencil and spray a blue curaçao star on top of the drink."
+    },
+    {
+     "how": "*Cinnamon agave syrup: Simmer 6 cinnamon sticks in a 1:1 agave:water simple syrup for 5 minutes. Remove from heat and let cool. Discard cinnamon sticks before using."
+    }
+   ]
+  },
+  {
+   "name": "Rye-se Up",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/07151907/rye-se-up-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.\nAMER bartender David Petro’s Atlanta Falcons–inspired cocktail is made with rye whiskey and is served up, as he says, “to represent the Falcons high-flying offense.” The deep red color evokes the team’s color. Petro uses lemon sherbet to deepen the flavors of the drink and egg white to give it a nice rich texture.",
+   "ingredients": [
+    {
+     "ingredient": "Rittenhouse rye",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cherry Heering liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon sherbet",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cappelletti Amaro Sfumato Rabarbaro",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Cane sugar simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice and shake until frothy and very cold."
+    },
+    {
+     "how": "Strain into a coupe, and garnish with a cherry and grating of orange zest."
+    }
+   ]
+  },
+  {
+   "name": "Little FIB",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/07144538/little-fib-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team. Hastings Cameron, a bartender at several Madison, Wisc., bars, including Imaginary Bar, describes this cocktail tribute to the Green Bay Packers as a “perverse Shamrock shake,” in which the mint and fennel of Strega are fortified by similar notes in gin from Death’s Door Spirits, a Wisconsin distillery.\n“I grew up in Chicago rooting for the Packers as a little contrarian,” says Cameron. “As an adult, I still love blue and orange (mostly orange) but couldn’t possibly care less about the Bears, or the Cubs for that matter,” he says. While this drink was purely aesthetically inspired by the Packers’ team colors—“Lil Wayne didn’t need anything more than the team’s colors to inspire this,” says Cameron—it involves a pretty complex matcha foam, evidence of Cameron’s tendency toward molecular gastronomy-like bartending.",
+   "ingredients": [
+    {
+     "ingredient": "Liquore Strega",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Tequila Ocho Plata",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Death’s Door gin",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dolin dry vermouth",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Clear Creek muscat grappa",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "St. George Spirits Green Chile vodka",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Saline solution (or tiny pinch of salt)",
+     "amount": "2 drops"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice and stir."
+    },
+    {
+     "how": "Strain into a coupe, express the oil of a lime peel, and garnish with the peel."
+    },
+    {
+     "how": "Top with matcha foam."
+    },
+    {
+     "how": "*Matcha foam: Whisk 10 grams matcha with 600 grams hot water. Divide the tea evenly into 2 plastic containers. While still hot, add .95 percent gelatin by mass to the first container and whisk. Allow the second container to cool, then whisk in 2 percent xanthan gum by mass. Combine the two containers, and whisk in 1 barspoon hydrated gomme. Whisk in 100 grams of simple syrup and a pinch of ascorbic acid. Place in an ice bath to cool completely. Fill an iSi canister with ice water to cool. After 15 minutes, empty the water and fill the canister with the matcha foam base. Screw on the lid, add charge, shake, vent, add second charge, shake, vent, add third charge, shake, vent."
+    }
+   ]
+  },
+  {
+   "name": "Front Seven",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/07142156/front-seven-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.\n“The D line and the linebackers are the strongest group in the Ram’s current lineup,” says John Coltharp, the head bartender at Los Angeles’ Seven Grand. “This stiff cocktail is a tribute to those seven players; it also features the earthy flavors the Rams want the opposing running back to experience when they shove his face into the ground.”",
+   "ingredients": [
+    {
+     "ingredient": "Slow Hand white whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cynar",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Peychaud's bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice and stir until cold."
+    },
+    {
+     "how": "Strain into a rocks glass over ice."
+    },
+    {
+     "how": "Express the oil from a lemon peel over top of the drink and garnish with the peel on the ice, skin up."
+    }
+   ]
+  },
+  {
+   "name": "Prairie Buzz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05121246/prairie-buzz-720-720-recipe.jpg",
+   "about": "The ideal nightcap for the coffee-inclined, the combination of cold brew and chinato in this cocktail by The Bennett in New York City make for the perfect balance of caffeinated zip and herbal calm.",
+   "ingredients": [
+    {
+     "ingredient": "Rieger’s Kansas City whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Vino chinato",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cinnamon syrup",
+     "amount": "1 barspoon"
+    },
+    {
+     "ingredient": "Cold-brew coffee",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amaretto liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Cream",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain over one rock into a rocks glass, and garnish with a dusting of ground nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Lynx",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05121705/lynx-720-720-recipe.jpg",
+   "about": "If you’re looking to add a little chill to your pre-dinner coffee but don’t quite want to go the cold-brew route, the Lynx at Cambridge, Mass.’s Park is the cocktail for you. Instead of serving the drink over ice, the chilling agent is actually a giant, frozen cube of coffee. (This idea could get very dangerous, very fast.)",
+   "ingredients": [
+    {
+     "ingredient": "Maison Rouge cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cream",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Amaro Meletti",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Bittermens Xocolatl Mole bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Large frozen cube of coffee",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients, except for the cube of coffee, in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass over the large frozen coffee cube."
+    }
+   ]
+  },
+  {
+   "name": "Spark & Stormy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05085210/These-Exciting-Coffee-Cocktails-Will-Take-You-All-the-Way-from-Morning-to-Night-720x720-article.jpg",
+   "about": "Who says coffee cocktails can’t be a little topical? This creation from Vance Henderson of Drambuie not only adds in the juiciness of pineapple but also notes of fresh basil and a splash of mezcal—just for fun.",
+   "ingredients": [
+    {
+     "ingredient": "Drambuie",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Mezcal",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Chameleon coffee concentrate",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Club soda, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients, except for the club soda, in a shaker with ice and shake."
+    },
+    {
+     "how": "Double-strain over fresh ice in a Collins glass, and top with the club soda."
+    },
+    {
+     "how": "Garnish with 3 fresh basil leaves."
+    }
+   ]
+  },
+  {
+   "name": "Shoulda Benne Pirate",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05115020/shoulda-benne-pirate-720-720-recipe.jpg",
+   "about": "This sweet, locally inspired coffee drink from Harold’s Cabin in Charleston, S.C., adds a crumble of benne seed wafers, a South Carolina low country staple, for a unique, crunchy garnish. If you can’t find benne seed wafers, use thin sesame wafers instead.",
+   "ingredients": [
+    {
+     "ingredient": "Strawberry-infused Striped Pig rum*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cold-brew coffee",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Baileys Irish cream",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled coupe glass, and garnish with benne seed wafer crumble."
+    },
+    {
+     "how": "*Strawberry-infused Striped Pig rum: Fill a Mason jar with halved strawberries, and add Striped Pig rum to completely cover the strawberries. Store in a cool, dark place for up to 2 weeks. The berries will turn ghost white. Strain through a metal strainer into a second jar. Keeps for 3 months."
+    }
+   ]
+  },
+  {
+   "name": "Midnight Oil",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05112956/midnight-oil-720-720-article.jpg",
+   "about": "“The Midnight Oil brings to life in cocktail form one of my all-time favorite snack combos: a morning coffee and a slice or two of banana bread,” says bartender Brett Esler of Whisler’s in Austin. “With an aged rum base, a touch of the Domaine de Canton ginger liqueur for a little depth and some vanilla extract to round it out, you have yourself a slightly caffeinated, fall-driven sipper.”",
+   "ingredients": [
+    {
+     "ingredient": "Mount Gay Black Barrel rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Stumptown cold-brew coffee",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Domaine de Canton ginger liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Giffard Banane du Brésil liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Vanilla extract",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe, and garnish with a skewered bruleed banana slice."
+    }
+   ]
+  },
+  {
+   "name": "Espresso Milk Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/05110740/esspresso-milk-punch-720-720-article.jpg",
+   "about": "A coffee-flecked spin on the classic brunch cocktail the Bourbon Milk Punch, this drink has quickly become a weekend favorite at New Orleans’ Cavan. The chicory liqueur adds an extra special New Orleans flourish.",
+   "ingredients": [
+    {
+     "ingredient": "Evan WIlliams White bourbon",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Varnelli Caffe Moka",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Hoodoo chicory liqueur",
+     "amount": "4 ml"
+    },
+    {
+     "ingredient": "Heavy cream",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour the bourbon, Caffe Moka and chicory liqueur in a rocks glass filled with ice."
+    },
+    {
+     "how": "Top with the cream to fill glass."
+    },
+    {
+     "how": "Stir once, and sprinkle with freshly ground espresso to garnish."
+    }
+   ]
+  },
+  {
+   "name": "Under the Mistletoe",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/09154141/Under-The-Mistletoe-Marriott-Harbor-Center-Buffalo-NY_720x720.jpg",
+   "ingredients": [
+    {
+     "ingredient": "NOLET'S silver gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Chambord liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cartron Crème de Pêche Vigne liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "1 barspoon"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a mixing glass with ice and shake."
+    },
+    {
+     "how": "Double-strain into coupe glass, and garnish with a mint sprig and raspberry."
+    }
+   ]
+  },
+  {
+   "name": "Sugared Cranberry Ginger Mimosa",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/01111828/sugared-ginger-cranberry-mimosa-720sq.jpg",
+   "about": "This three-ingredient celebration cocktail from The Cookie Rookie couldn’t be simpler. It’s perfect for every winter holiday, from Thanksgiving straight through to Valentine’s Day.",
+   "ingredients": [
+    {
+     "ingredient": "Ginger ale or ginger beer",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cranberry juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Champagne",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a Champagne flute."
+    },
+    {
+     "how": "Garnish with sugared granberries."
+    }
+   ]
+  },
+  {
+   "name": "Smoke Show",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/01145657/smoke-show-720x720-recipe.jpg",
+   "about": "The bright, fresh taste and warming herbal properties of this cocktail by bartender Liz Martinez at The Purple Pig bring to mind Christmas trees, cold snowy mornings and evenings spent by a crackling fire.",
+   "ingredients": [
+    {
+     "ingredient": "Mezcal",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cynar",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white foam"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Shake all of ingredients in a shaker with ice until chilled."
+    },
+    {
+     "how": "Strain into a Martini glass, and garnish with cinnamon shavings."
+    }
+   ]
+  },
+  {
+   "name": "Robin Redbreast",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/01145204/robin-redbreast-720x720-recipe.jpg",
+   "about": "If you’d like to make your drink a festive shade of red for the holidays, try this vodka cocktail with blood orange. “Blood oranges have a slightly different flavor than the oranges we are most accustomed to,” says Kevin Denton, the national mixologist for Pernod Ricard. “The main thing to remember is that orange juice, particularly anything not freshly squeezed, is much more mellow in cocktails that we think it’s going to be.”",
+   "ingredients": [
+    {
+     "ingredient": "Absolut vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Blood orange juice or puree",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Triple sec",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Shake all of ingredients in a shaker with ice until chilled."
+    },
+    {
+     "how": "Strain into a coupe glass, and garnish with an edible orchid and orange rind."
+    }
+   ]
+  },
+  {
+   "name": "Broadway Joe",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/02111218/Broadway-Joe-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Coffee-infused Espolón blanco tequila*",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Brinley Gold Shipwreck coconut rum cream",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Dolin Génépy des Alpes liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Vanilla simple syrup**",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker filled halfway with ice, and shake for 5 seconds."
+    },
+    {
+     "how": "Strain into a stemmed Collins glass filled with crushed ice, and garnish with edible green glitter, 3 mint sprigs and 3 chocolate-covered coffee beans."
+    },
+    {
+     "how": "*Coffee-infused tequila: Combine 1 tsp whole coffee beans and 750 mL blanco tequila. Let sit for 1 hour, then strain out the beans."
+    },
+    {
+     "how": "**Vanilla simple syrup: Slice 2 vanilla beans down the middle with a paring knife. With a spoon, scrape the vanilla into to a medium pot filled with 4 cups water. Bring to a boil and add 4 cups superfine sugar. Bring to a simmer and stir until the sugar dissolves. Remove from heat and allow to cool to room temperature, then strain out the vanilla bean through a fine-mesh strainer. Keeps in the refrigerator for up to 1 week."
+    }
+   ]
+  },
+  {
+   "name": "Green Holiday",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/01144455/green-holiday-720x720-recipe.jpg",
+   "about": "If you’d like to make your drink a festive shade of green for the holidays, try this vodka and wheatgrass recipe. “Wheatgrass shots are so shockingly green that I knew as a cocktail ingredient they would add some sweet, fresh and lusciously vegetal flavors,” says Kevin Denton, the national mixologist for Pernod Ricard.",
+   "ingredients": [
+    {
+     "ingredient": "Absolut Citron vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Wheatgrass juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Shake all of the ingredients in a shaker with ice until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass with no ice, and garnish with 3 mint leaves and a watermelon radish slice."
+    }
+   ]
+  },
+  {
+   "name": "Flying Elvis",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/02104221/Flying-Elvis-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Privateer Navy Yard rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Amaro di Angostura",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Giffard Banane du Brésil liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Angostura bitters"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker, and shake without ice until emulsified for about a slow 5 count."
+    },
+    {
+     "how": "Add ice and shake vigorously for a slow 10 count or until the shaker frosts over."
+    },
+    {
+     "how": "Fine-strain into a lowball glass without ice, and garnish with a few dots of Angostura bitters in the shape of the Patriots’ Flying Elvis logo (to the best of your artistic ability)."
+    }
+   ]
+  },
+  {
+   "name": "Spirit of ’72",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/12/02102908/spirit-72-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Reposado tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Blue curaçao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Florida orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Jalapeño agave syrup*",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Cut an orange peel into the shape of a dolphin."
+    },
+    {
+     "how": "Strain the mix into a rocks glass over ice, and garnish with the orange peel."
+    },
+    {
+     "how": "Jalapeño agave syrup: Combine 12 oz agave syrup, 12 oz filtered water and 2 to 3 sliced jalapeños in a saucepot. Bring to a boil over medium-high heat, stirring occasionally. Reduce heat and simmer for 30 minutes, tasting periodically until reaching desired level of spiciness. Remove from heat and skim off and discard jalapeño slices. Cool to room temperature before using. Will keep in the refrigerator for about 1 month."
+    }
+   ]
+  },
+  {
+   "name": "K.C. Wolf",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/29125908/kc-wolf-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "J. Rieger & Co. Midwestern dry gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Wild plum syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Apple cider vinegar",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Boulevard Tank 7 Farmhouse ale",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the gin, syrup, lemon juice and vinegar to a shaker filled with ice and shake until chilled."
+    },
+    {
+     "how": "Strain into a tulip glass over ice, top up with the ale, and fill with more ice."
+    },
+    {
+     "how": "Garnish with freshly grated cinnamon, 1 cinnamon stick and a straw."
+    },
+    {
+     "how": "*Wild plum syrup: Add sliced plums and sugar (2:1, plums:sugar, by weight) in a small pot and cook over medium heat until the plums become very soft and the sugar is completely dissolved. Strain out the solids through a chinois, and let cool."
+    }
+   ]
+  },
+  {
+   "name": "Manhattan On $15 A Day",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/23095215/manhattan-on-15-a-day-720x720-recipe.jpg",
+   "about": "Adam McDowell’s book Drinks: A User’s Guide offers ways to enjoy a cocktail under less-than-ideal circumstances, calling such a drink an ad-hoctail, including this Manhattan On $15 A Day.",
+   "ingredients": [
+    {
+     "ingredient": "Canadian whisky",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cherry cola"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the whisky to a rocks glass with ice, swirl it around a bit, and fill the glass with the cherry cola."
+    }
+   ]
+  },
+  {
+   "name": "Off-White Russian No. 1",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/23094540/off-white-russian-no1-720x720-recipe.jpg",
+   "about": "Adam McDowell’s book Drinks: A User’s Guide offers ways to enjoy a cocktail under less-than-ideal circumstances, calling such a drink an ad-hoctail, including this Off-White Russian No. 1, a boozy version of a childhood favorite.",
+   "ingredients": [
+    {
+     "ingredient": "Vodka",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "8-oz Chocolate milk carton",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour the vodka into the chocolate milk carton, close the spout, and shake."
+    },
+    {
+     "how": "Drink through a straw, if available."
+    }
+   ]
+  },
+  {
+   "name": "Un-Cosmopolitan",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/23093509/uncosmopolitan-720x720-recipe.jpg",
+   "about": "Adam McDowell’s book Drinks: A User’s Guide offers ways to enjoy a cocktail under less-than-ideal circumstances, calling such a drink an ad-hoctail, including this Un-Cosmopolitan.",
+   "ingredients": [
+    {
+     "ingredient": "Vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cherry Kool-Aid"
+    },
+    {
+     "ingredient": "Orange soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the vodka and Kool-Aid into a child’s sippy cup with ice."
+    },
+    {
+     "how": "Close the lid, shake, add a splash of orange soda, and enjoy."
+    }
+   ]
+  },
+  {
+   "name": "Broncos Sunset",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/22182523/bronces-sunset-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Blue curaçao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Suerte silver tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Ancho Reyes chile liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Aperol",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Orange juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "4 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the blue curaçao to the bottom of a rocks glass, and top with crushed ice."
+    },
+    {
+     "how": "Add all of the other ingredients into a shaker filled with ice and shake."
+    },
+    {
+     "how": "Slowly pour into the glass over crushed ice, and garnish with a blood orange slice."
+    }
+   ]
+  },
+  {
+   "name": "Tom Coughlin Collins",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/22153133/tom-coughlin-collins-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Blueberries",
+     "amount": "10"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Old Tom gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Prosecco"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the blueberries, lemon juice and simple syrup."
+    },
+    {
+     "how": "Add the gin, fill with ice, and shake."
+    },
+    {
+     "how": "Pour, without straining, into a highball glass, top with the prosecco, and garnish with 8 blueberries."
+    }
+   ]
+  },
+  {
+   "name": "Burgundy & Gold",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/22151432/burgundy-and-gold-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Copper Fox rye whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Boiron unsweetened kalamansi puree",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Pomegranate molasses",
+     "amount": "1 barspoon"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Ruby port",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except for the port to a shaker filled with ice, and shake until frothy and chilled."
+    },
+    {
+     "how": "Strain into a rocks glass filled with ice, and gently float the ruby port over the back of a barspoon on top of the drink."
+    }
+   ]
+  },
+  {
+   "name": "Port Authority",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/22145915/port-authority-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Foursquare Port Cask Finish rum",
+     "amount": "55 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cinnamon syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dry red wine",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "pomegranate grenadine",
+     "amount": "1 barspoon"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the wine to a shaker filled with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass filled with ice, and float the wine over the back of a barspoon on top of the drink."
+    },
+    {
+     "how": "Garnish with a lemon wheel dusted with Chinese five-spice powder."
+    },
+    {
+     "how": "*Cinnamon syrup: Add 1 cup sugar, 1 cup water and 2 cinnamon sticks to a small saucepan over medium heat. Stir until the sugar is fully dissolved. Remove from heat and let cool to room temperature. Remove the cinnamon sticks, and store in the refrigerator until ready to use."
+    }
+   ]
+  },
+  {
+   "name": "Blue Steele Slushie",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/21090537/blue-steele-slushie-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team. Every Friday of football season, in honor of the Colts, Indianapolis’ Spoke & Steele serves these electric-blue drinks from a slushie machine alongside its spicy “famous nug” meatballs during happy hour.",
+   "ingredients": [
+    {
+     "ingredient": "Effen vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Blue curaçao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Spiced simple syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Plum bitters (or Angostura orange bitters)",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Saline solution (1:1 salt:water)",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a blender, blend until smooth, and serve in a rocks glass."
+    },
+    {
+     "how": "*Spiced simple syrup: Add 1 cup water, 1 cup sugar, 1 cinnamon stick, 4 whole cloves, freshly grated nutmeg and a couple of pieces of lemon peel to a small saucepan over medium heat. Stir until the sugar is completely dissolved, and bring to a gentle simmer. Remove from heat, allow to cool to room temperature, and strain."
+    }
+   ]
+  },
+  {
+   "name": "Gjallarhorn",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/21085508/the-gjallarhorn-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Tattersall jalapeño-infused aquavit*",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Lustau amontillado sherry",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "3⁄4 ml"
+    },
+    {
+     "ingredient": "Earl Giles blueberry-thyme shrub**",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Earl Giles vanilla syrup***",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Truffle bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Pinch Black sea salt"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of ingredients to a shaker with dense ice and shake vigorously."
+    },
+    {
+     "how": "Double-strain into a cocktail glass over a chunk of hand-chipped ice."
+    },
+    {
+     "how": "*Jalapeño-infused aquavit: Steep one large washed and slice jalapeño in a 750 mL bottle of aquavit for four to six hours, then remove the jalapeño."
+    },
+    {
+     "how": "**Homemade blueberry-thyme shrub: Make a syrup by combining 1 cup gently crushed blueberries, 1 cup water, 1 cup sugar and a few thyme sprigs of in a small saucepan over medium heat. Stir until the sugar is completely dissolved and remove from heat. Strain when cooled. Combine 2/3 blueberry-thyme syrup with 1/3 apple cider vinegar. Store in the refrigerator until use."
+    },
+    {
+     "how": "***Homemade vanilla syrup: Combine 1 cup water, 1 cup sugar and 2 halved vanilla beans in a small pot over medium heat. Stir until the sugar is completely dissolved and remove from heat. When cool, strain into a plastic container, and refrigerate until use."
+    }
+   ]
+  },
+  {
+   "name": "Buddy’s Busy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/21084037/buddys-busy-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Maker's Mark 46 bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Bärenjäger liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Jeppson’s Malört liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Buckwheat honey (or clover honey)",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Hot-brewed Davids Tea Pumpkin Chai black tea (or any chai)",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Heavy whipping cream",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add heavy whipping cream to an empty bottle, and shake until lightly whipped for about 1 minute."
+    },
+    {
+     "how": "Add the bourbon, liqueurs, honey, lemon juice and hot tea to a mug."
+    },
+    {
+     "how": "Top the drink with the whipped cream, and garnish with freshly grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "12th Man Fizz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/21082821/12th-man-fizz-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "OOLA gin (or other bright, floral gin)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Apricot brandy",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Rachel’s Ginger Beer (or other high-quality ginger beer)",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Mint leaves, shredded",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Blueberries",
+     "amount": "1⁄2 cup"
+    },
+    {
+     "ingredient": "Kiwi fruit, peeled and sliced in wheels",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the gin, apricot brandy, lime juice, simple syrup and mint leaves to a shaker with ice and shake until cold."
+    },
+    {
+     "how": "Strain into a Collins glass filled with the blueberries, kiwi and ice."
+    },
+    {
+     "how": "Top off the drink with the ginger beer, and garnish with a mint leaf and straw."
+    }
+   ]
+  },
+  {
+   "name": "Muddled Pine",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/18081623/muddled-pine-720x720-recipe.jpg",
+   "about": "Nothing says winter holidays like a pine-themed drink. This one by bartender Carmen Polcyn at Chicago’s Bar Toma also utilizes cranberries and lemon, making it even more festive. Sip the nonalcoholic version all day, or make the cocktail at night for a cool, yet warming, seasonal tipple.",
+   "ingredients": [
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "dash"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Pine syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh cranberries",
+     "amount": "15"
+    },
+    {
+     "ingredient": "Gin or vodka (optional)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Lemon-lime soda",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the bitters, lemon juice, pine syrup and cranberries to a shaker, and muddle the cranberries."
+    },
+    {
+     "how": "Add the gin or vodka (optional) and ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass over ice, and top with the lemon-lime soda."
+    },
+    {
+     "how": "Garnish with 3 cranberries and a sprig of pine."
+    },
+    {
+     "how": "*Pine syrup: Bring 1 cup of water and 1 cup of sugar to a boil until dissolved. Reduce heat to low, and add a handful of chopped pine needles. Stir and remove from heat, and let sit for 2 hours. Strain and refrigerate. Keeps up to 3 weeks."
+    }
+   ]
+  },
+  {
+   "name": "Smoked Honey Toddy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/18081834/smoked-toddy-720x720-recipe.jpg",
+   "about": "There are two ways to make this warming winter drink: One involves smoking your own honey, and the other involves a cheat and buying already smoked honey (a good option is Bee Local white oak smoked honey). Jon Feuersanger, the beverage director of beast + bottle and Coperta in Denver, created this hot tipple that works with or without booze, and it’s perfect for drinking as the snow falls during your next civilized holiday get-together.",
+   "ingredients": [
+    {
+     "ingredient": "Famous Grouse Smoky Black blended scotch (optional)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Smoked honey*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Hot water",
+     "amount": "90 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the scotch (optional), lemon juice, smoked honey and hot water to a tea cup, and stir."
+    },
+    {
+     "how": "Garnish with a rosemary sprig, lemon wheel and grated nutmeg."
+    },
+    {
+     "how": "*Smoked honey: Heat 1 cup of water to a boil, and slowly stir in 2 cups of honey. Heat 1 hardwood charcoal briquette to white-hot temperature over a flame, and submerge it into the honey water. Allow to cool. Remove the briquette, and run the mixture through a fine-mesh strainer. Makes 4�\"6 servings."
+    }
+   ]
+  },
+  {
+   "name": "Christmas Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/18081322/christmas-punch-720x720-recipe.jpg",
+   "about": "At the award-winning Greenhouse Tavern in Cleveland, lead bartender Dave Taha has created the ultimate holiday tipple that tastes good with or without booze. “This one reminds me of Christmas at Grandma and Grandpa’s,” says Taha. “The fresh ginger gives it a bit of zing, and the tart cherry adds depth and balance, while the allspice and nutmeg lend their holiday spirit.” Whether you decide to drink it clean or spiked, it’s surely going to get you in the festive spirit.",
+   "ingredients": [
+    {
+     "ingredient": "Light rum (optional)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cranberry juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup (2:1)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Tart cherry juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Allspice",
+     "amount": "dash"
+    },
+    {
+     "ingredient": "Grated fresh ginger",
+     "amount": "dash"
+    },
+    {
+     "ingredient": "Freshly grated nutmeg",
+     "amount": "dash"
+    },
+    {
+     "ingredient": "Ginger ale",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients except for the ginger ale and nutmeg in shaker with ice and shake."
+    },
+    {
+     "how": "Strain into rocks glass over ice, and top with the ginger ale."
+    },
+    {
+     "how": "Gently stir, and garnish with ground ginger."
+    }
+   ]
+  },
+  {
+   "name": "Pumpkin Spiced Latte",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/10/25084024/11-Essential-Cocktails-for-your-November-Parties-720x720-article.jpg",
+   "about": "No matter how much we fight it, as the weather turns cooler, imbibers turn to pumpkin spiced lattes. But instead of heading to the coffee shop for an overly sweet version, use the slow-cooker recipe by bartender Norma Beekman of Lexington, Ky.’s Lockbox at 21c Museum Hotel Lexington, and make your own at home. Since the drink stays hot in the pot, you can serve it morning, noon and night. And for the boozy kick, you can spike it with a variety of spirits, such as dark rum, bourbon or Frangelico—the darker the better.",
+   "ingredients": [
+    {
+     "ingredient": "Dark rum, bourbon or Frangelico (optional)",
+     "amount": "240 ml"
+    },
+    {
+     "ingredient": "Freshly brewed coffee",
+     "amount": "5 cup"
+    },
+    {
+     "ingredient": "Pumpkin puree",
+     "amount": "1⁄4 cup"
+    },
+    {
+     "ingredient": "Milk",
+     "amount": "4 cup"
+    },
+    {
+     "ingredient": "Heavy whipping cream",
+     "amount": "1 cup"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "3⁄4 cup"
+    },
+    {
+     "ingredient": "Vanilla extract",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Pumpkin pie spice",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Cinnamon",
+     "amount": "1 stick"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Serves 10�\"12."
+    },
+    {
+     "how": "Add the liquor (rum, bourbon or Frangelico, optional), coffee, pumpkin puree, milk, sugar, vanilla extract, pumpkin pie spice, cinnamon stick and .5 cup of heavy whipping cream into a slow cooker, and heat on high for at least 90 minutes."
+    },
+    {
+     "how": "Whip the remaining .5 cup of cream until thick."
+    },
+    {
+     "how": "Serve the slow-cooker mixture in a mug, top with some of the whipped cream, and garnish with grated cinnamon or nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Smoky Limeade",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/18080534/smoky-limeade-720x720-recipe.jpg",
+   "about": "Though one thinks of limeade and lemonade as summer drinks, bartender Carmen Polcyn at Chicago’s Bar Toma gives this tipple that’s good with or without booze a wintery hint of rosemary and warming, smoky punch. You can spike the drink with tequila or mezcal, the latter adding even more smoky fun to the drink.",
+   "ingredients": [
+    {
+     "ingredient": "Tequila or mezcal (optional)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Smoked citrus juice*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Club soda or tonic water"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the tequila or mezcal (optional), citrus juice and simple syrup to a rocks glass with ice and stir."
+    },
+    {
+     "how": "Top with the club soda or, for more sweetness, the tonic water, and garnish with a sprig of rosemary."
+    },
+    {
+     "how": "*Citrus juice: Cut 1 lemon and 1 lime in half, and dip the open sides in turbinado sugar to coat. Grill each half over high heat, with the cut edge toward the flame, until the sugar has charred on the citrus. Once cooled, juice the fruit."
+    }
+   ]
+  },
+  {
+   "name": "Comrade",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/16081301/comrade-720x720-recipe.jpg",
+   "about": "It’s hard to deny that spaghetti squash seems like a head-scratcher of a cocktail ingredient, much like tequila feels a little more sand and surf than sweaters and scarves. But in the Comrade, the woodsy depth of spaghetti squash and innate vegetative notes of tequila sally forth in entirely novel ways, shining a light on their versatility.",
+   "ingredients": [
+    {
+     "ingredient": "Reposado tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Drambuie liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Spaghetti squash cordial*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Dry sherry",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Chocolate bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients into a mixing glass and stir until the glass begins to cloud."
+    },
+    {
+     "how": "Strain into a chilled coupe glass, and garnish with a cinnamon stick."
+    },
+    {
+     "how": "*Spaghetti squash cordial: Add 1.5 cups of squash purée, 1 cup of granulated sugar and 1 sprig of rosemary to a heavy-bottom saucepan, and bring to a rolling simmer over medium heat, stirring slowly. Remove from the heat and let cool. Strain through fine-mesh cloth into a clean bowl, and stir in 1 cup of vodka to the mixture until combined. Use immediately or refrigerate in an airtight container for up to 1 week."
+    }
+   ]
+  },
+  {
+   "name": "Hot Butter(nut) Rum",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/16080237/hot-butternut-rum-720x720-recipe.jpg",
+   "about": "This Toddy recipe from New York bitters powerhouse Amor y Amargo is named for the butternut squash it’s made with. Substituting sugar pumpkin, though, is just a little bit more fun. The twee-looking pumpkin is typically no bigger than eight inches and lends a velvety texture to the cocktail. Plus it’s downright adorable. (Bonus: Pull double duty and roast the seeds.)",
+   "ingredients": [
+    {
+     "ingredient": "Aged rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Earl Grey tea, hot",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Velvet falernum",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Butternut squash butter*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Maple syrup, to taste"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Brew the tea and pour it into a mug."
+    },
+    {
+     "how": "Add the rum and falernum, stir, then swirl in the butternut squash butter, steaming with a frothing wand if desired."
+    },
+    {
+     "how": "Add maple syrup to taste."
+    },
+    {
+     "how": "*Butternut squash butter: In a small mixing bowl, combine 2.5 oz of squash purée, 2.5 oz of room-temperature unsalted butter, .5 tsp of ground cinnamon, .5 tsp of ground nutmeg, .5 tsp of allspice, a pinch of ground cloves, .75 oz of dark brown sugar, .5 tsp of maple syrup and a pinch of salt; mix until smooth. Roll into a log in parchment or wax paper, and store in the refrigerator."
+    }
+   ]
+  },
+  {
+   "name": "Block Party Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/16075104/block-party-punch-720x720-recipe.jpg",
+   "about": "This surprisingly light grog is the crowd-pleasing autumn punch you didn’t even know you were missing. “Squash is amazingly flavorful and adds luscious texture to cocktails,” says Alejandro De La Parra, the bar manager at Teardrop Lounge. “[For this cocktail] we roasted the butternut squash with demerara sugar, mace, clove and allspice.”",
+   "ingredients": [
+    {
+     "ingredient": "Buffalo Trace bourbon",
+     "amount": "300 ml"
+    },
+    {
+     "ingredient": "Butternut squash purée",
+     "amount": "150 ml"
+    },
+    {
+     "ingredient": "Hibiscus tea",
+     "amount": "150 ml"
+    },
+    {
+     "ingredient": "Kronan Swedish Punsch",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Gomme syrup",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Brut sparkling wine",
+     "amount": "120 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Makes 6�\"8 cups."
+    },
+    {
+     "how": "Combine all of the ingredients except the club soda and brut, in a shaker and shake gently."
+    },
+    {
+     "how": "Strain into a punch bowl filled with ice, top with the club soda and sparkling wine, and garnish with hibiscus flowers and pomegranate seeds."
+    }
+   ]
+  },
+  {
+   "name": "Harvest Nog",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/16074007/harvest-nog-720x720-recipe.jpg",
+   "about": "This drink doubles as a dessert and cocktail in one. Two different approaches to preparing acorn squash allow the vegetable to flex its muscles in a couple of different directions. For the vegetable-cocktail skittish, though, never fear: Allspice and clove help the drink to retain a more traditional “nog” flavor profile while adding in a welcome dose of crispness.",
+   "ingredients": [
+    {
+     "ingredient": "Drambuie liqueur",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Green acorn squash cordial*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Roasted white acorn squash purée**",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "1 scoop Vanilla ice cream"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker and shake vigorously."
+    },
+    {
+     "how": "Double-strain into a double-rocks glass over ice, and garnish with freshly grated nutmeg."
+    },
+    {
+     "how": "*Green acorn squash cordial: Add 1.5 cups of squash purée, 1 cup granulated sugar and .5 tsp of whole allspice into a saucepan, and bring to a simmer, stirring slowly. Remove from the heat and allow to cool to room temperature. Once cool, strain through fine-mesh cloth into a clean bowl. Stir in 1 cup of vodka in the mixture until combined. Use immediately or refrigerate in an airtight container for up to 1 week."
+    },
+    {
+     "how": "**Roasted white acorn squash purée: Quarter and deseed a whole squash, then pierce the squash flesh with 10 to 12 cloves, depending on the size of the squash. Roast at 414°F in an oven-safe pan until the flesh is tender. Allow to cool and remove the cloves. Place the cooled squash in a blender, and pulse until smooth, streaming in cold water until the desired purée consistency is reached. Use immediately or refrigerate in an airtight container for up to 1 week."
+    }
+   ]
+  },
+  {
+   "name": "Butter “Nut” Craig",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/16074136/butter-but-craig-720x720-recipe.jpg",
+   "about": "At first glance, rum might seem to be the key element in this butternut squash cocktail, but one sip and you’ll know it’s the orange liqueur that steals the show. The cordial deftly balances the squash’s earthiness with the rum’s spice and the glittery cinnamon-sugar rim.",
+   "ingredients": [
+    {
+     "ingredient": "Dark rum",
+     "amount": "4 tbsp"
+    },
+    {
+     "ingredient": "Orange liqueur",
+     "amount": "1 tbsp"
+    },
+    {
+     "ingredient": "Ground cinnamon",
+     "amount": "1⁄2 tsp"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "1 tbsp"
+    },
+    {
+     "ingredient": "Butternut squash base*",
+     "amount": "1⁄4 cup"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "1 tbsp"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "5 dashes"
+    },
+    {
+     "ingredient": "Juice of 2 lemon wedges"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine the cinnamon and sugar in a shallow bowl. In a separate shallow bowl, add 1 tbsp of rum. Dip the rim of a double-rocks glass into the rum bowl followed by the cinnamon-sugar to coat, and set aside."
+    },
+    {
+     "how": "Add the butternut squash base, remaining 3 tbsp of rum, orange liqueur, simple syrup, bitters and juice of 2 lemon wedges into a cocktail shaker filled with ice and stir, then shake until well-chilled."
+    },
+    {
+     "how": "Strain into the prepared glass."
+    },
+    {
+     "how": "*Butternut squash base: Combine 1/2 cup of butternut squash puree (or pumpkin puree), 2 tsp of brown sugar, 1 tsp of molasses and a pinch of salt. Strain the mixture through a fine-mesh sieve into a clean bowl. Use immediately or store in an airtight container for up to 1 week."
+    }
+   ]
+  },
+  {
+   "name": "Guinness Chocolate Float",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/09104424/guinness-chocolate-float-720x720-recipe.jpg",
+   "about": "Booze buzz meets sugar buzz in this decadent dessert cocktail. (Trust us, you need this in your life.)",
+   "ingredients": [
+    {
+     "ingredient": "Premium chocolate ice cream",
+     "amount": "1 cup"
+    },
+    {
+     "ingredient": "Chocolate syrup"
+    },
+    {
+     "ingredient": "Guinness Stout (chilled)",
+     "amount": "180 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Scoop the chocolate ice cream into a chilled pint glass."
+    },
+    {
+     "how": "Drizzle with chocolate syrup."
+    },
+    {
+     "how": "Slowly pour the Guinness over the ice cream."
+    },
+    {
+     "how": "Serve with a straw."
+    }
+   ]
+  },
+  {
+   "name": "Rise Up Red Sea",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/08120057/rise-up-red-sea-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Fortaleza blanco tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Watermelon syrup (1:1 watermelon juice:sugar)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, and shake until cold."
+    },
+    {
+     "how": "Strain into a coupe or cocktail glass, and garnish with a dried lemon wheel."
+    }
+   ]
+  },
+  {
+   "name": "Autumn Wind",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/08113003/autumn-wind-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Cruzan black strap rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Silver tequila",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Velvet falernum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the tequila, falernum and lime juice to a double rocks glass with crushed ice and stir."
+    },
+    {
+     "how": "Top with the rum, fill with more crushed ice, and garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "On the Wings of Eagles",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/08111554/on-the-eagles-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team. This drink by Matthew Polzin of The Olde Bar is inspired by the Philadelphia Eagles, whose team color is represented by the Green Chartreuse and team’s eagle represented on the bottle of Fernet-Branca.",
+   "ingredients": [
+    {
+     "ingredient": "Cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Rye whiskey",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lemon bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Splash Fernet-Branca"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the cognac, rye, Chartreuse and bitters to a mixing glass with ice, and stir until cold."
+    },
+    {
+     "how": "Add a splash of the fernet to a rocks glass, roll the glass to coat the sides, and discard the excess."
+    },
+    {
+     "how": "Add one large ice cube to the glass, strain the drink over the cube, and garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Henderson’s Mule",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/08105826/hendersons-mule-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Buffalo Trace bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Dark-roast, cold-brew coffee",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Huhu’s Ginger Brew",
+     "amount": "oz"
+    },
+    {
+     "ingredient": "Activated charcoal tablet",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the bourbon, coffee, simple syrup and ginger brew to a mixing glass."
+    },
+    {
+     "how": "Open the charcoal tablet carefully, empty it into the glass, discard the capsule, and stir until the charcoal has dissolved, turning the drink black."
+    },
+    {
+     "how": "Pour the mix into a copper mug filled with ice."
+    }
+   ]
+  },
+  {
+   "name": "Nutty Ocho Rios",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/04130343/12-Riffs-on-the-Mai-Tai-to-Drink-in-Bars-Now-nutty-ocho-rio-720x720-slideshow.jpg",
+   "about": "This cocktail from Shane Paule, the bar manager at Austin’s Isla, sports the usual good stuff found in a Mai Tai but with an additional scrumptious nutty layer of macadamia nut liqueur.",
+   "ingredients": [
+    {
+     "ingredient": "White rum",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Jamaican rum",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orgeat",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Trader Vic’s macadamia nut liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh ground nutmeg"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Pour into a hurricane glass over crushed ice, and sprinkle with fresh ground nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Margarita",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/04/23134943/Margarita-720x720-recipe-v2.jpg",
+   "about": "The Margarita, like so many drinks in the cocktail canon, comes with a fuzzy origin story. Was it first dreamed up by a Tijuana bartender in the late-1930s? Or did a Texas socialite invent it 10 years later at her Acapulco villa?",
+   "ingredients": [
+    {
+     "ingredient": "Blanco tequila\nTry it with Avión Silver",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into the prepared rocks glass over fresh ice."
+    },
+    {
+     "how": "Garnish with a lime wheel and kosher salt (optional)."
+    }
+   ]
+  },
+  {
+   "name": "Mularkey’s Secret Playbook",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/01091303/mularkeys-secret-playbook-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Jack Daniel’s single-barrel rye whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dolin blanc vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dolin Rouge vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice, and stir until cold."
+    },
+    {
+     "how": "Strain into a coupe, and garnish with maraschino cherries skewered with bamboo in the shape of an X (making Xs with the skewer and Os with the cherries)."
+    }
+   ]
+  },
+  {
+   "name": "Shandy Khan",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/01090100/shandy-khan-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Marlin & Barrel amber rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Regans' Orange Bitters No. 6",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Local Intuition Ale Works Jon Boat ale"
+    },
+    {
+     "ingredient": "Blue curaçao"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the rum, lemon juice, syrup and bitters to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Collins glass (or red Solo cup) over ice, and top with the beer."
+    },
+    {
+     "how": "Float a pour of the blue curaçao on top, and garnish with half an orange wheel."
+    },
+    {
+     "how": "*Honey syrup: Add .25 cup water and .5 cup honey to a small saucepan over medium heat, and stir until the honey completely melts. Strain into a jar and seal with a lid."
+    }
+   ]
+  },
+  {
+   "name": "Jabs & Dabs",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/01085201/jab-and-dab-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Sutler's gin",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Manzanilla sherry",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Strawberry shrub**"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the gin, sherry, lemon juice and honey syrup to a cocktail shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a Collins glass over crushed ice, top with strawberry shrub, and garnish with a thyme sprig."
+    },
+    {
+     "how": "*Honey syrup: Add .25 cup water and .5 cup honey to a small saucepan over medium heat, and stir until the honey completely melts. Strain into a jar and seal with a lid."
+    },
+    {
+     "how": "**Strawberry shrub: You can buy on here or make your own. Combine 1 pint of freshly juiced strawberry juice (strained), 8 oz of 1:1 simple syrup and 8 oz of apple cider vinegar, shake and let sit refrigerated overnight. Makes approximately 1 quart."
+    }
+   ]
+  },
+  {
+   "name": "Curse of Bobby Layne",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/01084036/curse-of-bobby-layne-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "100 percent blue agave silver tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Dolin blanc vermouth",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cocchi Americano apéritif",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Grapefruit bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice and stir until chilled."
+    },
+    {
+     "how": "Strain into a cocktail glass or coupe, and garnish with 3 pickled blueberries on a toothpick."
+    },
+    {
+     "how": "*Pickled blueberries: Gently warm blueberries in a small pot with a little Champagne vinegar, salt and sugar, and let cool overnight."
+    }
+   ]
+  },
+  {
+   "name": "Vecchia Passione",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/31090818/vecchia-passione-720x720-recipe.jpg",
+   "about": "This cocktail is an eight-ingredient, highly amplified riff on an Old Fashioned, incorporating five Don Ciccio & Figli bottles and several additional ingredients.",
+   "ingredients": [
+    {
+     "ingredient": "Amaro Delle Sirene",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Luna Amara",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amaro Donna Rosa",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amaro Don Ferné",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cinque Aperitivo",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cocchi Americano",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour all of the ingredients in mixing glass and stir."
+    },
+    {
+     "how": "Pour into a rocks glass over ice, and garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Carciofi Shandy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/31085902/carciofi-shandy-720x720-recipe.jpg",
+   "about": "This cocktail incorporates Cynar with unfiltered apple juice, cinnamon syrup and ginger beer, transforming a summertime special into something more appropriately autumnal.",
+   "ingredients": [
+    {
+     "ingredient": "Cynar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Unfiltered apple juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cinnamon syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Alcoholic ginger beer"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients except the alcoholic ginger beer in a mixing glass with ice and stir."
+    },
+    {
+     "how": "Fine-strain into a pilsner, and top with the ginger beer."
+    },
+    {
+     "how": "*Cinnamon syrup: In a small saucepan, add 2 cups of water and 9 oz of broken-up cinnamon sticks (approximately 4 sticks), and bring to a boil. Simmer for 10 minutes, and strain out the cinnamon sticks. Bring the water back to a boil, add 1.5 cups of sugar, and stir until sugar is dissolved."
+    }
+   ]
+  },
+  {
+   "name": "Fall Into Italy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/31084738/fall-into-italy-720x720-recipe.jpg",
+   "about": "This cocktail brings Averna amaro to life with cognac, Appleton Estate rum, lemon juice, simply syrup and chocolate bitters.",
+   "ingredients": [
+    {
+     "ingredient": "Averna amaro",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cognac",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Appleton Estate rum",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Chocolate bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Fine-strain into a rocks glass over pebble or crushed ice, and garnish with an orange wedge."
+    }
+   ]
+  },
+  {
+   "name": "Rye Bandit",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/31083956/rye-bandit-720x720-recipe.jpg",
+   "about": "This riff on a Boulevardier is made with bourbon (instead of the rye, ergo the name), Amaro Delle Sirene and Luna Amara (instead of Campari and vermouth)—perfect for fall.",
+   "ingredients": [
+    {
+     "ingredient": "Bourbon\nTry it with Jefferson\\\\\\'s Kentucky Straight",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Amaro Delle Sirene",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Luna Amara bitter",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients in a mixing glass with ice and stir."
+    },
+    {
+     "how": "Pour into a rocks glass over ice, and garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Italian Bird",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/31083939/italian-bird-720x720-recipe.jpg",
+   "about": "This cocktail is built around the comfortable confines of aged rum and Campari but then is taken into a new direction and layered with fino sherry, honey water and salt.",
+   "ingredients": [
+    {
+     "ingredient": "Aged rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fino sherry",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Honey water*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Pinch Salt"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a mixing glass with ice and stir."
+    },
+    {
+     "how": "Pour into a rocks glass over ice, and garnish with pineapple sage."
+    },
+    {
+     "how": "*Honey water: Pour honey into equal-parts water, and shake well until no longer separated."
+    }
+   ]
+  },
+  {
+   "name": "Toronto",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/07150614/FEW_Toronto_recipe_maini_720x720.png",
+   "ingredients": [
+    {
+     "ingredient": "FEW Rye Whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fernet-Branca",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Demerara simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a mixing glass with ice, and stir until cold."
+    },
+    {
+     "how": "Strain into a Martini glass, and garnish with a burnt orange."
+    }
+   ]
+  },
+  {
+   "name": "Brown & Orange",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/26151256/brown-and-orange-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Old Overholt rye whiskey",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Amaro Nonino Quintessentia",
+     "amount": "10 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a rocks glass filled with ice and stir."
+    }
+   ]
+  },
+  {
+   "name": "War Streets Spritz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/26152455/War-Streets-Spritz-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Espolón reposado tequila",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Aperol",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Del Maguey Vida mezcal",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Ginger syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychaud's bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Splash Dry prosecco"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the prosecco to a shaker with ice, and shake until chilled."
+    },
+    {
+     "how": "Strain into a Collis glass over ice, and top with the prosecco."
+    },
+    {
+     "how": "Garnish with 2 lemon wheels, 1 slice of fresh ginger root and 1 basil leaf."
+    },
+    {
+     "how": "*Ginger syrup: Add 8 oz of cleaned (no need to peel it), roughly chopped ginger (each piece should be about the size of your pinkie tip) 8 oz of sugar and 8 oz of boiling water to a blender and blend on high until mixture is smooth, then fine-strain through a sieve, and let cool to room temperature."
+    }
+   ]
+  },
+  {
+   "name": "Black-Eyed Rye",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/26143728/black-eyed-rye-720-720-article.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "Sagamore Spirit rye whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Freshly Squeezed Lime Juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Blackberry mint syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "10"
+    },
+    {
+     "ingredient": "Ginger beer",
+     "amount": "90 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the ginger beer to a shaker with ice, and shake vigorously for 25 seconds."
+    },
+    {
+     "how": "Double-strain into a highball glass filled with ice, and top off with the ginger beer."
+    },
+    {
+     "how": "Garnish with a mint sprig and three blackberries."
+    },
+    {
+     "how": "*Blackberry mint syrup: Add 1 cup of sugar and 1 cup of water to a small saucepan over medium heat. Stir until the sugar is dissolved. Add 1.5 cups of blackberries, and muddle the berries into the syrup. Add 2 cups of mint leaves and stir. Place in the refrigerator for 24 hours, and strain into a jar. Keeps in the refrigerator for 1 month."
+    }
+   ]
+  },
+  {
+   "name": "Who Dey!",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/26145146/who-dey-720x720-recipe.jpg",
+   "about": "For football season, we had a bartender from each NFL team’s hometown provide the perfect cocktail to represent their team.",
+   "ingredients": [
+    {
+     "ingredient": "The Kraken black spiced rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Vanilla simple syrup**",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Left Hand Brewing milk stout",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Fresh mint leaves",
+     "amount": "5"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Cut 4 long and thin orange peels, and press them firmly onto the inside of a coupe."
+    },
+    {
+     "how": "Add the rum, syrup and mint to a mixing glass with ice, and stir until chilled."
+    },
+    {
+     "how": "Strain into the coupe carefully, trying not to disturb the peels, though some will undoubtedly float in the glass."
+    },
+    {
+     "how": "Gently top with the stout, and yell “Who Dey!”."
+    },
+    {
+     "how": "*Vanilla simple syrup: Combine 1 cup water, 1 cup sugar and 2 split vanilla beans in a small pot, and stir. Bring to a rolling boil, stirring to prevent scorching. Reduce heat and simmer for 5 minutes. Remove from heat and let cool to room temperature. Strain through a fine sieve and discard the vanilla beans. Will keep in the refrigerator for 2 or 3 weeks."
+    }
+   ]
+  },
+  {
+   "name": "Long Zest",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/24095320/long-zest-720x720-recipe.jpg",
+   "about": "This house cocktail at Scotland’s Glenmorangie House is meant to serve as an introduction to scotch. It’s an Old Fashioned–style formula of whisky, bitters and a flamed orange peel turned into a sipping-friendly long drink with the addition of Fever-Tree ginger ale.",
+   "ingredients": [
+    {
+     "ingredient": "Glenmorangie Original scotch",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Fever-Tree ginger ale"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the scotch and bitters into a rocks glass over ice, and stir."
+    },
+    {
+     "how": "Top with the ginger ale, flame an orange peel to express the oils, then add as a garnish."
+    }
+   ]
+  },
+  {
+   "name": "My Golden Dram",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/10/24090113/my-golden-dram-720x720-recipe.jpg",
+   "about": "This scotch cocktail at Aberfeldy Distillery’s Scotch Egg Club walks the middle ground between a classic Champagne cocktail and a Seelbach.",
+   "ingredients": [
+    {
+     "ingredient": "Aberfeldy 12-year-old scotch",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Prosecco float"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Place a napkin over the top of a Champagne flute, place the sugar cube on top, add 3 dashes of Angostura bitters onto the cube so it soaks into the sugar cube, then flip the napkin so the sugar cube falls into the flute."
+    },
+    {
+     "how": "Add the scotch, stir lightly, and top with the prosecco."
+    }
+   ]
+  },
+  {
+   "name": "Lion’s Tail with FEW Bourbon"
+  }
+ ]
+}

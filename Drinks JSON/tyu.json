@@ -1,0 +1,42 @@
+{
+ "drinkName": [
+  {
+   "name": "Cider Delighter",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/11/cider-delight.jpg",
+   "about": "You’ll be thoroughly delighted after one sip of this autumnal vodka tipple.",
+   "ingredients": [
+    {
+     "ingredient": "Vikingfjord Vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Allspice liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Apple cider",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Baked apple bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a red apple slice."
+    }
+   ]
+  }
+ ]
+}

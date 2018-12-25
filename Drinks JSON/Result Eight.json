@@ -1,0 +1,3960 @@
+{
+ "drinkName": [
+  {
+   "name": "Eye Opener",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/10125105/Eye-Opener-720x720-recipe.jpg",
+   "about": "For this cocktail, Jameson brand ambassador Killian Lee uses Jameson Caskmates, which is regular Jameson that has been finished in beer casks. The “eye-opening” part of this cocktail comes from the addition of cold-brew coffee. This is tempered by ginger–brown-sugar syrup and finished off with a bit of stout.",
+   "ingredients": [
+    {
+     "ingredient": "Jameson Caskmates whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Ginger–brown-sugar syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cold-brew coffee",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Stout beer",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the stout to a mixing tin and stir."
+    },
+    {
+     "how": "Strain into a rocks or mini stout glass."
+    },
+    {
+     "how": "Dry-shake (without ice) the stout, and add to the top of the cocktail."
+    },
+    {
+     "how": "*Ginger-brown-sugar syrup: Combine equal parts fresh ginger juice with dark brown sugar in a blender, and blend until fully incorporated."
+    }
+   ]
+  },
+  {
+   "name": "True Blue",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/10123600/true-blue-sucker-punc-720x720-article.jpg",
+   "about": "This crowd-pleasing cocktail comes from Harrison Ginsberg at The Dead Rabbit in New York City and uses Tullamore D.E.W. 12-year-old as its whiskey base. Bitters, ginger syrup, sherry, apple brandy and even Guinness are added to the party. All the ingredients are shaken, strained and served with a nutmeg garnish.",
+   "ingredients": [
+    {
+     "ingredient": "Tullamore D.E.W. 12-year-old Irish whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Clear Creek eight-year-old apple brandy",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Guinness draught",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Barbadillo Pedro Ximénez sherry",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Ginger syrup*",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "White miso cane syrup**",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Peychaud's bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a cocktail glass."
+    },
+    {
+     "how": "Garnish with grated nutmeg."
+    },
+    {
+     "how": "*Ginger syrup: Add 16 oz ginger juice and 16 oz white sugar to a stainless steel pot, and heat at 160 degrees F for 45 minutes. Remove from heat, and allow to cool at room temperature. Strain through a cheesecloth. Bottle, label and store in a refrigerator."
+    },
+    {
+     "how": "**White miso cane syrup: Place 16 oz water and 2 tbsp miso paste in a stainless steel pot, and heat at 180 degrees, stirring frequently until the paste is completely dissolved. Add 4 cups cane sugar, and increase the temp to 210 degrees, bringing to a boil and stirring occasionally. Remove from heat, and allow to cool at room temperature for 30 minutes. Bottle, label and store in a refrigerator."
+    }
+   ]
+  },
+  {
+   "name": "Luck of the Irish",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/10122623/luck-of-the-irish-720x720-recipe.jpg",
+   "about": "John O’Connell of West Cork Distillers in Cork, Ireland, recommends this Irish version of a Manhattan. The cocktail consists of equal parts West Cork Distillers 10-year-old single malt, sweet vermouth and Green Chartreuse. Combine the three, stir, strain and serve over ice.",
+   "ingredients": [
+    {
+     "ingredient": "West Cork Distillers 10-year-old single-malt Irish whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour all the ingredients into a mixing glass with ice, and stir until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass over ice."
+    }
+   ]
+  },
+  {
+   "name": "Black Barrel Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/10121118/bb-old-fashioned-720x720-recipe.jpg",
+   "about": "Jameson brand ambassador Killian Lee suggests using Jameson Black Barrel whiskey in this version of an Old Fashioned. The whiskey mingles with two different kinds of bitters and a little Bénédictine liqueur to amplify its malty sweetness, making it a worthy twist on the classic.",
+   "ingredients": [
+    {
+     "ingredient": "Jameson Black Barrel whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Bénédictine liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all the ingredients into a mixing glass with ice, and stir until cold."
+    },
+    {
+     "how": "Strain into a rocks glass over ice."
+    },
+    {
+     "how": "Garnish with an orange slice."
+    }
+   ]
+  },
+  {
+   "name": "Franny & Joe",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/07132607/Campari-FranJoe_720x720.jpg",
+   "about": "Some people would rather start their day with caffeine. Those drinkers will appreciate the Franny & Joe. The mix of authentic hazelnut liqueur and cold-brew coffee makes this cocktail perfect for brunch. Add cream to transform this cocktail into the right kind of morning starter.",
+   "ingredients": [
+    {
+     "ingredient": "Frangelico®",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cold-brew coffee",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Cream (optional)",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the optional cream to a rocks glass with ice (or a coupe without ice) and stir."
+    },
+    {
+     "how": "Express an orange peel over top."
+    },
+    {
+     "how": "As an option, add a dash a cream."
+    },
+    {
+     "how": "Garnish with the orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Campari Orange",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/07132615/Campari-orange_720x720.jpg",
+   "about": "Think of this as a refined Italian alternative to a Screwdriver. The orange juice makes it a natural fit in the family of brunch cocktails, while the Campari gives it Italian authenticity. The Campari Orange isn’t the most famous use of Campari—that distinction goes to the Negroni—but this aperitivo should really, truly be a brunch staple.",
+   "ingredients": [
+    {
+     "ingredient": "Campari® liqueur",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh orange juice",
+     "amount": "120 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a Highball glass filled with ice and stir."
+    },
+    {
+     "how": "Garnish with an orange slice."
+    }
+   ]
+  },
+  {
+   "name": "Frangelico Frizzante",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/07132611/Campari-FrangelicoFrizzante-720x720.jpg",
+   "about": "The Frizzante is a perfect sip for enjoying brunch alfresco. Crafted with wild Tonda Gentile hazelnuts from the Piedmont region of Northern Italy, Frangelico adds the perfect nutty flavor with a hint of sweetness complemented by the lime citrus in the Frizzante cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Frangelico® liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "1 squeeze"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a cocktail glass with ice and stir."
+    },
+    {
+     "how": "Garnish with a lime wedge."
+    }
+   ]
+  },
+  {
+   "name": "Americano",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/07132604/Campari_Americano-720x720.jpg",
+   "about": "The name is misleading, since this aperitivo is an Italian classic. It’s the perfect marriage of Campari and Cinzano, two of the most delicious and historic Italian exports. Encourage customers to kick off their brunch with this Italian original, and don’t settle for any knockoffs.",
+   "ingredients": [
+    {
+     "ingredient": "Campari® liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cinzano® 1757 vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "1 splash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the liqueur and vermouth to a rocks glass with ice and stir."
+    },
+    {
+     "how": "Top with a splash of soda water."
+    },
+    {
+     "how": "Garnish with an orange slice and lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Aperol Spritz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/07132600/Campari_AperolSpritz-720x720.jpg",
+   "about": "A lot of people like a little something bubbly with their brunch. Move past the Mimosa and the rosé, and satisfy that craving with an Aperol Spritz. An Aperol Spritz is bubbly and low-proof, making it the perfect cocktail for daytime drinking. This is one of the most popular cocktails in Italy. Soon enough, it will be a favorite for your customers, too.",
+   "ingredients": [
+    {
+     "ingredient": "Cinzano® prosecco",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Aperol® apéritif",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "1 splash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a wine glass with ice and stir."
+    },
+    {
+     "how": "Garnish with an orange slice."
+    }
+   ]
+  },
+  {
+   "name": "Fernet About It",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/06095332/Fernet-About-It-720x720-recipe.jpg",
+   "about": "Lemon and lime start things up, with the herbal notes of fernet bringing up the rear, in this cocktail by Jerry Nevins from his book, Sloshies: 102 Boozy Cocktails Straight from the Freezer (Workman, $14.95).",
+   "ingredients": [
+    {
+     "ingredient": "Appleton Estate Jamaica rum",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Fernet-Branca liqueur",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "525 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "135 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Fee Brothers lemon bitters",
+     "amount": "3⁄4 tsp"
+    },
+    {
+     "ingredient": "Water",
+     "amount": "180 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Makes 4."
+    },
+    {
+     "how": "Add all the ingredients in a medium-size metal bowl and stir."
+    },
+    {
+     "how": "Pour the liquid into a large freezer bag, and place it in the freezer until frozen for approximately 4 hours."
+    },
+    {
+     "how": "When ready to drink, massage the freezer bag by hand until it’s a wet, slushy consistency. If it’s not breaking up, run the bag quickly under hot water and massage some more."
+    },
+    {
+     "how": "Divide among four coupe glasses."
+    }
+   ]
+  },
+  {
+   "name": "Whiskey Smashed",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/06094358/whiskey-smashed-720x720-recipe.jpg",
+   "about": "Give your Kentucky Derby party an extra kick with this smashing combination of small-batch Kentucky bourbon and citrus by Jerry Nevins from his book, Sloshies: 102 Boozy Cocktails Straight from the Freezer (Workman, $14.95).",
+   "ingredients": [
+    {
+     "ingredient": "Woodford Reserve Kentucky straight bourbon",
+     "amount": "260 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Mint simple syrup*",
+     "amount": "215 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "200 ml"
+    },
+    {
+     "ingredient": "Water",
+     "amount": "85 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Makes 4."
+    },
+    {
+     "how": "Add all the ingredients in a medium-size metal bowl and stir."
+    },
+    {
+     "how": "Pour the liquid into a large freezer bag, and place it in the freezer until frozen for approximately 4 hours."
+    },
+    {
+     "how": "When ready to drink, massage the freezer bag by hand until it’s a wet, slushy consistency. If it’s not breaking up, run the bag quickly under hot water, and massage some more."
+    },
+    {
+     "how": "Divide among four Old Fashioned or rocks glasses."
+    },
+    {
+     "how": "Garnish each glass with mint leaf and lemon wheel."
+    },
+    {
+     "how": "*Mint simple syrup: Place 1 ½ cups boiling water and 1 ½ cups pure cane sugar in a saucepan over medium heat and bring to a boil. Reduce the heat to a simmer and stir the mixture, letting the sweetener dissolve, for about 3 minutes. Add 5 tbsp dried mint, and continue to heat, over medium heat, for an additional 12 minutes. Strain out the mint leaves with a fine-mesh strainer, then let the syrup cool. Place it in a sealed container, and store in the refrigerator for up to 1 week. Makes 2 ¼ cups."
+    }
+   ]
+  },
+  {
+   "name": "High on the Hog",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/06092905/high-on-the-hog-720x720-recipe.jpg",
+   "about": "Ginger, maple and bourbon roll on your tongue while you fight the urge to just eat the bacon garnish first in this cocktail by Jerry Nevins from his book, Sloshies: 102 Boozy Cocktails Straight from the Freezer (Workman, $14.95).",
+   "ingredients": [
+    {
+     "ingredient": "Buffalo Trace Kentucky straight bourbon",
+     "amount": "100 ml"
+    },
+    {
+     "ingredient": "Ginger ale",
+     "amount": "800 ml"
+    },
+    {
+     "ingredient": "Dolin Dry Vermouth de Chambéry",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cabin Fever maple flavored whiskey",
+     "amount": "85 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Makes 4."
+    },
+    {
+     "how": "Add all the ingredients in a medium-size metal bowl and stir."
+    },
+    {
+     "how": "Pour the liquid into a large freezer bag, and place it in the freezer until frozen for approximately 4 hours."
+    },
+    {
+     "how": "When ready to drink, massage the freezer bag by hand until it’s a wet, slushy consistency. If it’s not breaking up, run the bag quickly under hot water and massage some more."
+    },
+    {
+     "how": "Divide among four Old Fashioned or rocks glasses."
+    },
+    {
+     "how": "Garnish each glass with a strip of crispy bacon."
+    }
+   ]
+  },
+  {
+   "name": "Frozen Margarita",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/07/05150949/Frozen-Margarita-720x720-recipe.jpg",
+   "about": "Purists, keep walking! When the mercury climbs and the dog days of summer start barking at your heels, the only proper cocktail is the one that keeps you cool and happy. This super simple Frozen Margarita recipe will have you bonding with your blender all season long.",
+   "ingredients": [
+    {
+     "ingredient": "Blanco tequila",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange liqueur",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Salt the rim of a chilled Margarita glass and put aside."
+    },
+    {
+     "how": "Add all the ingredients into a blender, and top with 1 cup of ice. Blend until the mixture is smooth and frothy."
+    },
+    {
+     "how": "Pour the contents into the salted Margarita glass."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Hennessy Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29214955/Detroit_Cornerstone_gantstudio-2.jpg",
+   "about": "Try a citrusy take on the legendary cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Campari liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amaro",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice, and stir until well-chilled."
+    },
+    {
+     "how": "Strain over 1 large ice cube in a rocks glass filled with one large ice cube."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Southern Peach",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150541/Detroit_Cutters_gantstudio.jpg",
+   "about": "This summer thirst quencher celebrates the bright, sweet flavors of peaches.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Peach schnapps",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Triple sec",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peach nectar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Sprite",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the cognac to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain over 1 large ice cube in a highball glass, then top with the cognac."
+    },
+    {
+     "how": "Garnish with peach gummy rings and a lime peel."
+    }
+   ]
+  },
+  {
+   "name": "One Night Stand",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150537/Detroit_theysay_gantstudio.jpg",
+   "about": "This energizing blend of fruit and cognac has a fizzy ginger twist.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Ginger beer",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange",
+     "amount": "1 slice"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a cocktail glass in a mixture of sugar and orange zest."
+    },
+    {
+     "how": "Squeeze the juice of 1 orange slice into a shaker, then add the remaining ingredients and ice."
+    },
+    {
+     "how": "Shake and strain into the prepared cocktail glass."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "The Lion’s Den",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150607/Detroit_24grille_gantstudio.jpg",
+   "about": "Try an elegant, tangy Martini for your next aperitif.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Grand Marnier liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cranberry juice",
+     "amount": "1 splash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a cocktail glass in sugar."
+    },
+    {
+     "how": "Add all ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into the cocktail glass."
+    },
+    {
+     "how": "Garnish with a lime twist."
+    }
+   ]
+  },
+  {
+   "name": "Sazerac",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150529/Detroit_Roast_gantstudio.jpg",
+   "about": "Accentuate the subtle nuances of fine cognac in this boozy classic.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Demerara syrup*",
+     "amount": "11 ml"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Copper & Kings blanche absinthe rinse"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill a mixing glass with ice and stir briefly to chill."
+    },
+    {
+     "how": "With one pull from from the dropper of a 1 oz bitter bottle, carefully coat the inside of a chilled coupe glass with about 1/6 tsp absinthe, allowing the excess absinthe to remain in the bottom of the glass."
+    },
+    {
+     "how": "Strain excess water from mixing glass, adding fresh ice if needed, then add the cognac, syrup and bitters to the mixing glass."
+    },
+    {
+     "how": "Stir for 45 full rotations, then strain with a Hawthorne strainer into the prepared coupe."
+    },
+    {
+     "how": "To prepare the garnish, use a vegetable peeler to create a 2- to 3-inch-long and 1- to 1-1/2-inch-wide peel from a room-temperature lemon."
+    },
+    {
+     "how": "Express the lemon oils over the drink, paint the rim of the glass with the peel, and touch the stem of the glass once or twice with the peel."
+    },
+    {
+     "how": "Using a paring knife or kitchen shears, neatly trim the edges of the peel into an isosceles acute triangle, then cut a 1-inch slit in the center of the peel about 1/8 inch from the base of the triangle."
+    },
+    {
+     "how": "Starting from the tip of the triangle, roll the peel at an angle slightly off axis into a barrel shape."
+    },
+    {
+     "how": "Affix the rolled peel to the lip of the couple and release, which will cause the peel to unfurl into a swan-like shape."
+    },
+    {
+     "how": "*Demerara syrup: Combine equal parts demerara sugar and water in a saucepan. Heat and stir until the sugar dissolves. Let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Bananas Foster Le Coupe",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150612/Detroit_birdandbread_gantstudio.jpg",
+   "about": "Add the flavors of the classic dessert to a sweet, frothy cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Banana cognac syrup*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Hazelnut liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Half-and-half",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the cognac, syrup and liqueur to an ice-filled mixing glass."
+    },
+    {
+     "how": "Stir and strain into a coupe."
+    },
+    {
+     "how": "Froth the half-and-half to semi-stiff peaks (as you would a latte), and add to the top of the drink."
+    },
+    {
+     "how": "Place a pulled sugar swizzle over the edges of the glass, making sure not to submerge."
+    },
+    {
+     "how": "*Banana cognac syrup: Chop 2 lbs bananas and add to 2 750 mL bottles of cognac, leaving room at the top so you can see when the bananas float. After 2 to 3 days, when all the bananas are floating, strain and replace with another 2 lbs chopped bananas. Repeat the process and strain well. Stir in 1 1/2 cups of brown sugar and 1 oz high-proof grain alcohol."
+    }
+   ]
+  },
+  {
+   "name": "C-4",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150557/Detroit_maccabees_gantstudio.jpg",
+   "about": "This Sidecar variation celebrates the local producers of Detroit, offering smooth citrus flavors and a tangy finish.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Grand Marnier liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Unity Vibration cranberry clementine kombucha",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Mac Traders coffee bitters",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh ginger",
+     "amount": "1 slice"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the large slice of ginger in a shaker."
+    },
+    {
+     "how": "Add the remaining ingredients and ice, and shake vigorously."
+    },
+    {
+     "how": "Strain the drink into a cocktail glass."
+    },
+    {
+     "how": "Use a lemon twist to rim the glass and discard."
+    }
+   ]
+  },
+  {
+   "name": "Sazerac",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150533/Detroit_savannahblue_gantstudio.jpg",
+   "about": "Add the warm, bold spice star anise to your next Sazerac.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Bulleit rye whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "spray rinse Vieux absinthe",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the Angostura bitters to a beaker, then add the Peychaud's bitters, simple syrup, cognac and rye."
+    },
+    {
+     "how": "Add ice to the beaker and stir for 10 seconds."
+    },
+    {
+     "how": "Spray a snifter once with the absinthe."
+    },
+    {
+     "how": "Strain the drink into the snifter."
+    },
+    {
+     "how": "Garnish with 3 star anise pods."
+    }
+   ]
+  },
+  {
+   "name": "A Sweet & Spicy Desiree",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150546/Detroit_DetSeafoodMarket_gantstudio-2.jpg",
+   "about": "This peach-jalapeño cocktail is sweet, spicy and smooth all at once.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Peach-jalapeño syrup*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Mint leaves, muddled",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "1 squeeze"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the mint leaves and peach-jalapeño syrup to a shaker, and crush the mint and syrup with a muddler to release the oils."
+    },
+    {
+     "how": "Fill the shaker almost to the top with ice."
+    },
+    {
+     "how": "Add the cognac and lemon juice, then shake and strain into a small ice-filled Mason jar."
+    },
+    {
+     "how": "Garnish with diced peaches and jalapeño slices."
+    },
+    {
+     "how": "*Peach-jalapeño syrup: Combine 1 cup sugar, 1 cup water and 1 sliced jalapeño in a saucepan, and heat until the sugar dissolves. Let sit for 1 hour or up to overnight, then strain. Repeat the same process with 1 cup sugar, 1 cup water and 1 diced peach. Combine the syrups once cooled, and store in refrigerator until ready to use."
+    }
+   ]
+  },
+  {
+   "name": "The Duchess of Detroit",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29215734/Detroit_Whitney_gantstudio.jpg",
+   "about": "Embrace the simplicity of a restrained layered cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Dry Sack sherry",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour each of the ingredients in the order listed directly into a snifter."
+    },
+    {
+     "how": "Garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Mo Better Blues",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150526/Detroit_mobettablues_gantstudio.jpg",
+   "about": "A little bit tropical, a little bit tart, this is bound to be your next easy-drinking cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Lemon-lime soda",
+     "amount": "1 splash"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "1 splash"
+    },
+    {
+     "ingredient": "pineapple",
+     "amount": "2 chunks"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the pineapple and place in a Collins glass, then fill it with ice."
+    },
+    {
+     "how": "Add the remaining ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into the Collins glass."
+    },
+    {
+     "how": "Garnish with a cherry, orange slice and pineapple wheel."
+    }
+   ]
+  },
+  {
+   "name": "French Coral",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150601/Detroit_standby_gantstudio-2.jpg",
+   "about": "A little bit of Tiki meets cognac in this stirred cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Amaro Nonino",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Pierre Ferrand dry orange curaçao",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Clementine sherbet",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "4 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a mixing glass with ice and stir."
+    },
+    {
+     "how": "Strain over a 2” x 2” ice cube in a rocks glass."
+    },
+    {
+     "how": "Garnish with dehydrated clementine."
+    }
+   ]
+  },
+  {
+   "name": "Black Car",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150628/Detroit_220merril_gantstudio.jpg",
+   "about": "Tea cocktails meet the Sidecar in this update of a classic.",
+   "ingredients": [
+    {
+     "ingredient": "Tea-infused Hennessy V.S.O.P Privilège cognac*",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Cointreau liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange blossom honey",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    },
+    {
+     "how": "*Tea-infused Hennessy V.S.O.P Privilège cognac: Add 1 tea bag of Earl Grey tea to 8 oz Hennessy V.S.O.P Privilège cognac. Infuse for 1 week."
+    }
+   ]
+  },
+  {
+   "name": "The Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150522/Detroit_londonchophouse_gantstudio.jpg",
+   "about": "Try a sweet-tart Sidecar made with cognac and Cointreau.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cointreau liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Sweetened lime juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "B&B",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a cocktail glass with sugar."
+    },
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake very gently."
+    },
+    {
+     "how": "Strain into a cocktail glass."
+    },
+    {
+     "how": "Garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Chocolate Covered Strawberry",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29150553/Detroit_Duo_gantstudio.jpg",
+   "about": "This chocolate, cognac, coffee and berry cocktail hits all the best notes of the dessert course.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Baileys Irish cream",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Kahlúa coffee liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Strawberry purée",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup, for coating"
+    },
+    {
+     "ingredient": "Crushed nuts",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Chocolate syrup, for drizzling"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Dip the rim of a cocktail glass into simple syrup, then press into the crushed nuts to coat."
+    },
+    {
+     "how": "Drizzle chocolate syrup into the cocktail glass."
+    },
+    {
+     "how": "Add the remaining ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain carefully into the cocktail glass."
+    },
+    {
+     "how": "Garnish with a sliced strawberry."
+    }
+   ]
+  },
+  {
+   "name": "Pilikia Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104052/Pilikia-AaronWang-001.jpg",
+   "about": "Try a refreshing cognac cocktail with lime juice and Thai basil leaves.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Thai basil leaves, torn",
+     "amount": "5"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Double-strain into a rocks glass filled with crushed ice."
+    },
+    {
+     "how": "Garnish with a crown of Thai basil."
+    },
+    {
+     "how": "*Honey syrup: Combine 1 1/2 parts honey to 1 part water. Bring to a simmer until the honey dissolves, then let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Banana Surfer",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104108/ChelseaCorner-CaseyWillis-003.jpg",
+   "about": "Hang 10 with a Tiki-inspired cognac cocktail laced with coconut and banana.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Spiced rum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Banana cordial",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cinnamon-honey syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Coconut cream",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Chocolate mole bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Tiki mug filled with crushed ice."
+    },
+    {
+     "how": "Garnish with cacao dust."
+    },
+    {
+     "how": "*Cinnamon-honey syrup: Bring 2 cups of water and 4 cinnamon sticks to a boil, and let simmer for 15 minutes. Add 2 cups honey and stir to dissolve. Let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Standard Summertime Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104048/StandardPour-ScottMelton-003.jpg",
+   "about": "Cognac, sherry and peach tea make this summery punch a year-round crowd-pleaser.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "1 l"
+    },
+    {
+     "ingredient": "Amontillado sherry",
+     "amount": "750 ml"
+    },
+    {
+     "ingredient": "Peach tea",
+     "amount": "2 l"
+    },
+    {
+     "ingredient": "Mineral water",
+     "amount": "1 l"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "355 ml"
+    },
+    {
+     "ingredient": "Peach bitters",
+     "amount": "20 dashes"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "6 dashes"
+    },
+    {
+     "ingredient": "lemons, halved",
+     "amount": "6"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the lemon halves to a large punch bowl."
+    },
+    {
+     "how": "Squeeze the juice from the lemon halves into the punch."
+    },
+    {
+     "how": "Chill with a large block of ice."
+    },
+    {
+     "how": "Serve in rocks glasses over solid cubes of ice or shaved ice."
+    },
+    {
+     "how": "Garnish with lemon and peach slices."
+    },
+    {
+     "how": "*Honey syrup: Combine 3 parts honey to 1 part hot water, and stir until the honey has dissolved."
+    }
+   ]
+  },
+  {
+   "name": "Perfect Storm",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104112/BlackSwan-JulianPagan-001.jpg",
+   "about": "Warm spices and sweet apricot make this cocktail suitable for any weather (storm or not).",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cocchi sweet vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dolin dry vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Apricot liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Baked apple bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass with ice, and stir until properly diluted."
+    },
+    {
+     "how": "Strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with expressed citrus oils from an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Uptown Ways",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104120/Tates-CreightenBrown-003.jpg",
+   "about": "Bubbly and berries are cognac’s BFFs in this bright sparkling rosé cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Berry and pepper syrup*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Rosé Champagne",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the rosé to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Add the rosé, and strain into a Champagne flute."
+    },
+    {
+     "how": "Garnish with a lemon peel-wrapped blackberry."
+    },
+    {
+     "how": "*Berry and pepper syrup: Muddle 1 cup water, 1 cup sugar, 6 strawberries, 10 blackberries and 2 jalapeño peppers in a saucepan. Bring to a boil and cook for 14 to 18 minutes. Let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Top Down",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104100/Abacus-JordanGantenbein-002.jpg",
+   "about": "This summery take on a Sidecar, bright with Meyer lemons, is sunshine in a glass.",
+   "ingredients": [
+    {
+     "ingredient": "Cherrywood-infused Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Grand Marnier liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Meyer lemon syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Hellfire bitters (or other spicy bitters)",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled coupe."
+    },
+    {
+     "how": "Top a lemon slice with red chile threads, and use it to garnish the drink."
+    },
+    {
+     "how": "*Meyer lemon syrup: Peel 6 Meyer lemons. Use a paring knife to get rid of any remaining white spots on the peels. Blanch them three times in boiling water, then simmer in 1/2 L water and 1/2 L sugar for 20 minutes. Cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Broken Bread Crusta",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104124/VictorTangos-AndrewStofko-001.jpg",
+   "about": "Let the flavor of cognac shine in this sweet, spicy interpretation of a Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Tubi 60",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Blanc vermouth",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Peppercorn syrup*",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Coat half the rim of a coupe glass in superfine sugar."
+    },
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe."
+    },
+    {
+     "how": "Express the oils of a Meyer lemon peel over top."
+    },
+    {
+     "how": "*Peppercorn syrup: Toast 2 tbsp white peppercorns in a pan until they start popping. Let them cool, then grind coarsely in a spice grinder. Add to a medium pot with 2 cups water and 2 cups white sugar. Bring to a boil and reduce for 15 to 20 minutes. Let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Bana’nac Attack",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104103/Rapscallion-RavinderSingh-001.jpg",
+   "about": "You’ll go bananas for this tropical swizzle.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Banana liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Demerara syrup*",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "6 dashes"
+    },
+    {
+     "ingredient": "Fresh mint leaves",
+     "amount": "10"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the mint leaves to a Collins glass and lightly muddle."
+    },
+    {
+     "how": "Add the cognac, liqueur, syrup, lemon juice and 3 dashes of the bitters, and swizzle until diluted."
+    },
+    {
+     "how": "Fill the rest of the glass with crushed ice."
+    },
+    {
+     "how": "Add the 3 remaining dashes of bitters, then garnish with a mint sprig, lemon wheel and sliced bananas."
+    },
+    {
+     "how": "*Demerara syrup: Combine 2 parts demerara sugar to 1 part water in a saucepan over low heat. Heat until the sugar dissolves. Cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Stow Away",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29104056/IndustryAlley-MikeSteel-001.jpg",
+   "about": "Tawny port and cognac are a match made in after-dinner heaven in this simple cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Tawny port",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh Thyme",
+     "amount": "1 sprig"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Double-strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with fresh grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Dram Rickey",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29103924/Dram-Rickey-720x720-recipe.jpg",
+   "about": "This Rickey by herbalist and cocktail specialist Lukas B. Smith at Washington, D.C.’s Cotton & Reed showcases the rum distillery’s allspice dram. “The lime juice and soda water show off the lighter side of dram,” says Smith.",
+   "ingredients": [
+    {
+     "ingredient": "Cotton & Reed allspice dram",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Soda water, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the dram and juice to a Collins glass over ice."
+    },
+    {
+     "how": "Top with the soda water."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "White Lion",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/29102828/white-lion-720x720-recipe.jpg",
+   "about": "This riff on a classic Daiquiri, by herbalist and cocktail specialist Lukas B. Smith at Washington, D.C.’s Cotton & Reed, incorporates Cotton & Reed’s white rum and its allspice dram, which has rum as a base, resulting in a complex and spicy new take.",
+   "ingredients": [
+    {
+     "ingredient": "Cotton & Reed white rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cotton & Reed allspice dram",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into chilled cocktail glass."
+    }
+   ]
+  },
+  {
+   "name": "Nou-vieux Riche",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28145826/20170504_Hennessy_VSOP_DirtyHabit-50403071.jpg",
+   "about": "Put a spicy twist on the Vieux Carré with this cardamom- and sherry-spiked Hennessy cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Rye whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "East India sherry",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Crème de cacao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cardamom bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass filled with ice and stir."
+    },
+    {
+     "how": "Add 1 large cube of ice to a rocks glass, and strain the cocktail over it."
+    },
+    {
+     "how": "Garnish with grated cardamom."
+    }
+   ]
+  },
+  {
+   "name": "Vieux Carré Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28145813/20170428_HennessyVSOP_Tilt-42800581.jpg",
+   "about": "Welcome the summer with open arms by making a citrusy, spicy spirit-forward spin on the classic Vieux Carré.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Carpano Antica Formula sweet vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Double-strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with a dehydrated lemon wheel soaked in Angostura and Peychaud’s bitters."
+    }
+   ]
+  },
+  {
+   "name": "Furry Berry",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28145822/20170430_Hennessy_VSOP_ServiceBar-43000341.jpg",
+   "about": "Capture the bright flavors of blackberries in this simple cognac and cherry cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Combier Rouge Cherry liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Blackberry syrup*",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Fine-strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with frosted blueberries and an edible flower."
+    },
+    {
+     "how": "*Blackberry syrup: Take 6 oz sugar, 6 oz water and 6 oz blackberries and bring to a boil. Reduce to a simmer and cook for 20 minutes. Remove from heat, strain, and add salt to taste."
+    }
+   ]
+  },
+  {
+   "name": "Don’t Dance With the Orchids",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28145818/20170430_Hennessy_VSOP_LeftDoor-43001341.jpg",
+   "about": "Transport yourself to cognac with a Champagne cocktail inspired by the aromatics and spices of the region.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Rich honey syrup*",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Lindera Farms honey vinegar",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Clove tincture",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Sea salt",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Brut Champagne, to top",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the Champagne to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Double-strain into a chilled coupe."
+    },
+    {
+     "how": "Top with the Champagne."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    },
+    {
+     "how": "*Honey syrup: Add 1/2 cup honey and 1/2 cup water to a small saucepan over medium heat. (You can experiment and decide how much of a honey flavor you want in your syrup. The more honey you use, the thicker the syrup and stronger in flavor it will be.) Stir until blended. Strain into a jar, and seal tightly with a lid. Will keep for 1 month in the refrigerator."
+    }
+   ]
+  },
+  {
+   "name": "Perfect Thyming",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28145830/20170504_Hennessy_VSOP_JackRose-50404431.jpg",
+   "about": "This slightly boozier take on the classic Sangaree balances citrus and sweetness with a hint of spice.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Tawny port",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh Thyme",
+     "amount": "1 sprig"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Double-strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with fresh grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Broken Bastard",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095818/broken_shaker_lisa_palmer_01.jpg",
+   "about": "You won’t be suffering through this cognac-based update on the Suffering Bastard.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Letherbee besk",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "St-Germain elderflower liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Ginger rose cordial",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Ginger ale, to top",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the ginger ale to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into an ice-filled highball glass."
+    },
+    {
+     "how": "Top with the ginger ale."
+    },
+    {
+     "how": "Garnish with candied ginger and a mint bouquet."
+    }
+   ]
+  },
+  {
+   "name": "Horse’s Neck",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095836/deadbolt_dustin_drankiewicz_01.jpg",
+   "about": "A burst of C02 gives the traditional Horse’s Neck a breath of fresh air.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Honey ginger syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Co2",
+     "amount": "splash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredient except the C02 to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Collins glass."
+    },
+    {
+     "how": "Top with the C02 and lemon peel."
+    },
+    {
+     "how": "*Honey ginger syrup: Combine 1 cup water, 1 cup sugar, 1 cup honey, 5 cup ginger juice and 2 orange peels in a saucepan over medium heat. Whisk until the sugar dissolves, then cover and remove from the heat. Let cool to room temperature and fine-strain."
+    }
+   ]
+  },
+  {
+   "name": "PH Champagne Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095754/will_duncan_punch_house_1.jpg",
+   "about": "This sparkling cognac and rum punch bursts with citrus flavor.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "1 l"
+    },
+    {
+     "ingredient": "Jamaican rum",
+     "amount": "240 ml"
+    },
+    {
+     "ingredient": "Moët & Chandon Champagne",
+     "amount": "750 ml"
+    },
+    {
+     "ingredient": "Darjeeling tea, hot*",
+     "amount": "3 cup"
+    },
+    {
+     "ingredient": "Fresh lemon juice, fine-strained",
+     "amount": "300 ml"
+    },
+    {
+     "ingredient": "White sugar",
+     "amount": "300 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Lemon peels",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Orange peels",
+     "amount": "2"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a large punch bowl, prepare an oleo saccharum by muddling the sugar and citrus peels gently for a few minutes every 10 minutes over the course of an hour."
+    },
+    {
+     "how": "Meanwhile, prepare the hot tea, timing the tea steeping to complete just as the oleo saccharum is ready."
+    },
+    {
+     "how": "Strain the tea into the punch bowl to melt the oleo into a rich, aromatic syrup."
+    },
+    {
+     "how": "Add the remaining ingredients except the Champagne to the punch bowl."
+    },
+    {
+     "how": "Add the Champagne and an ice block just before service."
+    },
+    {
+     "how": "Garnish with 3 orange wheels and fresh mint sprigs."
+    },
+    {
+     "how": "*Darjeeling tea: Brew 1 tbsp of loose tea per cup of hot water and let steep for 5 minutes."
+    }
+   ]
+  },
+  {
+   "name": "Improved Brandy Daisy",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095802/michael_huebner_revival_cafe_1.jpg",
+   "about": "Made with cognac and topped with bubbly, this Brandy Daisy is improved, indeed.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Giffard Abricot du Roussillon liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Moët Impérial Champagne, to top",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange peel",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the Champagne to a shaker with ice and shake."
+    },
+    {
+     "how": "Double-strain into a chilled coupe."
+    },
+    {
+     "how": "Top with the Champagne, then express the orange peel over top and discard."
+    }
+   ]
+  },
+  {
+   "name": "Hennessy Privilège Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095828/promontory_dianna_sanders_V01.jpg",
+   "about": "The orange-kissed Sidecar is a classic that will never go out of style.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Combier liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into an ice-filled rocks glass."
+    }
+   ]
+  },
+  {
+   "name": "Cognac Amaretto Stone Sour 75",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095825/sportsmans_club_laura_kelton_V01.jpg",
+   "about": "This marriage of the Amaretto Sour and French 75 is a relationship that’s built to last.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Amaretto liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Brut Champagne, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the Champagne to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass, then top with Champagne."
+    }
+   ]
+  },
+  {
+   "name": "Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095806/whitney_morrow_drumbar_1.jpg",
+   "about": "Add a touch more sweetness to a traditional Sidecar with a sugar rim.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Combier liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Demerara syrup",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim a coupe glass in sugar."
+    },
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into the coupe glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Rampart Rambler",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28131323/RAISED_CHI.png",
+   "about": "Fresh citrus, sparkling wine and premium cognac bring out the best in one another in this refreshing new cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Demerara syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dry sparkling wine or cava, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Champagne flute."
+    },
+    {
+     "how": "Top with dry sparkling wine, and garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Hello Good Sir",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095750/rockit_ranch_1.jpg",
+   "about": "This take on the Sidecar is just peachy.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Peach liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe."
+    }
+   ]
+  },
+  {
+   "name": "Prime 75",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095809/adolfo_calderon_prime_provisions_2.jpg",
+   "about": "When it’s blood orange season, do yourself a favor and add it to this take on a classic French 75.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Blood orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Sparkling wine, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Champagne flute."
+    },
+    {
+     "how": "Top with sparkling wine, and garnish with a lemon peel."
+    }
+   ]
+  },
+  {
+   "name": "Tread Lightly",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095813/acanto_wesley_kenney_01.jpg",
+   "about": "Start your evening (or your day) with a coffee-cognac concoction.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cynar liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Coffee syrup*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe."
+    },
+    {
+     "how": "*Coffee syrup: Combine equal parts coffee and sugar. Heat until the sugar dissolves and let cool."
+    }
+   ]
+  },
+  {
+   "name": "French 75",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095832/moneygun_alex_berns_V01.jpg",
+   "about": "You need a French 75 in your life, especially one that’s made with cognac.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Demerara syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Dry sparkling wine or cava, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Champagne flute."
+    },
+    {
+     "how": "Top with dry sparkling wine and garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Over the Top",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28095821/maple__ash_mario_flores_V01.jpg",
+   "about": "This take on the classic Horse’s Neck uses premium cognac to add a whole new level of complexity and richness.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Amaro Montenegro",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Ginger beer",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Meyer lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Rich simple syrup*",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into an ice-filled Collins glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    },
+    {
+     "how": "*Rich simple syrup: Add 2 parts sugar to 1 part water in a saucepan. Bring to a boil and simmer until the sugar dissolves. Let cool before using."
+    }
+   ]
+  },
+  {
+   "name": "Talking Backwards",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27153207/LA_Breakroom86_TalkingBackwards-01.jpg",
+   "about": "This Los Angeles–inspired cocktails has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg 10-year-old scotch",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Chamomile-infused Chilean pisco*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Blueberry-honey syrup**",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Peach liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker, and dry-shake (without ice) to froth the egg white."
+    },
+    {
+     "how": "Add ice to the shaker, and shake."
+    },
+    {
+     "how": "Strain into a coupe glass, and garnish with a dehydrated peach slice."
+    },
+    {
+     "how": "*Chamomile-infused Chilean pisco: Add 1/4 cups loose chamomile tea to 750 mL Chilean pisco, and let rest at room temperature for 20 minutes or until desired strength."
+    },
+    {
+     "how": "**Blueberry-honey syrup: Thaw 12 oz frozen wild blueberries, purée and fine-strain. Combine equal amounts purée and honey syrup (honey diluted with water for cocktail use). Add 1/8 tsp high-quality vanilla extract for every 2 cups syrup. Stir to combine."
+    }
+   ]
+  },
+  {
+   "name": "Cailleach’s Bath Collins",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27151545/MDC_AngelsShare_Ardbeg3.jpg",
+   "about": "This cocktail is named for the Gaelic hag goddess of winter, Cailleach Bheur, to whom the great Corryvreckan serves as laundry basin. The use of preserved citrus and seed serve as ode to her season’s bounty, with a crack of pepper to highlight the malt’s spice.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Corryvreckan scotch",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Rich fennel seed syrup*",
+     "amount": "20 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Puréed preserved lemon**",
+     "amount": "10 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "90 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the soda water into a shaker with ice and shake."
+    },
+    {
+     "how": "Fine-strain into Collins glass over two large chunks of ice, and fill with the soda water, being careful to pour directly onto the surface of the liquid to keep carbonation intact."
+    },
+    {
+     "how": "Garnish with a dehydrated lemon slice, a large frond of fresh fennel and a twist of freshly ground black pepper."
+    },
+    {
+     "how": "*Rich fennel seed syrup: Pour 1 cup very hot water over 1 oz cracked fennel seeds. Add 2 cups granulated sugar, and stir until dissolved. Let cool, then strain."
+    },
+    {
+     "how": "**Puréed preserved lemon: Purée store-bought or homemade preserved lemons. If you don’t have a blender, muddle a small piece of preserved lemon."
+    }
+   ]
+  },
+  {
+   "name": "Outlaws",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27150954/20170601_timmes_left_door_008.jpg",
+   "about": "This Washington, D.C.–inspired cocktail has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Ten Years Old scotch",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Cocchi Americano aperitivo",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Rothman & Winter orchard apricot liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Bittermens Xocolatl Mole bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Double-strain into a couple glass, and garnish with star anise."
+    }
+   ]
+  },
+  {
+   "name": "Scottish Breakfast",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27150023/ardbeg-5-1.jpg",
+   "about": "This San Francisco–inspired cocktail has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Ten Years Old scotch",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Pür Likör spice blood orange liqueur",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Apple butter",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fee Brothers Aztec chocolate bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all the ingredients in a shaker with ice, and shake until appropriately diluted and chilled."
+    },
+    {
+     "how": "Fine-strain into a chilled coupe glass, and garnish with 1 or 2 dehydrated lime wheels floating on top."
+    }
+   ]
+  },
+  {
+   "name": "Burning Meadow",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27145247/Cosmopolitan_Vegas_Sarah-L1130645-1857.jpg",
+   "about": "This Vegas-inspired cocktail has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Ten Years Old scotch",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "12 ml"
+    },
+    {
+     "ingredient": "Himalayan honey pepper*",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Taste Nirvana coconut water",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Meadow flowers aroma**"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Chill a double Old Fashioned glass with ice, discard the ice, and set aside."
+    },
+    {
+     "how": "Add all the ingredients to a shaker ice and shake."
+    },
+    {
+     "how": "Strain into the chilled glass over a 1-inch-by1-inch ice cube, and garnish with edible flowers skewered on a thyme sprig."
+    },
+    {
+     "how": "Pour the warm jar of meadow flowers aroma into the flower pot ensemble. It will begin to mist out and volatilize the aromas. Quickly cover the misting flower pot ensemble with the terrarium to capture the delicate aromas. Lift the terrarium when serving."
+    },
+    {
+     "how": "Place the inverted terrarium beside the ensemble and a wooden coaster in front of this assembly."
+    },
+    {
+     "how": "*Himalayan honey pepper: Add .5 tsp fresh cracked black pepper to a small saucepan on low/medium heat until fragrant, keeping it moving so it doesn't burn. Add 3 oz HoneyTree’s raw organic wildflower honey, 1/8 tsp pink Himalayan salt and 2 oz water. Whisk thoroughly for 2 minutes and allow to simmer for 1 minute. Strain through 3 layers of ultra-fine mesh, and allow to cool. Yield: 4 oz."
+    },
+    {
+     "how": "**Meadow flowers aroma: To create a flower pot ensemble, add dry ice to the bottom of a glass jar, add twigs and flowers on top, and set aside. In another glass jar, add 2.5 oz water, .5 oz rose water, 1 bottle cap Luxardo maraschino liqueur and 5 drops honeysuckle essential oil, and shake vigorously to combine. Close and set aside, and warm before use."
+    }
+   ]
+  },
+  {
+   "name": "10 Year Lifted Flip",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27144855/TheStandardPour_Dallas_%C2%A9DesireeEspada_IMG_6473.jpg",
+   "about": "This Dallas-inspired cocktail has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Ten Years Old scotch",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Burnt sugar syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amontillado sherry",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Topo Chico mineral water",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Grated dark chocolate",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Whole egg",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the mineral water to a shaker with ice and shake."
+    },
+    {
+     "how": "Fine-strain into a chilled Nick & Nora glass or coupe, and top with the mineral water."
+    },
+    {
+     "how": "Let settle for a few seconds, and garnish with grated dark chocolate."
+    }
+   ]
+  },
+  {
+   "name": "Bonfire Banana Alexander",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27144303/Revival_Ardbeg-720x720.jpg",
+   "about": "This Chicago-inspired cocktail has just the right amount of smoke and malt.",
+   "ingredients": [
+    {
+     "ingredient": "Ardbeg Ten Years Old scotch",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Giffard Banane du Brésil liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Amaro Averna",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Concentrated cold-brew coffee",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Heavy whipping cream",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Orgeat Syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "The Bitter Truth chocolate bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to shaker with ice and shake."
+    },
+    {
+     "how": "Strain into Julep cup, and top with crushed ice."
+    },
+    {
+     "how": "Garnish with freshly grated wild tonka bean."
+    }
+   ]
+  },
+  {
+   "name": "Early Start",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27102752/Early-Start-720x720-recipe.jpg",
+   "about": "This cocktail by Alex Negranza, the bar manager at Houston’s Better Luck Tomorrow, pulls from the already-savory green caraway and dill notes of aquavit, accenting them with sorrel, lime, orgeat syrup and egg white for a frothy finish.",
+   "ingredients": [
+    {
+     "ingredient": "Krogstad Festlig aquavit",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orgeat Syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1"
+    },
+    {
+     "ingredient": "French sorrel leaf",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the French sorrel leaf in a mixing tin."
+    },
+    {
+     "how": "Add the rest of the ingredients, dry-shake, then shake with ice."
+    },
+    {
+     "how": "Fine-strain into a coupe."
+    },
+    {
+     "how": "Garnish with a red-veined sorrel leaf."
+    }
+   ]
+  },
+  {
+   "name": "Promenade",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131357/HENNESSY-NYC_Hunt_and_Fish_Club-Matt_Dure%CC%81-Promenade_Photographed_by_Paul_Wagtouicz_121.jpg",
+   "about": "Three French spirits combine for one elegant cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lillet Blanc",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients in a mixing glass and stir."
+    },
+    {
+     "how": "Strain into an ice-filled rocks glass."
+    },
+    {
+     "how": "Garnish with a lemon peel."
+    }
+   ]
+  },
+  {
+   "name": "Alyssum",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162011/Rory-SOCA.FINALS-10.jpg",
+   "about": "Warm cinnamon syrup adds heat to this sweet-bitter cognac cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Luxardo bitter bianco vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh red grapefruit juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cinnamon simple syrup*",
+     "amount": "20 ml"
+    },
+    {
+     "ingredient": "Lemon Hart 151 demarara rum, to top"
+    },
+    {
+     "ingredient": "Handful of mint leaves"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine the mint leaves, cinnamon simple syrup and absinthe in the bottom of a Collins glass and gently press the mint."
+    },
+    {
+     "how": "Add the remaining ingredients, fill the glass with crushed ice, and swizzle to combine."
+    },
+    {
+     "how": "Top off the cocktail with crushed ice, and garnish with a mint sprig and a wide grapefruit peel."
+    },
+    {
+     "how": "*Cinnamon simple syrup: Bring 2 cups water, 2 cups sugar and 6 crushed cinnamon sticks to a boil in a small saucepan. Reduce the heat, and simmer 10 minutes. Strain and cool."
+    }
+   ]
+  },
+  {
+   "name": "Inferno’s Spirit",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162029/Sean%40LockKey.FINALS.jpg",
+   "about": "A bit of heat goes a long way in this spicy cognac cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Grand Marnier liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amaro Meletti",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Scrappy’s Firewater bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Miracle Mile Chocolate Chili bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a mixing glass with ice and stir until chilled."
+    },
+    {
+     "how": "Strain into a rocks glass with carved ice."
+    },
+    {
+     "how": "Express an orange peel around the top and rim of the glass, then garnish with the peel and a dried chile de arbol."
+    }
+   ]
+  },
+  {
+   "name": "Top Hat",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162016/Riley%40Portofino.FINALS-16.jpg",
+   "about": "Sweet, bitter and rich, this cocktail hits all the right notes.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Noilly Pratt sweet vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Amaro Averna",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Top Down",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162020/TheSunsetRestaurant.FINALS.eugeneshoots-3.jpg",
+   "about": "Chartreuse and Bénédictine add herbal notes to cognac in this spirit-forward creation.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "rinse Pernod absinthe",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rinse a Collins glass with the absinthe, and fill it with crushed ice."
+    },
+    {
+     "how": "Add the remaining ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into the Collins glass."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Que Linda",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162032/BCHoffman-Edison.FINALS-4.jpg",
+   "about": "This cognac cocktail packs a citrusy punch with lemon, orange and grapefruit flavors.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Agave",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Grapefruit Zest"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into an ice-filled rocks glass."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Honey Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/28003155/Svetlana-HYDE.FINALS-23_720.jpg",
+   "about": "Add a little more depth to your next Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass, then garnish with orange zest."
+    },
+    {
+     "how": "*Honey syrup: In a saucepan, bring 2 parts water to 1 part honey to a boil and simmer until the honey has dissolved. Cool and store in the refrigerator until ready to use."
+    }
+   ]
+  },
+  {
+   "name": "Honey Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162024/Alex-Nightingale.FINALS.eugeneshoots.jpg",
+   "about": "Sweet honey syrup adds another layer of flavor to the classic citrusy Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass, then garnish with orange zest."
+    },
+    {
+     "how": "*Honey syrup: In a saucepan, bring 2 parts water to 1 part honey to a boil and simmer until the honey has dissolved. Cool and store in the refrigerator until ready to use."
+    }
+   ]
+  },
+  {
+   "name": "Honey Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162003/Anuar-Viceroy.FINALS-4.jpg",
+   "about": "Sweet honey syrup adds another layer of flavor to the classic citrusy Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Orange oil and chamomile tincture",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Honey syrup*",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass."
+    },
+    {
+     "how": "*Honey syrup: In a saucepan, bring 2 parts water to 1 part honey to a boil and simmer until the honey has dissolved. Cool and store in the refrigerator until ready to use."
+    }
+   ]
+  },
+  {
+   "name": "Strawberry Fields",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/26162045/RyanHooks-Hennessy.FINALS.eugeneshoots-2.jpg",
+   "about": "This strawberry-mint cognac cocktail is a perfect for drinking on a porch on a warm summer evening.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P. Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Strawberries"
+    },
+    {
+     "ingredient": "Mint sprig",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the strawberries and mint sprig in a shaker."
+    },
+    {
+     "how": "Add the remaining ingredients and ice, and shake."
+    },
+    {
+     "how": "Strain into a rocks glass over ice."
+    },
+    {
+     "how": "Garnish with a mint sprig and strawberry."
+    }
+   ]
+  },
+  {
+   "name": "Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27095500/HENNESSY-NYC_Bedford_and_Co-Tommy_Warren_Photographed_by_Paul_Wagtouicz_143.jpg",
+   "about": "This twist on the classic combines cognac, Cointreau and fresh lemon juice.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rim half of a coupe glass in raw sugar."
+    },
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into the coupe."
+    }
+   ]
+  },
+  {
+   "name": "The Hennessy Highball",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131444/HENNESSY-NYC_Sweetwater_Social-Matt_Friedlander-Hennessy_Highball_Photographed_by_Paul_Wagtouicz_131.jpg",
+   "about": "You can’t get much easier than this refreshing two-ingredient cognac cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add 4 to 5 cubes of Kold-Draft ice to a Highball glass."
+    },
+    {
+     "how": "Add the cognac."
+    },
+    {
+     "how": "Top with the soda water."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "St. Charles Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131227/NYC_Sanfords_Jay-Kahn_ss-27791.jpg",
+   "about": "This no-nonsense, four-ingredient cocktail created by the legendary Jerry Thomas is crisp, citrusy and sweet.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Port",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all the ingredients in a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a rocks glass filled with crushed ice."
+    },
+    {
+     "how": "Garnish with an orange and cherry flag."
+    }
+   ]
+  },
+  {
+   "name": "Blood Orange Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/27095500/HENNESSY-NYC_Bedford_and_Co-Tommy_Warren_Photographed_by_Paul_Wagtouicz_143.jpg",
+   "about": "This cocktail is an updated Sidecar with bright blood orange flavor.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "55 ml"
+    },
+    {
+     "ingredient": "Ransom dry vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Amara Amaro D'Arancia Rossa",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh blood orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon peel",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all of the ingredients except the lemon peel in a mixing glass with ice and stir."
+    },
+    {
+     "how": "Squeeze the lemon peel into the mixing glass and discard."
+    },
+    {
+     "how": "Strain into a coupe."
+    },
+    {
+     "how": "Garnish with a blood orange wheel."
+    }
+   ]
+  },
+  {
+   "name": "The Henny Bee",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23130906/TRAVESIAS-20-of-331.jpg",
+   "about": "Put a Margarita-ish spin on your next cognac cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Asian pear puree",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Triple sec",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Organic honey",
+     "amount": "1 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a coupe glass."
+    },
+    {
+     "how": "Garnish with a piece of honeycomb and 3 jalapeño wheels."
+    }
+   ]
+  },
+  {
+   "name": "Ginger 75",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23130833/DAZZLER-8-of-131.jpg",
+   "about": "Try a brighter, fresher take on the French 75 with honey and ginger.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Domaine de Canton ginger liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "honey",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Champagne, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients except the Champagne to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Champagne flute."
+    },
+    {
+     "how": "Top with the Champagne."
+    },
+    {
+     "how": "Garnish with a burnt lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Mother of Dragons",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131059/2017_NYC_Junoon_Hemant-Pathack_ss-48891.jpg",
+   "about": "Named for a character in Game of Thrones, this Sazerac update is full of warm masala spices.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Masala spice syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "rinse of Absinthe",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rinse a coupe with absinthe."
+    },
+    {
+     "how": "Add the remaining ingredients to a mixing glass with ice and stir well."
+    },
+    {
+     "how": "Strain the cocktail into the coupe."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    },
+    {
+     "how": "*Masala spice syrup: Steep equal parts water and sugar with a combination of cinnamon, cardamom, clove, anise, sumac and pepper."
+    }
+   ]
+  },
+  {
+   "name": "Dauphine Special",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131143/DISTILLED-19-of-231.jpg",
+   "about": "Named for a street in New Orleans, this herbaceous take on the Sazerac shines with maple and cardamom notes.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Maple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Cardamom bitters",
+     "amount": "5 dashes"
+    },
+    {
+     "ingredient": "Rise of Green Chartreuse"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill a rocks glass with a hearty dash of the Chartreuse, then fill with crushed ice and set aside."
+    },
+    {
+     "how": "Add the remaining ingredients to a rocks glass with fresh ice, and stir until well-chilled."
+    },
+    {
+     "how": "Discard the crushed ice from glass, ensuring it is adequately rinsed, and strain in the cognac mixture."
+    },
+    {
+     "how": "Express the oils from an orange twist and serve."
+    }
+   ]
+  },
+  {
+   "name": "Jitter Bug",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131206/NYC_Django_Maxwell-Britten_ss-29591.jpg",
+   "about": "Green chile vodka adds a layer of heat to this lime-spiked cognac Swizzle.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "St. George Green Chile vodka",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lime cordial",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Curry bitters",
+     "amount": "4 dashes"
+    },
+    {
+     "ingredient": "Génépy",
+     "amount": "1⁄2 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Line a rocks glass with a banana leaf."
+    },
+    {
+     "how": "Add all the ingredients to a mixing glass with ice and swizzle."
+    },
+    {
+     "how": "Strain into the rocks glass and top with crushed ice."
+    },
+    {
+     "how": "Garnish with an orchid."
+    }
+   ]
+  },
+  {
+   "name": "The V.S.O.P Rickey",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131418/NYC_TheLateLate_Seth-Allen_ss-14961.jpg",
+   "about": "This cognac-based Rickey is tart, bubbly and a perfect summertime sipper.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Lime",
+     "amount": "1⁄2"
+    },
+    {
+     "ingredient": "Raspberries",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Lime wheels",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Moët & Chandon Champagne, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Place the lime wheel and ice in a Collins glass."
+    },
+    {
+     "how": "Muddle the lime and raspberries in a shaker."
+    },
+    {
+     "how": "Add the cognac with ice to the shaker and shake."
+    },
+    {
+     "how": "Double-strain into the Collins glass and top with the Champagne."
+    },
+    {
+     "how": "Garnish with an additional lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "K-Town Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23130927/OSAMIL-17-of-371.jpg",
+   "about": "A warmly spiced pineapple syrup adds extra dimension to an updated Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Giffard Crème de Pêche de Vigne liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Pineapple coriander allspice syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychaud's bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Double-strain over fresh ice in a rocks glass."
+    },
+    {
+     "how": "Garnish with a pineapple chunk and pineapple leaf."
+    },
+    {
+     "how": "*Pineapple coriander allspice syrup: Toast ½ tsp coriander and ¼ tsp allspice in a sauce pan until fragrant, making sure not to burn. In a saucepan, bring 46 oz pineapple juice and 16 oz white sugar to a boil until the sugar has dissolved. Add the toasted spices to the pineapple syrup."
+    }
+   ]
+  },
+  {
+   "name": "Belle Amie",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131033/BEA-13-of-251.jpg",
+   "about": "Bea’s twist on an Old Fashioned hits sweet, tart, and chocolate-y notes.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fig vodka",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fee Brothers Aztec chocolate bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain over fresh ice in a rocks glass."
+    },
+    {
+     "how": "Garnish with a dehydrated orange wheel."
+    }
+   ]
+  },
+  {
+   "name": "Shiso Unusual",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131007/KINGSLEY-28-of-281.jpg",
+   "about": "This play on the Mint Julep that’s named after Cyndi Lauper’s first album is guaranteed to be interesting.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Rye whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Grapefruit bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Shiso leaves",
+     "amount": "5"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the bitters, shiso leaves and sugar cube in a goblet."
+    },
+    {
+     "how": "Add crushed ice."
+    },
+    {
+     "how": "Add the cognac and whiskey, and top with more ice."
+    },
+    {
+     "how": "Garnish with a shiso leaf."
+    }
+   ]
+  },
+  {
+   "name": "Piedmont Boulevardier",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23130803/ORO-22-of-221.jpg",
+   "about": "Inspired by Italian apéritifs, this crisp cocktail pairs well with handmade pasta.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cinzano Rosso vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Barrel-aged orange bitters",
+     "amount": "4 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass with ice and stir until properly diluted."
+    },
+    {
+     "how": "Strain into a chilled Martini glass."
+    },
+    {
+     "how": "Express an orange peel over the top before placing it inside the cocktail."
+    }
+   ]
+  },
+  {
+   "name": "Tequila Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/21115833/TequilaSour_7201.jpg",
+   "about": "A solid shake is required for this refreshing Tequila Sour. It’s worth every move.",
+   "ingredients": [
+    {
+     "ingredient": "Tequila Reposado",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Light agave nectar",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Makes 1."
+    },
+    {
+     "how": "Add all the ingredients except the bitters to a shaker, and dry-shake (without ice) for 15 seconds."
+    },
+    {
+     "how": "Add ice, shake, and double-strain into a rocks glass."
+    },
+    {
+     "how": "Garnish with 3 drops of the bitters."
+    }
+   ]
+  },
+  {
+   "name": "Skirt Steak Tacos",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/21115850/Steak_Taco_720.jpg",
+   "about": "Who doesn’t love a chargrilled steak taco? It’s pretty much the perfect summer meal and goes great with any number of hot-weather tequila drinks.",
+   "ingredients": [
+    {
+     "ingredient": "olive oil",
+     "amount": "1⁄3 cup"
+    },
+    {
+     "ingredient": "garlic cloves, 3 smashed and 1 garlic clove minced",
+     "amount": "4"
+    },
+    {
+     "ingredient": "fresh lime juice, plus another whole lime for garnish",
+     "amount": "2 tbsp"
+    },
+    {
+     "ingredient": "Fresh orange juice",
+     "amount": "2 tbsp"
+    },
+    {
+     "ingredient": "lightly packed chopped fresh cilantro, plus more for garnish",
+     "amount": "1⁄4 cup"
+    },
+    {
+     "ingredient": "Prepared horseradish",
+     "amount": "1 tbsp"
+    },
+    {
+     "ingredient": "crushed red pepper",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "skirt steak",
+     "amount": "3 lb"
+    },
+    {
+     "ingredient": "avocados",
+     "amount": "2"
+    },
+    {
+     "ingredient": "shallot, chopped",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Salt"
+    },
+    {
+     "ingredient": "Pepper"
+    },
+    {
+     "ingredient": "crumbled queso fresco",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Sour cream (optional)"
+    },
+    {
+     "ingredient": "white corn tortillas",
+     "amount": "12"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Serves 6 (2 tacos per serving)."
+    },
+    {
+     "how": "In a large zip-top bag, combine the olive oil, smashed garlic, lime juice, orange juice, 1/4 cup cilantro, horseradish and crushed red pepper. Add the skirt steak and seal. Marinate for at least 2 hours at room temperature or refrigerate overnight. (If refrigerated, let come to room temperature before grilling.)."
+    },
+    {
+     "how": "Remove steak and use a paper towel to pat the surface somewhat dry. Get your grill extremely hot, and brush with small amount of vegetable oil. Cook for about 3 minutes, flip, and repeat. Surface should be charred, while inside should be medium. Transfer the steak from the grill to a cutting board, cover with foil, and let rest for 10 minutes."
+    },
+    {
+     "how": "Mash together the avocado, shallot and minced garlic in a mixing bowl. Add salt and pepper along with a squeeze of lime. Set aside."
+    },
+    {
+     "how": "Cut the steak across the grain into slices, then cut in the opposite direction into bite-size pieces."
+    },
+    {
+     "how": "To assemble the tacos, warm your tortillas on the grill and fill each tortilla with steak, avocado mixture and queso fresco. Top with sour cream, cilantro and a squeeze of lime, if desired."
+    }
+   ]
+  },
+  {
+   "name": "Between the Sheets",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131247/NYC_The-Writing-Room_Michael-Glick_ss-12361.jpg",
+   "about": "Swap out the lemon juice for rum in this boozy update on the Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Aged rum",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with an orange peel set aflame."
+    }
+   ]
+  },
+  {
+   "name": "Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131313/NYC_The-Vanity_Eric-Biberman_ss-13161.jpg",
+   "about": "You can’t get much more simple or refreshing than this three-ingredient Sidecar.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Orange liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "3⁄4"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with cracked ice and shake."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Sazerac De Los Reyes",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131122/NYC_Crimson-and-Rye_Mcson-Salicetti_ss-14171.jpg",
+   "about": "This cocktail is warm take on the Sazerac, with cardamom, bitters and Luxardo maraschino liqueur.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Génépy",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Cardamom tincture",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Absinthe",
+     "amount": "3 drops"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Aromatic bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Place an ice sphere in a rocks glass."
+    },
+    {
+     "how": "Add all the ingredients to a mixing glass filled with ice, and stir well."
+    },
+    {
+     "how": "Strain over the ice sphere in the rocks glass."
+    },
+    {
+     "how": "Garnish with a sage leaf and lime peel."
+    }
+   ]
+  },
+  {
+   "name": "Sidecar",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/23131338/NYC_Parlor-Steak-and-Fish_Emma-Slattery_ss-11691.jpg",
+   "about": "If you’re craving a classic cocktail, pour yourself this three-ingredient stunner.",
+   "ingredients": [
+    {
+     "ingredient": "Hennessy V.S.O.P Privilège cognac",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "3⁄4"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with cracked ice and shake."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Busy Bee",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/20135933/Busy-Bee-720x720-recipe.jpg",
+   "about": "When Allison Lindsey, the head bartender at Baltimore’s Bar Vasquez, is juicing cucumbers for this salty riff on the Bee’s Knees, she starts with no more than a teaspoon or so of sea salt per quart. “You have your sweet, your bitter, your salty and the aromatics,” she says. “It makes a great well-balanced cocktail and something a little unexpected.”",
+   "ingredients": [
+    {
+     "ingredient": "Ransom Old Tom gin",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Salted cucumber juice*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "honey",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice, and shake until well-chilled."
+    },
+    {
+     "how": "Strain into a chilled coupe glass, and garnish with a rosemary sprig."
+    },
+    {
+     "how": "*Salted cucumber juice: Using a juicer, juice peeled cucumbers to yield 1 quart. Strain juice to remove any pulp, and add 1 to 1 1/2 tsp sea salt to add flavor and preserve the juice. Store the mixture in the refrigerator."
+    }
+   ]
+  },
+  {
+   "name": "Ti’ Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/20135108/ti-punch-720x720-recipe.jpg",
+   "about": "The national cocktail of Martinique is as easy to make as it is to drink, using just three ingredients, including the island’s native spirit, rhum agricole.",
+   "ingredients": [
+    {
+     "ingredient": "Rhum agricole",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Sugar cane syrup",
+     "amount": "1 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Squeeze a lime wheel into a chilled rocks glass."
+    },
+    {
+     "how": "Add the remaining ingredients, and top with ice."
+    },
+    {
+     "how": "Stir with a barspoon, and top with more ice."
+    }
+   ]
+  },
+  {
+   "name": "Navy Grog",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/20134139/navy-grog-720x720-recipe.jpg",
+   "about": "The Big Daddy of high-octane Tiki drinks, this cocktail dates back to the early days of legendary bartender Donn Beach. The original recipe, packed with three types of rum, calls for an ice cone garnish, but that requires a bit of planning, not to mention freezer space. So we suggest you streamline with a simple mint sprig and lime wheel.",
+   "ingredients": [
+    {
+     "ingredient": "Gold demerara rum, such as El Dorado",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Dark Jamaican rum, such as Appleton Estate",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "White Cuban or Puerto Rican rum, such Bacardí Superior",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh grapefruit juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Soda water",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Honey syrup (equal parts honey and water)",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker filled with crushed ice and shake until well-chilled (about 30 seconds)."
+    },
+    {
+     "how": "Strain into a chilled rocks glass with fresh crushed ice."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Hotel Nacional",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/20132825/hotel-nacional-720x720-recipe.jpg",
+   "about": "The signature drink at Havana’s historic Hotel Nacional mixes pineapple juice and apricot liqueur for a cocktail that’s smooth, fragrant and big on tropical flavor. You can use either white or dark rum (or both), depending on your mood.",
+   "ingredients": [
+    {
+     "ingredient": "White rum (or aged rum)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Apricot liqueur",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Pour all the ingredients into a shaker with ice and shake for 30 seconds."
+    },
+    {
+     "how": "Strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Apple Press"
+  }
+ ]
+}

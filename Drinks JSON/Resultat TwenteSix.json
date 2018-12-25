@@ -1,0 +1,45 @@
+{
+ "drinkName": [
+  {
+   "name": "Apple Press",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/06/20105928/apple-press-720x720-recipe.jpg",
+   "about": "Jeremy Allen, the head bartender and general manager at Los Angeles’ MiniBar, incorporates Four Roses bourbon, Laird’s apple brandy, fresh apple juice, apple cider vinegar and Fee Brothers black walnut bitters into this cocktail. Apple cider vinegar has long been considered healthful with a laundry list of potential benefits, including helping control blood sugar, supporting immune function and aiding digestion. The Apple Press “screams fall/ winter fireplace without being a hot drink,” says Allen. “It incorporates apple cider vinegar, which is helpful in preventing the onset of colds and the flu.”",
+   "ingredients": [
+    {
+     "ingredient": "Four Roses bourbon",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Laird’s apple brandy",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh apple juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Apple cider vinegar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fee Brothers walnut bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a Martini glass."
+    },
+    {
+     "how": "Garnish with a floating apple slice."
+    },
+    {
+     "how": "Dust with grated cinnamon and star anise."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "drinkName": [
+  {
+   "name": "Precision Timepiece",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2015/06/recipe-precision-timepiece.jpg",
+   "about": "Jäger, amaro and Aperol create one handsome cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Jägermeister",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Amaro Montenegro",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Aperol",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Dale DeGroff's Pimento Bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a mixing glass and fill with ice. Stir, and strain into a rocks glass filled with ice. Garnish with an orange twist."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "drinkName": [
+  {
+   "name": "Smoky Paloma",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/08/smokey-paloma-cocktail.jpg",
+   "about": "This sweet-and-citrusy cocktail calls for not one but three different types of spirits.",
+   "ingredients": [
+    {
+     "ingredient": "Tres Agaves Blanco Tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Del Maguey Vida Mezcal",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Charbay Ruby Red Grapefruit Vodka",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and shake without ice for 10 seconds."
+    },
+    {
+     "how": "Fill with ice and shake for another 10 seconds."
+    },
+    {
+     "how": "Strain into a bucket glass filled with fresh ice and garnish with a lime wheel."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "drinkName": [
+  {
+   "name": "Bacardí Hemingway Special",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/10/17112510/hemingway-edited.jpg",
+   "about": "This cocktail was created for Ernest Hemingway by bartender Constantino Ribalaigua of the El Floridita in Havana. Hemingway was diabetic, so the sugar in the drink was replaced with maraschino liqueur, grapefruit juice and an additional measure of rum.",
+   "ingredients": [
+    {
+     "ingredient": "BACARDÍ Superior rum",
+     "amount": ""
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": ""
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": ""
+    },
+    {
+     "ingredient": "Fresh white grapefruit juice",
+     "amount": ""
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker filled with half cubed ice, half crushed ice, and shake until cold."
+    },
+    {
+     "how": "Fine-strain into a chilled Highball glass."
+    },
+    {
+     "how": "Garnish with a maraschino cherry."
+    }
+   ]
+  }
+ ]
+}

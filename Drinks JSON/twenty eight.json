@@ -1,0 +1,39 @@
+{
+ "drinkName": [
+  {
+   "name": "Lion’s Tail with FEW Bourbon",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/11/07144903/FEW_lions_recipe_main_720x720_v2.png",
+   "about": "This bourbon cocktail is perfect for fall.",
+   "ingredients": [
+    {
+     "ingredient": "FEW bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Allspice dram",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Demerara simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients into a mixing glass with ice, and shake."
+    },
+    {
+     "how": "Strain into a rocks glass, and garnish with lime zest peel."
+    }
+   ]
+  }
+ ]
+}

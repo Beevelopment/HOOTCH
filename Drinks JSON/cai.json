@@ -1,0 +1,40 @@
+{
+ "drinkName": [
+  {
+   "name": "Leblon Coco Caipirinha",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/12/26122636/leblon-coco-caipirihna-720-720-recipe.jpg",
+   "about": "You put the lime in the coconut and drink ’em both together.",
+   "ingredients": [
+    {
+     "ingredient": "Lime, cut into wedges",
+     "amount": "1⁄2"
+    },
+    {
+     "ingredient": "Superfine sugar",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Leblon Cachaça",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Coconut water"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the lime and sugar in a shaker."
+    },
+    {
+     "how": "Add the Leblon Cachaça, fill with ice and shake well."
+    },
+    {
+     "how": "Pour, unstrained, into an old fashioned glass and top with Vita Coco."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  }
+ ]
+}

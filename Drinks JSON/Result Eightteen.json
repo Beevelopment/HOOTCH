@@ -1,0 +1,3650 @@
+{
+ "drinkName": [
+  {
+   "name": "Maison Premiere Sazerac",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/Maison-Premiere-Sazerac.jpg",
+   "about": "Try this simple twist on the classic Sazerac recipe.",
+   "ingredients": [
+    {
+     "ingredient": "Absinthe",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Bulleit Rye Whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Bitters",
+     "amount": "6 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add a few ice cubes and the absinthe to a double rocks glass."
+    },
+    {
+     "how": "Stir a few times, liberally splashing the sides of the glass."
+    },
+    {
+     "how": "Tilt the glass so the absinthe reaches the rim and turn slowly to coat the entire glass."
+    },
+    {
+     "how": "Discard the ice and excess absinthe, and set aside."
+    },
+    {
+     "how": "Add the remaining ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake well and pour (unstrained) into the prepared glass."
+    },
+    {
+     "how": "Garnish with lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Whiskey Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/08/03111040/11-Essential-Cocktails-for-your-August-Parties-whiskey-smash-720x720-slideshow.jpg",
+   "about": "Like Mint Juleps? You’ll love the Whiskey Smash, a citrusy 19th-century cooler. Legendary bartender Dale DeGroff at the Rainbow Room in New York modified the classic recipe by adding muddled lemon wedges. DeGroff calls the citrus-and-mint combination the perfect cocktail for those who say they’ll never drink whiskey.",
+   "ingredients": [
+    {
+     "ingredient": "Lemon, cut into wedges",
+     "amount": "half"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Elijah Craig 12-Year-Old Bourbon",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the lemon."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and double-strain into a rocks glass filled with crushed ice or one large ice chunk."
+    },
+    {
+     "how": "Slap a mint sprig between your hands and use as garnish."
+    },
+    {
+     "how": "Serve with a straw."
+    }
+   ]
+  },
+  {
+   "name": "VEEV Basil Gimlet",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/07/veev-basil-gimlet.jpg",
+   "about": "Add some herbal freshness to the classic lime cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Basil leaves, torn into pieces",
+     "amount": "4"
+    },
+    {
+     "ingredient": "VeeV Açaí Spirit",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a chilled Martini glass."
+    },
+    {
+     "how": "Float a basil leaf on top of the drink."
+    }
+   ]
+  },
+  {
+   "name": "Flying Dutchman",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/08/22104358/flying-dutchman1.jpg",
+   "about": "Three different herb-infused spirits flavor this easy-to-make cocktail with complex flavors.",
+   "ingredients": [
+    {
+     "ingredient": "Bols genever",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Yellow Chartreuse",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled large cocktail glass."
+    }
+   ]
+  },
+  {
+   "name": "Sweet Tea Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/Sweet-Tea-Smash.jpg",
+   "about": "Fix this summery cocktail and then find a nearby porch to sip it on.",
+   "ingredients": [
+    {
+     "ingredient": "Lemon wedges",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Unsweetened iced tea",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "George Dickel No. 12 Tennessee whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Strega",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Cane syrup",
+     "amount": "1 tsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the lemon wedges and mint leaves."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice. Garnish with a sprig of mint."
+    }
+   ]
+  },
+  {
+   "name": "Pharaoh Cooler",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/Pharaoh-Cooler.jpg",
+   "about": "Looking for a refreshing drink? Try this tequila, watermelon and grenadine cooler.",
+   "ingredients": [
+    {
+     "ingredient": "Don Julio blanco tequila",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Watermelon juice",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange flower water",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the club soda to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a highball glass filled with fresh ice. Fill with chilled club soda."
+    }
+   ]
+  },
+  {
+   "name": "Shifting Sands",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/06/the-shifting-sands1.jpg",
+   "about": "This tasty gin and citrus cocktail comes from master mixologist Sasha Petraske.",
+   "ingredients": [
+    {
+     "ingredient": "Beefeater 24 Gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": "2 tsp"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the club soda to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Top with club soda and garnish with a grapefruit wedge."
+    }
+   ]
+  },
+  {
+   "name": "Gypsy Queen",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/06/gypsy-queen.jpg",
+   "about": "One of the earliest vodka-cocktail recipes created in the US, this simple tipple dates back to 1938.",
+   "ingredients": [
+    {
+     "ingredient": "Russian Standard Vodka",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with cracked ice."
+    },
+    {
+     "how": "Stir, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Twist a swatch of thin-cut lemon peel over the top and discard."
+    }
+   ]
+  },
+  {
+   "name": "24 Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/02/17103950/24-sour.jpeg",
+   "about": "Pucker up for this gin, Bénédictine and lemon juice combo.",
+   "ingredients": [
+    {
+     "ingredient": "Beefeater 24 Gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "10 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "10 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a chilled Old Fashioned glass."
+    },
+    {
+     "how": "Garnish with an orange wedge and cherry."
+    }
+   ]
+  },
+  {
+   "name": "Betsy Ross",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/06/27124200/betsy-ross-cocktail.jpeg",
+   "about": "No, the famed flag-maker Betsy Ross did not create this brandy- and port-based tipple. But it’s delicious nonetheless.",
+   "ingredients": [
+    {
+     "ingredient": "Brandy",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Ruby port",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Orange curaçao",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a chilled cocktail glass."
+    }
+   ]
+  },
+  {
+   "name": "Rhode Island Red",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/04/rhode-island-red.jpg",
+   "about": "The smallest state in the union is the namesake for this big-time tequila cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Blanco tequila (or 4 Copas)",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Chambord",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Ginger beer"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the ginger beer to a shaker and fill with crushed ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Top with a splash of ginger beer and garnish with lemon and lime zest."
+    }
+   ]
+  },
+  {
+   "name": "Fall and Summer",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/12/fall-and-summer.jpg",
+   "about": "Toast the seasons with this tasty tequila cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Don Julio Añejo Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fig preserves",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Rosemary",
+     "amount": "5"
+    },
+    {
+     "ingredient": "Ginger",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle all the ingredients except the Ginger Syrup."
+    },
+    {
+     "how": "Add the Ginger Syrup and fill with ice."
+    },
+    {
+     "how": "Shake well and strain into a rocks glass filled with fresh ice or a highball glass without ice."
+    },
+    {
+     "how": "Garnish with a rosemary sprig."
+    }
+   ]
+  },
+  {
+   "name": "Berri Ricky",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/06/04151705/berri-ricky-800x800.jpg",
+   "about": "A fruity version of an old classic.",
+   "ingredients": [
+    {
+     "ingredient": "Absolut Berri Açaí",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "120 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a highball glass filled with ice."
+    },
+    {
+     "how": "Stir, and garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Chilcano",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/04/27102736/chilcano.jpg",
+   "about": "The refreshing snap of lime and pisco with the fizz of ginger ale is what makes the Chilcano delicious.",
+   "ingredients": [
+    {
+     "ingredient": "BarSol Primero Pisco",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Ginger ale"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 drops"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the pisco and lime juice to a highball glass filled with ice."
+    },
+    {
+     "how": "Top with ginger ale and add the bitters."
+    },
+    {
+     "how": "Garnish with a lime twist."
+    }
+   ]
+  },
+  {
+   "name": "Aviation",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/07/14070101/aviation-720FB.jpg",
+   "about": "Noted for its beautiful color, this old-school gin Aviation cocktail is as blue as the sky. Created before Prohibition, this staple was lost to the United States after the Noble Experiment. Luckily, the return of lots of classic liqueurs and quality spirits put this cocktail back on the market.",
+   "ingredients": [
+    {
+     "ingredient": "Gin\nTry it with Plymouth",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Crème de violette or Crème Yvette",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a cocktail glass."
+    },
+    {
+     "how": "Garnish with a brandied cherry."
+    }
+   ]
+  },
+  {
+   "name": "The Basil Fizz",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/08/basil-fizz.jpg",
+   "about": "Bourbon and Champagne make beautiful music together.",
+   "ingredients": [
+    {
+     "ingredient": "Basil Haydens Bourbon",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Champagne",
+     "amount": "120 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add Basil Hayden's Bourbon and Champagne to a flute."
+    }
+   ]
+  },
+  {
+   "name": "Absinthe Drip",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/12152506/absinthe-drip.jpg",
+   "about": "Enjoy the once-illicit absinthe in an old-fashioned Absinthe Drip.",
+   "ingredients": [
+    {
+     "ingredient": "Ice water"
+    },
+    {
+     "ingredient": "Absinthe",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill an absinthe fountain with ice water."
+    },
+    {
+     "how": "Pour the absinthe into an absinthe glass and place an absinthe spoon topped with the sugar cube across the rim. Position the glass under a spigot of the fountain and slowly drip water over the sugar cube until the sugar dissolves and the absinthe turns completely opaque."
+    },
+    {
+     "how": "(You will need roughly 5 ounces of water per ounce of absinthe)."
+    },
+    {
+     "how": "Stir briefly before serving."
+    }
+   ]
+  },
+  {
+   "name": "Winter Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/winter-sour.jpg",
+   "about": "This delicious low-alcohol cocktail recipe is bitter, sweet and seasonal.",
+   "ingredients": [
+    {
+     "ingredient": "Meyer lemon juice",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Egg white (around 1 egg's worth)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Clover honey syrup (1 part clover honey, 1 part simple syrup)",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Strip the leaves from the rosemary sprig and add them to a shaker."
+    },
+    {
+     "how": "Muddle, and then add the Meyer lemon juice and egg white."
+    },
+    {
+     "how": "Shake without ice for 5 seconds."
+    },
+    {
+     "how": "Add the Campari and honey syrup and fill with ice."
+    },
+    {
+     "how": "Shake well and strain into a cocktail glass."
+    },
+    {
+     "how": "Garnish with a short rosemary sprig."
+    }
+   ]
+  },
+  {
+   "name": "Whatamelon",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/Whatamelon.jpg",
+   "about": "This watermelon cooler is perfect for a day at the beach.",
+   "ingredients": [
+    {
+     "ingredient": "Watermelon juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Mint",
+     "amount": "6"
+    },
+    {
+     "ingredient": "Square One cucumber vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "St-Germain",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Bright, crisp white wine, such as Sauternes or verdejo (optional)",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the watermelon juice or cubes and mint."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a mint leaf slapped between your palms."
+    }
+   ]
+  },
+  {
+   "name": "The Tender Knob",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/tender-knob.jpg",
+   "about": "Apple, bourbon and cinnamon create the perfect autumn tipple.",
+   "ingredients": [
+    {
+     "ingredient": "Organic Granny Smith or Fuji Apple (eighth inch)",
+     "amount": "1 slice"
+    },
+    {
+     "ingredient": "Knob Creek Bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Alcoholic apple cider",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Cinnamon",
+     "amount": "1 pinch"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the apple slice."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake for 10 seconds and strain into a double Old Fashioned glass filled with fresh ice."
+    },
+    {
+     "how": "(Do not double-strain; you want some apple bits in the finished drink)."
+    },
+    {
+     "how": "Garnish with an additional apple slice."
+    }
+   ]
+  },
+  {
+   "name": "Red, White & Night",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/08/03114045/11-Essential-Vodka-Cocktails-to-Try-Right-Now-red-white-and-night-720x720-slideshow.jpg",
+   "about": "Celebrate the Fourth of July year-round with this ruby-red punch.",
+   "ingredients": [
+    {
+     "ingredient": "Cabernet sauvignon wine",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Vodka",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Freshly squeezed lemon juice",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strin into a highball glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with 3 blueberries or black raspberries coated in powdered sugar."
+    }
+   ]
+  },
+  {
+   "name": "The Murphy Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/Murphy-Sour.jpg",
+   "about": "Try this citrusy twist on the classic South American Pisco Sour.",
+   "ingredients": [
+    {
+     "ingredient": "Chopped fresh Cilantro leaves",
+     "amount": "1 tbsp"
+    },
+    {
+     "ingredient": "Clementine, peeled",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Campo de Encanto Acholado Pisco",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Clover honey syrup (one part clover honey, one part water)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Egg white (or 1 egg white)",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the cilantro and clementine."
+    },
+    {
+     "how": "Add the remaining ingredients and shake without ice for 5 seconds."
+    },
+    {
+     "how": "Fill with ice and shake well."
+    },
+    {
+     "how": "Double-strain into a cocktail glass and garnish with a cilantro sprig."
+    }
+   ]
+  },
+  {
+   "name": "Front Porch Swing",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/Front-Porch-Swing.jpg",
+   "about": "In this refreshing Sangria variation, vodka and elderflower play off the bright flavors of fruit and white wine.",
+   "ingredients": [
+    {
+     "ingredient": "Square One Cucumber Vodka or Square One Botanical Spirit",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "White wine (sauvignon blanc, Sancerre, albariño or verdejo)",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "St-Germain",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Mint",
+     "amount": "1 sprig"
+    },
+    {
+     "ingredient": "White or green grapes, halved",
+     "amount": "5"
+    },
+    {
+     "ingredient": "Orange wheel",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Red grapes",
+     "amount": "5"
+    },
+    {
+     "ingredient": "berries",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill three-quarters of the way with ice."
+    },
+    {
+     "how": "Shake for 10 seconds and pour (unstrained) into a large wine glass."
+    },
+    {
+     "how": "Garnish with a mint or tarragon sprig."
+    }
+   ]
+  },
+  {
+   "name": "Manhattan",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/05/10144903/Manhattan-720x720-recipe.jpg",
+   "about": "The Manhattan was the most famous cocktail in the world shortly after it was invented in New York City’s Manhattan Club, some time around 1880 (as the story goes). Over the years, the whiskey classic has dipped in and out of fashion before finding its footing as one of the cornerstones of the craft cocktail renaissance.",
+   "ingredients": [
+    {
+     "ingredient": "Bourbon or rye",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a mixing glass with ice, and stir until well-chilled."
+    },
+    {
+     "how": "Strain into a chilled coupe."
+    },
+    {
+     "how": "Garnish with a brandied cherry."
+    }
+   ]
+  },
+  {
+   "name": "Kyoto Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/09/kyoto_sour.jpg",
+   "about": "Sake isn’t just for sipping. Try this spicy cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Grapefruit",
+     "amount": "2 slices"
+    },
+    {
+     "ingredient": "Green Tabasco Sauce",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Gekkeikan Haiku Sake",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the grapefruit and Tabasco."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a grapefruit slice and a fresh mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Smash & Grab",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/09/31074516/smash-and-grab.jpg",
+   "about": "You don’t need a crowbar to fix this tasty bourbon cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Larceny bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Orange wheels",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Mint sprigs",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, lightly muddle the orange, mint and simple syrup."
+    },
+    {
+     "how": "Add the bourbon and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and double-strain into an Old Fashioned glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lemon wheel."
+    }
+   ]
+  },
+  {
+   "name": "No. 3 French 75",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/11/no-3-french-75.jpg",
+   "about": "The bubbly French 75 is perfect for celebrating a large or a small occasion.",
+   "ingredients": [
+    {
+     "ingredient": "No. 3 London Dry Gin",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Champagne"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the Champagne to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Champagne flute."
+    },
+    {
+     "how": "Fill with Champagne and garnish with a brandied cherry."
+    }
+   ]
+  },
+  {
+   "name": "Dale’s Rainbow Planter’s Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/22171720/dales-rainbow-planters-punch-recipe.jpg",
+   "about": "An instant-party-in-a-punchbowl for six, dreamed up by cocktail legend Dale DeGroff.",
+   "ingredients": [
+    {
+     "ingredient": "Myers's Dark Rum",
+     "amount": "150 ml"
+    },
+    {
+     "ingredient": "Appleton White Rum",
+     "amount": "150 ml"
+    },
+    {
+     "ingredient": "Orange curaçao",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Fresh orange juice",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "St. Elizabeth allspice dram",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 tbsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all the ingredients in a large pitcher or bowl."
+    },
+    {
+     "how": "Before serving, shake individual drinks in a shaker with ice and strain into punch cups or large goblets filled three-quarters of the way with ice."
+    },
+    {
+     "how": "Garnish each drink with pineapple, orange, and lime slices."
+    }
+   ]
+  },
+  {
+   "name": "Boat House Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/boat-house-punch.jpg",
+   "about": "The citrusy, bubbly Boat House Punch is both gorgeous and delicious.",
+   "ingredients": [
+    {
+     "ingredient": "Dorothy Parker American Gin",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "2 tbsp"
+    },
+    {
+     "ingredient": "Lemon",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Aperol",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "St-Germain",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Orange juice",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "270 ml"
+    },
+    {
+     "ingredient": "Rosé Champagne (6 oz)",
+     "amount": "1⁄4 bottle"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a large pitcher, muddle the lemon peel and sugar."
+    },
+    {
+     "how": "Let stand for at least 30 minutes."
+    },
+    {
+     "how": "Add the remaining ingredients, fill with ice and stir briefly."
+    },
+    {
+     "how": "Garnish with orange wheels."
+    }
+   ]
+  },
+  {
+   "name": "Maker’s Mark Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/09/makers-mark-old-fashioned.jpg",
+   "about": "Muddled fruit gives this version of the classic Old Fashioned an extra kick of sweetness.",
+   "ingredients": [
+    {
+     "ingredient": "Orange wheel",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Maraschino cherry",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Maker's Mark Bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In an Old Fashioned glass, muddle the orange, cherry and sugar."
+    },
+    {
+     "how": "Fill three-quarters of the way with ice and add the bourbon and club soda."
+    },
+    {
+     "how": "Garnish with an additional orange wheel and maraschino cherry."
+    }
+   ]
+  },
+  {
+   "name": "Caipirinha",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/06/Caipirinha-1.jpg",
+   "about": "Our classic Caipirinha recipe instantly transports you to a beach in Rio.",
+   "ingredients": [
+    {
+     "ingredient": "Lime, cut into wedges",
+     "amount": "half"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "2 tsp"
+    },
+    {
+     "ingredient": "Cachaça",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "To make a Caipirinha first, in a double Old Fashioned glass, muddle the sugar and lime."
+    },
+    {
+     "how": "Fill with ice and add the cachaça."
+    },
+    {
+     "how": "Stir briefly and garnish with a lime wheel if desired."
+    }
+   ]
+  },
+  {
+   "name": "Gentleman’s Press",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/12/290-Gentleman_Jack.jpg",
+   "about": "The simplest pairings are often the most satisfying. A perfect showcase for Gentleman Jack Rare Tennessee Whiskey, The Gentleman’s Press melds naturally with the bubbly freshness of ginger beer and a hint of lime.",
+   "ingredients": [
+    {
+     "ingredient": "Gentleman Jack Rare Tennessee Whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Ginger beer",
+     "amount": "90 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add both ingredients to a Collins glass filled with ice."
+    },
+    {
+     "how": "Stir briefly and garnish with a lime wedge."
+    }
+   ]
+  },
+  {
+   "name": "Jalisco Flor",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/06/jalisco-flor.jpg",
+   "about": "Mix up this flower of a cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Gran Centenario Rosangel Tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "La Pinta Pomegranate Tequila",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Ginger ale",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a highball glass and fill with ice."
+    },
+    {
+     "how": "Stir, and garnish with a few orange slices."
+    }
+   ]
+  },
+  {
+   "name": "Duke’s Martini",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/01/Dukes-Martini.jpg",
+   "about": "This classic Martini uses a classic London dry-style gin.",
+   "ingredients": [
+    {
+     "ingredient": "No. 3 gin",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "2 drops"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Chill the gin and a cocktail glass in the freezer for at least two hours."
+    },
+    {
+     "how": "Add the gin and vermouth to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into the frozen cocktail glass."
+    },
+    {
+     "how": "Garnish with a slice of lemon peel."
+    }
+   ]
+  },
+  {
+   "name": "Ginger Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/10102726/FA-Ginger_Smash.jpg",
+   "about": "A delicious mix of three spirits, pineapple, lime juice and, of course, ginger.",
+   "ingredients": [
+    {
+     "ingredient": "Fresh pineapple",
+     "amount": "2 chunks"
+    },
+    {
+     "ingredient": "Fresh ginger root",
+     "amount": "2 slices"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "10 Cane rum",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Luxardo maraschino liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Berentzen apple liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Muddle the pineapple, ginger and sugar in a shaker until they form a paste."
+    },
+    {
+     "how": "Add the remaining ingredients and fill halfway with ice."
+    },
+    {
+     "how": "Shake briefly and pour (unstrained) into a rocks or Old Fashioned glass."
+    },
+    {
+     "how": "Garnish with a pineapple leaf."
+    }
+   ]
+  },
+  {
+   "name": "Wild Turkey Mint Tea",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2011/06/25145732/Wild-Turkey-Mint-Tea.jpg",
+   "about": "Try this summertime favorite with a bourbon punch.",
+   "ingredients": [
+    {
+     "ingredient": "Water, divided",
+     "amount": "4 cup"
+    },
+    {
+     "ingredient": "Sugar",
+     "amount": "2 tbsp"
+    },
+    {
+     "ingredient": "Black tea bags",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Fresh mint leaves",
+     "amount": "1 cup"
+    },
+    {
+     "ingredient": "Wild Turkey Bourbon",
+     "amount": "1 1⁄2 cup"
+    },
+    {
+     "ingredient": "Juice of half a lemon"
+    },
+    {
+     "ingredient": "Juice of half a lime"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a large saucepan, boil 2 cups of water and the sugar."
+    },
+    {
+     "how": "Remove from the heat and add the tea bags."
+    },
+    {
+     "how": "Steep for 8 minutes and then discard the bags."
+    },
+    {
+     "how": "Add the remaining 2 cups of water."
+    },
+    {
+     "how": "Transfer to a pitcher and chill."
+    },
+    {
+     "how": "Add the mint and crush with a wooden spoon until fragrant."
+    },
+    {
+     "how": "Stir in the remaining ingredients."
+    },
+    {
+     "how": "Serve in tall glasses filled with ice."
+    },
+    {
+     "how": "Garnish each glass with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Yerba Buena",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/10/yerba-buena-cocktail.jpg",
+   "about": "Mojito + ginger beer = refreshing and delicious.",
+   "ingredients": [
+    {
+     "ingredient": "Mint leaves",
+     "amount": "8"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Partida Reposado Tequila",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Ginger beer"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a highball glass, muddle the mint, lime juice and agave nectar."
+    },
+    {
+     "how": "Add the tequila and fill with ice."
+    },
+    {
+     "how": "Top with ginger beer and stir."
+    },
+    {
+     "how": "Garnish with a mint sprig and a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "Caribeño",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/08/16152930/caribeno-720x720-recipe.jpg",
+   "about": "Go tropical with this coconut water, lime and rum drink.",
+   "ingredients": [
+    {
+     "ingredient": "Lime juice",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Rich simple syrup (2 parts sugar, 1 part water)",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Coconut water",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Puerto Rican white rum",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Squeeze a lime wedge into the glass and drop it in the drink."
+    }
+   ]
+  },
+  {
+   "name": "Basil Hayden’s Bloody Mary",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/08/Basil-Haydens-Bloody-Mary.jpg",
+   "about": "A bourbon Bloody Mary? Try this unusual concoction for brunch.",
+   "ingredients": [
+    {
+     "ingredient": "Lime wedge",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Celery salt"
+    },
+    {
+     "ingredient": "Basil Haydens Bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Hot sauce",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Worcestershire sauce",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Wasabi",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Tomato juice"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rub the lime wedge around the rim of a pint glass and coat with celery salt."
+    },
+    {
+     "how": "Fill with ice and add 2 dashes of celery salt and the remaining ingredients except the tomato juice."
+    },
+    {
+     "how": "Fill with tomato juice and stir well."
+    },
+    {
+     "how": "Garnish with a celery stalk, lime wedge and blue cheese-stuffed olives."
+    }
+   ]
+  },
+  {
+   "name": "Gimlet",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/04/18130019/gimlet-720x720-article.jpg",
+   "about": "Who says medicine can’t taste amazing? This essential cocktail was created for sailors as a way to prevent scurvy. It didn’t take long to realize that this preventative drink was also delicious. While scurvy may be of the past, it seems like this tart tipple is here to stay. It doesn’t get much simpler or more refreshing than the classic Gimlet.",
+   "ingredients": [
+    {
+     "ingredient": "Gin\nTry it with Beefeater",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a shaker with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    },
+    {
+     "how": "(You can substitute 1 oz lime cordial, such as Rose's Lime Juice, for both the lime juice and simple syrup)."
+    }
+   ]
+  },
+  {
+   "name": "Chambord Kir Royale",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/04/26135626/chambord-kir-royale.jpg",
+   "about": "The Kir Royale is a swanky Champagne and black raspberry cocktail that is sure to class up your night. The subtle twist on the fruity French Kir Royale combines Champagne and black raspberry liqueur, rather than the traditional creme de cassis. Whether you’re celebrating a special occasion or need a bubbly brunch drink, mix up this swanky recipe for the Kir Royale.",
+   "ingredients": [
+    {
+     "ingredient": "Chambord",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Champagne"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the Chambord to a flute and top with Champagne."
+    },
+    {
+     "how": "Garnish with a raspberry and a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Karlsson’s Summer Bloody Mary",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/karlssons-summer-bloody-mary1.jpg",
+   "about": "This spicy, gingery spin on the brunch classic is perfect for a warm day.",
+   "ingredients": [
+    {
+     "ingredient": "Sea salt"
+    },
+    {
+     "ingredient": "Black pepper"
+    },
+    {
+     "ingredient": "Karlsson's Gold Vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Bloody Mary Mix",
+     "amount": "150 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Coat the rim of a Collins glass with a mixture of sea salt and black pepper."
+    },
+    {
+     "how": "Fill with ice and add the remaining ingredients."
+    },
+    {
+     "how": "Stir to combine and garnish with a lemon wedge, olive, cocktail onion and celery stalk."
+    }
+   ]
+  },
+  {
+   "name": "Rosie Lee",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2011/01/fa-Rosie_lee.jpg",
+   "about": "Gin, rose petals and exotic lychee team up to make this tasty, summery tipple.",
+   "ingredients": [
+    {
+     "ingredient": "Hendrick's Gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Rose petal syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lychee juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a teacup filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lemon wedge or an orange wheel."
+    }
+   ]
+  },
+  {
+   "name": "Herradura Tequila Mojito",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/09/23130001/herradura-tequila-mojito.jpg",
+   "about": "The short trip from Cuba to Mexico makes for a drastic change in flavor for the classic Mojito. Blending mint and tequila, this warm weather drink is an excellent Cinco de Mayo cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Mint leaves",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Herradura Blanco Tequila",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Herradura Blue Agave Nectar",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the mint leaves."
+    },
+    {
+     "how": "Add the tequila, lime juice and agave nectar, and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Top with club soda."
+    }
+   ]
+  },
+  {
+   "name": "Dutchman’s Daiquiri",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/09/02111000/dutchmans-daiquiri.jpg",
+   "about": "Genever, lime and a chile pepperapparently they like it spicy in Holland.",
+   "ingredients": [
+    {
+     "ingredient": "Bols genever",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Red chile pepper, seeded and sliced",
+     "amount": "quarter"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Rich sugar syrup (2 parts sugar, 1 part water)",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the chile."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and double-strain into a Martini glass."
+    },
+    {
+     "how": "Garnish with a red chile pepper."
+    }
+   ]
+  },
+  {
+   "name": "Royal Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/05/royal-smash-cocktail.jpg",
+   "about": "Drink like a blue blood for the evening.",
+   "ingredients": [
+    {
+     "ingredient": "Fresh lemon, quartered",
+     "amount": "1⁄2"
+    },
+    {
+     "ingredient": "Mint leaves"
+    },
+    {
+     "ingredient": "Royal Combier",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the mint and lemon."
+    },
+    {
+     "how": "Add the Royal Combier and fill with ice."
+    },
+    {
+     "how": "Shake hard and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a fresh mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Bourbon Lift",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/bourbon-lift.jpg",
+   "about": "The cocktail equivalent of a New York egg cream, this rich and fizzy bourbon drink is absolutely delicious.",
+   "ingredients": [
+    {
+     "ingredient": "Maker's Mark Bourbon",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Heavy cream",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "House Spirits Coffee Liqueur or other coffee liqueur",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Almond orgeat (bottled or homemade)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the club soda to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake for 10 seconds and double-strain into an 8-ounce Fizz or Collins glass."
+    },
+    {
+     "how": "Fill with club soda, pouring from about 6 inches above the glass."
+    },
+    {
+     "how": "Wait a few seconds and then add another splash of soda�-this will �\"lift�\" the foam above the top of the glass."
+    },
+    {
+     "how": "Serve with a straw."
+    }
+   ]
+  },
+  {
+   "name": "La Estrella",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/05/22171724/la-estrella.jpg",
+   "about": "This spicy and sweet cocktail will have you seeing stars.",
+   "ingredients": [
+    {
+     "ingredient": "Sugar cubes",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Club soda, divided",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Seedless watermelon, cut into 1-inch pieces"
+    },
+    {
+     "ingredient": "Cayenne pepper",
+     "amount": "1 pinch"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Flor de Caña 4 Year-Old Rum",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a mixing glass, muddle the sugar cubes and 1 oz of the club soda until they dissolve."
+    },
+    {
+     "how": "Add several 1-inch pieces of watermelon and muddle again."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Stir until well chilled."
+    },
+    {
+     "how": "Strain into a snifter with one large ice cube inside."
+    },
+    {
+     "how": "Top with the remaining 2 oz club soda and garnish with a pineapple slice and a strawberry."
+    }
+   ]
+  },
+  {
+   "name": "Off to the Races",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/23113834/off-to-the-races-720-720-recipe.png",
+   "about": "Homemade peach-apricot-chipotle syrup takes this drink way beyond the Julep.",
+   "ingredients": [
+    {
+     "ingredient": "Shiso leaves",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Buffalo Trace Bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Peach-Apricot-Chipotle Chile Agave Nectar",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Peach bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the shiso leaves."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake well and double-strain into a double Old Fashioned glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a shiso leaf."
+    }
+   ]
+  },
+  {
+   "name": "Ginger Ale Highball",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/05/Ginger-Ale-Highball.jpg",
+   "about": "The spicy notes of rye whiskey and ginger pair beautifully in the simple and classic Ginger Ale Highball.",
+   "ingredients": [
+    {
+     "ingredient": "Rye whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Ginger ale"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill a highball glass with ice and add the whiskey."
+    },
+    {
+     "how": "Fill with ginger ale."
+    }
+   ]
+  },
+  {
+   "name": "Gin Buck",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/04/11130933/11-amazing-gin-cocktails-to-make-right-now-gin-buck-720x720-slideshow.jpg",
+   "about": "The simple, sweet and bubbly Gin Buck was a popular summer cooler during the Roaring ’20s.",
+   "ingredients": [
+    {
+     "ingredient": "Gin\nTry it with Beefeater",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Juice of half a lemon or lime"
+    },
+    {
+     "ingredient": "Ginger ale, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill a Collins glass with ice and add the gin and lemon or lime juice."
+    },
+    {
+     "how": "Fill with ginger ale and stir briefly."
+    },
+    {
+     "how": "Garnish with a lemon or lime wedge."
+    }
+   ]
+  },
+  {
+   "name": "Rosemary & Rhubarb",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/06/17115754/rosemary-and-rhubarb-720x720-recipe.jpg",
+   "about": "Rhubarb’s uniquely tart flavor is an ideal backbone for this complex vodka cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Stoli Gala Applik vodka",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Rhubarb syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh rosemary",
+     "amount": "2 sprigs"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and double strain into a cocktail glass."
+    },
+    {
+     "how": "Garnish with an apple fan on a cocktail pick."
+    }
+   ]
+  },
+  {
+   "name": "Bushmills Black Bush The Black Nail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/09/bushmills-black-bush-the-black-nail.jpg",
+   "about": "A long name for a simple drink.",
+   "ingredients": [
+    {
+     "ingredient": "Bushmills Black Bush Irish Whiskey",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Irish Mist",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add Bushmills Irish Whiskey and Irish Mist to a rocks glass filled with ice."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Sazerac",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/05/10145323/sazerac-720x720-recipe.jpg",
+   "about": "A close cousin to the Old Fashioned, the Sazerac has been kicking around in one form or another since 1840. In 2008, it was crowned the official cocktail of New Orleans, a designation more suited to marketers than drink mixers. The truth is the Sazerac has always belonged to the Crescent City.",
+   "ingredients": [
+    {
+     "ingredient": "Absinthe, to rinse"
+    },
+    {
+     "ingredient": "Sugar cube",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Cold water",
+     "amount": "1⁄2 tsp"
+    },
+    {
+     "ingredient": "Peychaud’s bitters",
+     "amount": "3 dashes"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Rye",
+     "amount": "40 ml"
+    },
+    {
+     "ingredient": "Cognac",
+     "amount": "40 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rinse a chilled rocks glass with absinthe, discarding any excess, and set aside."
+    },
+    {
+     "how": "In a mixing glass, muddle the sugar cube, water and both bitters."
+    },
+    {
+     "how": "Add the rye, fill with ice, and stir until well-chilled."
+    },
+    {
+     "how": "Strain into the prepared glass."
+    },
+    {
+     "how": "Twist a slice of lemon peel over the surface to extract the oils and then discard."
+    }
+   ]
+  },
+  {
+   "name": "St-Germain Cocktail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/19115504/st-germain-720-720-recipe.jpg",
+   "about": "The fizzy elderflower-and-wine cocktail has become a modern classic. You simply need a measure St-Germain elderflower liqueur, some Champagne to cut the sweetness and soda to make it ultra-refreshing.",
+   "ingredients": [
+    {
+     "ingredient": "St-Germain",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Dry white wine or Champagne",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the St-Germain and wine to a Collins glass filled with ice."
+    },
+    {
+     "how": "Stir well and top with club soda."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Distrito Federal (AKA Tequila Manhattan)",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/Distrito-Federal.jpg",
+   "about": "Named for Mexico’s largest city, this is an aged-tequila twist on the classic Manhattan.",
+   "ingredients": [
+    {
+     "ingredient": "Reposado tequila",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lime twist or a cherry."
+    }
+   ]
+  },
+  {
+   "name": "Summer Rye",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/05/22171716/Summer-Rye-new.jpg",
+   "about": "It’s also good for winter, spring and fall.",
+   "ingredients": [
+    {
+     "ingredient": "Sazerac Rye Whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "St-Germain",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh Fuji apple juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Champagne",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the Champagne to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a tumbler filled with fresh ice."
+    },
+    {
+     "how": "Top with the Champagne and garnish with some apple cubes."
+    }
+   ]
+  },
+  {
+   "name": "Pyrat Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/09/30115208/Pyrat-Punch-new.jpg",
+   "about": "Hoist one to the skull and bones. Arrr!",
+   "ingredients": [
+    {
+     "ingredient": "Pyrat XO Reserve Rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Juice of half a lime"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "splash"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "splash"
+    },
+    {
+     "ingredient": "Bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the soda to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake gently and strain into a tall glass filled with fresh ice."
+    },
+    {
+     "how": "Top with the soda and garnish with grated nutmeg and cherries."
+    }
+   ]
+  },
+  {
+   "name": "Grand Marnier’s Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2011/01/Grand-Marniers-Smash-new.jpg",
+   "about": "Grand Marnier’s Smash is so simple but so refreshing.",
+   "ingredients": [
+    {
+     "ingredient": "Lemon wedges",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Mint leaves"
+    },
+    {
+     "ingredient": "Grand Marnier",
+     "amount": "45 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the lemon and mint."
+    },
+    {
+     "how": "Add the Grand Marnier and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Port Royal Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/port-royal-punch.jpg",
+   "about": "Throwing a big party? This tropical spiced rum punch recipe serves 25.",
+   "ingredients": [
+    {
+     "ingredient": "46-oz cans of pineapple juice",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Mango juice",
+     "amount": "710 ml"
+    },
+    {
+     "ingredient": "Captain Morgan Original spiced rum (750mL)",
+     "amount": "1 bottle"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "135 ml"
+    },
+    {
+     "ingredient": "Oranges, sliced thinly and quartered",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Sprite",
+     "amount": "355 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Combine all the ingredients in a punch bowl or large pitcher and stir."
+    },
+    {
+     "how": "Serve in punch glasses filled with ice."
+    }
+   ]
+  },
+  {
+   "name": "The Bowery",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/11/the-bowery1.jpg",
+   "about": "The tasty ginger liqueur Domaine de Canton doesn’t need much dressing up.",
+   "ingredients": [
+    {
+     "ingredient": "Domaine de Canton",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Ruby Partida",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/12/ruby-partida1.jpg",
+   "about": "Mix up this tequila, cassis and grapefruit cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Partida Reposado Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh ruby red grapefruit juice",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "French cassis",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the cassis to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Dribble the .5 oz of French Cassis down the inside of the glass so it settles at the bottom."
+    }
+   ]
+  },
+  {
+   "name": "The Lanesborough",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/11/the-lanesborough.jpg",
+   "about": "A sparkling cocktail that’s a big step up from a Mimosa.",
+   "ingredients": [
+    {
+     "ingredient": "Grand Marnier",
+     "amount": "20 ml"
+    },
+    {
+     "ingredient": "Cranberry juice",
+     "amount": "20 ml"
+    },
+    {
+     "ingredient": "Passion fruit juice or puree",
+     "amount": "20 ml"
+    },
+    {
+     "ingredient": "Moët & Chandon Champagne",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the Grand Marnier, cranberry juice and passion fruit juice or puree to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and strain into a chilled Champagne flute."
+    },
+    {
+     "how": "Top with the Champagne and garnish with an orange spiral twist."
+    }
+   ]
+  },
+  {
+   "name": "House-made Clover Club",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/06/17115743/house-made-clover-club-720x720-recipe.jpg",
+   "about": "Turn leftover jam into a delicious drink with the Clover Club cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Gin (Tanqueray or Beefeater)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Raspberry jam",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all of the ingredients to a shaker with ice, shake and strain into a cocktail glass."
+    }
+   ]
+  },
+  {
+   "name": "USS Richmond Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/11/27124202/fa-uss-richmond-punch.jpg",
+   "about": "All hands on deck for the historic quadruple-liquor USS Richmond Punch.",
+   "ingredients": [
+    {
+     "ingredient": "Lemons",
+     "amount": "6"
+    },
+    {
+     "ingredient": "Superfine sugar",
+     "amount": "1 1⁄2 cup"
+    },
+    {
+     "ingredient": "Strong-brewed black tea (use 2 teabags, 16 oz water)",
+     "amount": "2 cup"
+    },
+    {
+     "ingredient": "Dark Jamaican rum (Smith & Cross or Myers’s, 16 oz)",
+     "amount": "2 cup"
+    },
+    {
+     "ingredient": "VS or VSOP-grade Cognac (16 oz)",
+     "amount": "2 cup"
+    },
+    {
+     "ingredient": "Ruby port (Graham’s Six Grapes, 16 oz)",
+     "amount": "2 cup"
+    },
+    {
+     "ingredient": "Grand Marnier",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Club soda or Champagne",
+     "amount": "1500 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Place a 2- or 3-quart bowl of water in the freezer and let freeze overnight."
+    },
+    {
+     "how": "Peel 6 lemons with a swivel-bladed vegetable peeler, trying not to get any of the white pith."
+    },
+    {
+     "how": "In bowl, muddle the peels with 1.5 cups of superfine sugar and let stand for an hour for the lemon oil to leach out."
+    },
+    {
+     "how": "Juice the peeled lemons and add the juice to the sugar mixture, along with the tea."
+    },
+    {
+     "how": "Strain out the peels and pour into a 1-gallon container."
+    },
+    {
+     "how": "Add the rum, cognac, port and Grand Marnier, and refrigerate for at least 1 hour."
+    },
+    {
+     "how": "To serve, unmold the block of ice into a 2-gallon punch bowl."
+    },
+    {
+     "how": "Add the chilled punch stock and top off with the club soda (or, if feeling dangerous, Champagne)."
+    },
+    {
+     "how": "Garnish with grated numeg and 1 seeded lemon sliced thinly."
+    },
+    {
+     "how": "Serves 20."
+    }
+   ]
+  },
+  {
+   "name": "Mayahuel",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/10/Mayahuel-new.jpg",
+   "about": "A great orange-and-ginger twist on the classic Margarita.",
+   "ingredients": [
+    {
+     "ingredient": "Herradura Reposado Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Domaine de Canton",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh orange juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave syrup (one part agave nectar, one part water)",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "6"
+    },
+    {
+     "ingredient": "Angostura Orange Bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a wine glass filled with crushed ice."
+    },
+    {
+     "how": "Garnish with a mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Virgin Ad Lib",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/18164941/Virgin-Ad-Lib-new.jpg",
+   "about": "This herb-and-lemon concoction is a recipe you can share with the kids.",
+   "ingredients": [
+    {
+     "ingredient": "Fresh cilantro sprigs",
+     "amount": "4"
+    },
+    {
+     "ingredient": "Water",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup (one part sugar, one part water)",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the of cilantro."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a cocktail glass."
+    },
+    {
+     "how": "(If you're not a fan of cilantro, try this recipe with mint, basil or any soft herb.)."
+    }
+   ]
+  },
+  {
+   "name": "Colony Records",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/24094016/thanksgiving-cranberry-drink-recipe.jpg",
+   "about": "This fruity and spiced concoction is perfect for holiday entertaining.",
+   "ingredients": [
+    {
+     "ingredient": "Cruzan Single Barrel Rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh grapefruit juice",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cranberry Syrup%",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice. Shake, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a grapefruit twist."
+    }
+   ]
+  },
+  {
+   "name": "Holiday at the Hive",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/22133958/hanukkah-cocktail-recipe.jpg",
+   "about": "This citrus and honey elixir is a perfectly refreshing way to kick off a party.",
+   "ingredients": [
+    {
+     "ingredient": "honey",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Hot water",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Grey Goose L'Orange Vodka",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Triple sec or Grand Marnier",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Star anise powder",
+     "amount": "1 pinch"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the honey and hot water to a shaker and stir to dissolve."
+    },
+    {
+     "how": "Add the remaining ingredients, shake vigorously and strain into a Martini glass."
+    }
+   ]
+  },
+  {
+   "name": "The Dead Rabbit Irish Coffee",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/Dead-Rabbit-Irish-Coffee.jpg",
+   "about": "We got famed New York bar The Dead Rabbit to share its recipe for delicious hot Irish Coffee.",
+   "ingredients": [
+    {
+     "ingredient": "Demerara syrup (one part Demerara sugar, one part water)",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Clontarf Irish whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Brewed coffee, hot",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Heavy cream, lightly whipped"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Fill an Irish Coffee glass with hot water and let stand for a few minutes to warm."
+    },
+    {
+     "how": "Pour out the water and add the Demerara syrup, whiskey and coffee."
+    },
+    {
+     "how": "Stir to combine and top with a layer of heavy cream the width of your thumb."
+    },
+    {
+     "how": "Garnish with freshly grated nutmeg."
+    }
+   ]
+  },
+  {
+   "name": "Hearn",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/Hearn.jpg",
+   "about": "This complex Irish whiskey-based spin on the Manhattan won’t fail to impress.",
+   "ingredients": [
+    {
+     "ingredient": "Knappogue Castle 12 Year Old Single Malt Irish Whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Dolin Rouge vermouth",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "The Dead Rabbit Orinoco Bitters",
+     "amount": "4 dashes"
+    },
+    {
+     "ingredient": "Absinthe",
+     "amount": "2 dashes"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "2 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Twist a slice of orange peel over the drink to release the oils and discard the peel."
+    }
+   ]
+  },
+  {
+   "name": "Bourbon, Vanilla & Chocolate Milkshake",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/08/31105320/11-Essential-Cocktails-for-Your-September-Parties-bourbon-vanilla-and-chocolate-milkshake-720x720-slideshow.jpg",
+   "about": "You’ll never look at ice cream the same way again.",
+   "ingredients": [
+    {
+     "ingredient": "Premium vanilla ice cream, plus more if needed",
+     "amount": "3 cup"
+    },
+    {
+     "ingredient": "Whole milk",
+     "amount": "355 ml"
+    },
+    {
+     "ingredient": "Ice cubes",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Good-quality bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Simple chocolate syrup, divided",
+     "amount": "6 tbsp"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Place 4 heavy pint glasses in the freezer to chill for 30 minutes."
+    },
+    {
+     "how": "Add the ice cream, milk, ice cubes, bourbon and 4 tbsp of the chocolate syrup to a powerful blender."
+    },
+    {
+     "how": "Blend until smooth."
+    },
+    {
+     "how": "(A good milkshake should be eaten with a spoon, so if the mixture seems too thin, add another .25 to .5 cup ice cream and blend again.)."
+    },
+    {
+     "how": "Divide evenly among the prepared glasses and top each with .5 tbsp of the remaining chocolate syrup."
+    },
+    {
+     "how": "Serve immediately."
+    }
+   ]
+  },
+  {
+   "name": "Magic Hour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/04/14211319/new-years-cocktail.jpg",
+   "about": "Celebrate in style with this fizzy aperitif.",
+   "ingredients": [
+    {
+     "ingredient": "Lillet Rose",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup (one part sugar, one part water)",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Yellow Chartreuse",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Sparkling wine (such as Gruet)"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the sparkling wine to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Champagne flute."
+    },
+    {
+     "how": "Top with sparkling wine and garnish with a grapefruit twist."
+    }
+   ]
+  },
+  {
+   "name": "Blushing Lady",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/blushing-lady2.jpg",
+   "about": "She may seem demure, but she packs a powerful punch.",
+   "ingredients": [
+    {
+     "ingredient": "Pama Pomegranate liqueur",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Vodka",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Pink grapefruit juice",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and strain into a chilled Martini glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "1942 Martini",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/07/1942-Martini.jpg",
+   "about": "A really good tequila can make a really good Martini.",
+   "ingredients": [
+    {
+     "ingredient": "Don Julio 1942 Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Dash orange bitters"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredient to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake well and strain into a chilled Martini glass."
+    },
+    {
+     "how": "Garnish with an orange peel."
+    }
+   ]
+  },
+  {
+   "name": "Maneki-Tini",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/08/27151040/maneki-tini.jpg",
+   "about": "Enjoy Japanese whisky’s sweeter side.",
+   "ingredients": [
+    {
+     "ingredient": "Hibiki 12-year-old whisky",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Sweet vermouth",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Cherry brandy",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker filled with ice and shake."
+    },
+    {
+     "how": "Strain into a chilled Martini glass, and garnish with a maraschino cherry."
+    }
+   ]
+  },
+  {
+   "name": "Oatmeal-Infused Karlsson’s Gold Vodka",
+   "drinkImage": "https://cdn.liquor.com/fpo/no-photo-cocktail.png",
+   "about": "Used in other recipes such as the Pumpkin & Spice.",
+   "ingredients": [
+    {
+     "ingredient": "Raw oats (such as Quaker Oatmeal)",
+     "amount": "2 cup"
+    },
+    {
+     "ingredient": "Karlsson’s Gold Vodka",
+     "amount": "1 bottle"
+    }
+   ]
+  },
+  {
+   "name": "Grand Tea",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/grand-tea-new.jpg",
+   "about": "You’ll wish that it was always tea time.",
+   "ingredients": [
+    {
+     "ingredient": "Grand Marnier",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Brewed iced tea",
+     "amount": "105 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients to a pitcher and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a highball glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with lemon wheels."
+    }
+   ]
+  },
+  {
+   "name": "Don Julio Colada",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/08/29152626/don-julio-colada.jpg",
+   "about": "You don’t have to drink this out of a coconut shell, but…",
+   "ingredients": [
+    {
+     "ingredient": "Don Julio Reposado Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cream of coconut",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Pineapple juice",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Bitters",
+     "amount": "5 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a blender and fill with ice. Blend until smooth."
+    },
+    {
+     "how": "Pour into a hollowed-out coconut shell or a mug and garnish with cherries and coconut shavings."
+    }
+   ]
+  },
+  {
+   "name": "East India Negroni",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/08/10145423/eastindianegroni_main_NRD_720x720.png",
+   "about": "A transatlantic twist on the classic aperitif.",
+   "ingredients": [
+    {
+     "ingredient": "Banks 5-Island rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lustau East India Solera Sherry",
+     "amount": "22 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a rocks glass filled with one large ice cube."
+    },
+    {
+     "how": "Garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "C & B Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/23153624/cb-old-fashioned-720-720-recipe.png",
+   "about": "C for Campari; B for Benedictine.",
+   "ingredients": [
+    {
+     "ingredient": "Plymouth gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Lillet Blanc",
+     "amount": "3⁄4"
+    },
+    {
+     "ingredient": "Campari",
+     "amount": "3⁄4"
+    },
+    {
+     "ingredient": "Bénédictine",
+     "amount": "1⁄4"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "1⁄4"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the club soda to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir very well and strain into an old fashioned glass full of fresh ice."
+    },
+    {
+     "how": "Top with club soda and garnish with an orange twist."
+    }
+   ]
+  },
+  {
+   "name": "Aperol Flip",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/08/10125228/aperol-flip.jpg",
+   "about": "This Champagne and Aperol combo is frothy, fizzy and sophisticated.",
+   "ingredients": [
+    {
+     "ingredient": "Aperol",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Juice of half a lemon"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Brut Champagne",
+     "amount": "60 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the Aperol, lemon juice, simple syrup and egg white to a cocktail shaker and fill with ice."
+    },
+    {
+     "how": "Shake until well-chilled and frothy."
+    },
+    {
+     "how": "Pour the Champagne into a Martini glass."
+    },
+    {
+     "how": "Strain the Aperol mixture into the glass."
+    },
+    {
+     "how": "Pinch the strip of orange zest to release its oil into the glass and then lay it atop the foam."
+    }
+   ]
+  },
+  {
+   "name": "Açaí Mojito",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/10113209/acai-mojito.jpg",
+   "about": "What’s better than one super-fruit cocktail? A whole pitcher.",
+   "ingredients": [
+    {
+     "ingredient": "Fresh mint leaves",
+     "amount": "5"
+    },
+    {
+     "ingredient": "VeeV Açaí Spirit (half a bottle)",
+     "amount": "370 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "150 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "180 ml"
+    },
+    {
+     "ingredient": "Blueberry puree",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Club soda"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a pitcher, muddle the mint."
+    },
+    {
+     "how": "Fill three-quarters of the way with ice and add the VeeV, simple syrup, lime juice and blueberry puree."
+    },
+    {
+     "how": "Stir well and top with club soda."
+    },
+    {
+     "how": "Garnish with blueberries."
+    }
+   ]
+  },
+  {
+   "name": "Irish Coffee",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2012/10/15120211/Irish-Coffee.jpg",
+   "about": "The secrets to making a great Irish Coffee are really so simple that they are often overlooked. This hot, creamy, classic Irish Coffee recipe from legendary bartender Dale DeGroff has all the right ingredients and will warm you to the bone.",
+   "ingredients": [
+    {
+     "ingredient": "Jameson Irish whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Brown sugar syrup",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Coffee, freshly brewed"
+    },
+    {
+     "ingredient": "Unsweetened cream, lightly whipped"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the whiskey and syrup to an Irish Coffee glass and fill two-thirds of the way with coffee."
+    },
+    {
+     "how": "Top with one inch of whipped cream."
+    }
+   ]
+  },
+  {
+   "name": "Irish Jack Rose",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/13143708/irish-jack-rose-720-720-article.jpg",
+   "about": "The classic Jack Rose cocktail gets a splash of Irish whiskey.",
+   "ingredients": [
+    {
+     "ingredient": "Irish whiskey",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Calvados",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Grenadine",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lime wedge."
+    }
+   ]
+  },
+  {
+   "name": "Shamrock Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/shamrock-sour.jpg",
+   "about": "No leprechauns were hurt in the making of this recipe.",
+   "ingredients": [
+    {
+     "ingredient": "Basil Hayden\\'s Bourbon",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Green Chartreuse",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Grapefruit juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Agave syrup (one part agave nectar, one part water)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Egg white (that is about half of an egg white)",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and shake without ice."
+    },
+    {
+     "how": "Fill with ice and shake again."
+    },
+    {
+     "how": "Strain into a double rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a mint sprig and a lemon wheel."
+    }
+   ]
+  },
+  {
+   "name": "Dry Martini",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/09/05093330/dry-martini-720x720-recipe.jpg",
+   "about": "The Dry Martini is a classic cocktail that, like a tailored suit, is timeless. Although the original of the tipple is unclear, the Dry Martini has maintained a place in cocktail history due to being easy to use and endlessly sophisticated. Elegant for the fancy and boozy for the heavy-handed, this potation is truly the everyman’s cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Gin\nTry it with Plymouth",
+     "amount": "75 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Orange bitters",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients into a mixing glass with ice and stir until very cold."
+    },
+    {
+     "how": "Strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "Italian Grape Sour",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2009/11/italian-grape-sour.jpg",
+   "about": "This sweet drink makes a strong case for using grape juice in cocktails.",
+   "ingredients": [
+    {
+     "ingredient": "Moon Mountain Vodka",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Amaretto",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "White grape juice",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake well and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lemon wheel and two grapes on a cocktail pick or skewer."
+    }
+   ]
+  },
+  {
+   "name": "Pony Express",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/Pony-Express.jpg",
+   "about": "Hitch a ride on this rye whiskey, lemon juice and white tea liqueur cocktail.",
+   "ingredients": [
+    {
+     "ingredient": "Sazerac Rye Whiskey",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Qi White Tea Liqueur",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lemon juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Grade b organic maple syrup",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake hard and strain the drink into a 12 oz bucket glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lemon peel."
+    }
+   ]
+  },
+  {
+   "name": "Strawberry Basil Margarita",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/04/25103628/11-Essential-Cocktails-for-May-Parties-strawberry-basil-margarita-720x720-slideshow.jpg",
+   "about": "A refreshing twist on the classic.",
+   "ingredients": [
+    {
+     "ingredient": "Medium strawberries",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Basil leaves",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Jose Cuervo Tradicional Tequila",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Cointreau",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Maraschino liqueur",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the strawberries, basil, lime juice and simple syrup."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake vigorously and strain into a Margarita glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a lime wheel and additional basil leaf."
+    }
+   ]
+  },
+  {
+   "name": "Mango Brava Daiquiri",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/30153638/Mango-Brava-Daiquiri.jpg",
+   "about": "Find out what happens when you add mango to an all-time classic.",
+   "ingredients": [
+    {
+     "ingredient": "Mango-Infused Rum",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup (one part sugar, one part water)",
+     "amount": "15 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Garnish with a lime wheel."
+    }
+   ]
+  },
+  {
+   "name": "McKinley’s Delight",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/03/presidential-inauguration-drinks.jpg",
+   "about": "McKinley’s Delight was created in 1896 to celebrate the 25th president’s electionthis lost classic is a spin on the Manhattan. Many presidents had cocktails created in their honor, but few have stood the test of time. Created in 1896 during the 25th president’s election, the McKinley’s Delight is an exception. It incorporates classic elements from the Manhattan, but dresses them up for the special occasion with cherry liqueur and a dash of absinthe.",
+   "ingredients": [
+    {
+     "ingredient": "Straight rye whiskey",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Italian red vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Cherry liqueur",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Absinthe",
+     "amount": "1 dash"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a mixing glass and fill with ice."
+    },
+    {
+     "how": "Stir, and strain into a chilled cocktail glass."
+    },
+    {
+     "how": "Cut a thin swatch of lemon peel, twist over the drink and discard."
+    }
+   ]
+  },
+  {
+   "name": "Cannibal Corpse Reviver No. 2",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/10/cannibal-corpse-reviver-no-2.jpg",
+   "about": "A few dashes of pear brandy and Fernet-Branca make this gin cocktail recipe unique.",
+   "ingredients": [
+    {
+     "ingredient": "Perry's Tot Navy Strength Gin",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Simple syrup (one part sugar, one part water)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Pear brandy",
+     "amount": "4 dashes"
+    },
+    {
+     "ingredient": "Fernet-Branca",
+     "amount": "1 tsp"
+    },
+    {
+     "ingredient": "Prosecco"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients except the prosecco to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a Collins glass filled with fresh ice."
+    },
+    {
+     "how": "Top with chilled prosecco and garnish with a lemon half-wheel."
+    }
+   ]
+  },
+  {
+   "name": "Rusty Nail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/04120349/rusty-nail-720-720-recipe.jpg",
+   "about": "According to cocktail historian David Wondrich, the Rusty Nail made its first appearance in 1937, and it wasn’t long before it became a classic. Don’t worry—there’s no need for a tetanus shot after drinking one of these.",
+   "ingredients": [
+    {
+     "ingredient": "Drambuie",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Scotch\nTry it with Chivas Regal",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the ingredients into a rocks glass with ice and stir."
+    }
+   ]
+  },
+  {
+   "name": "Antiguo Citrus Mint Squeeze",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/fa-Antiguo-Citrus-Mint-Squeeze.jpg",
+   "about": "A little sour, a little sweet, a little fizzy and a lot of tequila.",
+   "ingredients": [
+    {
+     "ingredient": "Grapefruit wedge, cut in half",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Lime wedges",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Mint leaves",
+     "amount": "3"
+    },
+    {
+     "ingredient": "Antiguo Reposado Tequila",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Agave nectar",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Club soda",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the grapefruit, lime and mint."
+    },
+    {
+     "how": "Add the remaining ingredients and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a rocks glass filled with fresh ice."
+    },
+    {
+     "how": "Garnish with a grapefruit wedge, lime wedge and mint sprig."
+    }
+   ]
+  },
+  {
+   "name": "Tom Collins",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/12/04114905/tom-collins-720-720-recipe.jpg",
+   "about": "The Tom Collins is such a classic they named the glass after it.",
+   "ingredients": [
+    {
+     "ingredient": "London dry gin\nTry it with Beefeater",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Club soda, to top"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the gin, lemon juice and simple syrup to a Collins glass."
+    },
+    {
+     "how": "Fill with ice, top with club soda and stir."
+    },
+    {
+     "how": "Garnish with 2 lemon slices."
+    }
+   ]
+  },
+  {
+   "name": "White Sangria",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2010/07/10113211/white-sangria-cocktail.jpg",
+   "about": "All that fruit is good for you; have another glass of this delicious White Sangria.",
+   "ingredients": [
+    {
+     "ingredient": "Bottle crisp white wine (pinot gris)"
+    },
+    {
+     "ingredient": "Sweet grapes",
+     "amount": "1 cup"
+    },
+    {
+     "ingredient": "Ripe peaches, pitted and cut into eight wedges",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Grand Marnier",
+     "amount": "120 ml"
+    },
+    {
+     "ingredient": "Orange, thinly sliced (unpeeled)",
+     "amount": "1"
+    },
+    {
+     "ingredient": "Lime, thinly sliced (unpeeled)",
+     "amount": "1"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a pitcher and refrigerate for 2 to 4 hours before serving."
+    },
+    {
+     "how": "Serve in wine glasses."
+    }
+   ]
+  },
+  {
+   "name": "Basil Hayden’s Apple Bubbly",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/Basil_Haydens_Apple_Bubbly.jpg",
+   "about": "Bourbon, apples and bubbles. Oh my!",
+   "ingredients": [
+    {
+     "ingredient": "Basil Hayden\\'s Bourbon",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Sparkling apple juice"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add the bourbon to a Champagne flute and fill with sparkling apple juice."
+    },
+    {
+     "how": "Garnish with an apple slice."
+    }
+   ]
+  },
+  {
+   "name": "Dukes Gin Classic Martini",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2013/02/Dukes-martini-newest.jpg",
+   "about": "This classic cocktail is the house Martini at London’s Dukes Hotel, where James Bond creator Ian Fleming was a regular.",
+   "ingredients": [
+    {
+     "ingredient": "No. 3 gin",
+     "amount": "90 ml"
+    },
+    {
+     "ingredient": "Dry vermouth",
+     "amount": "10 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Chill the gin, vermouth and a Martini glass in the freezer."
+    },
+    {
+     "how": "Add both ingredients to the glass and stir gently."
+    },
+    {
+     "how": "Garnish with a lemon twist."
+    }
+   ]
+  },
+  {
+   "name": "The Rose"
+  }
+ ]
+}

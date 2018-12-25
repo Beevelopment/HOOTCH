@@ -1,0 +1,6 @@
+framework module Pods_drinkassist {
+  umbrella header "Pods-drinkassist-umbrella.h"
+
+  export *
+  module * { export * }
+}

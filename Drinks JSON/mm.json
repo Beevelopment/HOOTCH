@@ -1,0 +1,49 @@
+{
+ "drinkName": [
+  {
+   "name": "Space Gin Smash",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/04/11130954/11-amazing-gin-cocktails-to-make-right-now-space-gin-smash-720x720-slideshow.jpg",
+   "about": "Famed British bartender Angus Winchester likes to mix up this fruity tipple on rainy days.",
+   "ingredients": [
+    {
+     "ingredient": "Mint leaves",
+     "amount": "6"
+    },
+    {
+     "ingredient": "Lemon",
+     "amount": "quarter"
+    },
+    {
+     "ingredient": "Seedless green grapes",
+     "amount": "2"
+    },
+    {
+     "ingredient": "Green apple",
+     "amount": "eighth"
+    },
+    {
+     "ingredient": "Simple syrup",
+     "amount": "10 ml"
+    },
+    {
+     "ingredient": "Tanqueray gin",
+     "amount": "40 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "In a shaker, muddle the mint, lemon, grapes, apple and simple syrup."
+    },
+    {
+     "how": "Add the gin and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a rocks glass filled with fresh cracked ice."
+    },
+    {
+     "how": "Garnish with an apple fan, a mint sprig and a grape."
+    }
+   ]
+  }
+ ]
+}

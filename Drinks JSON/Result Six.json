@@ -1,0 +1,43 @@
+{
+ "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2018/02/08095256/pot-of-gold-720x720-article.jpg",
+ "about": "While the rest of the drinking world sips from the green-beer spigot this St. Patrick’s Day, class it up with this gold-studded Irish whiskey cocktail.",
+ "ingredients": [
+  {
+   "ingredient": "Irish whiskey",
+   "amount": ""
+  },
+  {
+   "ingredient": "Islay scotch (or some other peaty scotch)",
+   "amount": ""
+  },
+  {
+   "ingredient": "Fresh lemon juice",
+   "amount": ""
+  },
+  {
+   "ingredient": "Ginger honey syrup*",
+   "amount": ""
+  },
+  {
+   "ingredient": "Egg white",
+   "amount": ""
+  }
+ ],
+ "mix": [
+  {
+   "how": "Combine all the ingredients into a cocktail shaker and dry-shake (no ice)."
+  },
+  {
+   "how": "Add ice and shake again until well-chilled."
+  },
+  {
+   "how": "Strain into a chilled coupe glass."
+  },
+  {
+   "how": "Garnish with edible gold flakes."
+  },
+  {
+   "how": "*Ginger honey syrup: Combine 1/4 cup chopped ginger, 1 cup honey and 1/2 cup water to a saucepan, and bring to a boil over medium-high heat. Reduce heat and simmer for 2 minutes, then let stand until room temperature. Strain into a container, and refrigerate for up to 2 weeks."
+  }
+ ]
+}

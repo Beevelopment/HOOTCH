@@ -1,0 +1,38 @@
+{
+ "drinkName": [
+  {
+   "name": "Marzipan Old Fashioned",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2017/01/16150515/MarzipanOldFashioned-720x720-recipe-v2.jpg",
+   "about": "Beverage director Cody Pruitt melts De La Rosa peanut marzipan candies into a marzipan syrup to sweeten this mezcal– and tequila-based Old Fashioned. A touch of oloroso sherry echoes the nutty flavors from the peanut-studded candy.",
+   "ingredients": [
+    {
+     "ingredient": "Los Amantes joven mezcal",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Espolón reposado tequila",
+     "amount": "22 ml"
+    },
+    {
+     "ingredient": "Lustau oloroso sherry",
+     "amount": "7.5 ml"
+    },
+    {
+     "ingredient": "Marzipan syrup*",
+     "amount": "7.5 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients into a mixing glass with ice and stir."
+    },
+    {
+     "how": "Strain into a double rocks glass over a large ice cube."
+    },
+    {
+     "how": "*Marzipan syrup: Simmer 3 cups crushed De La Rosa peanut marzipan candies and 3 cups water until the sugar is dissolved and only the peanut pieces are left floating. Strain through a chinois and bottle. Keeps for up to 6 days refrigerated."
+    }
+   ]
+  }
+ ]
+}

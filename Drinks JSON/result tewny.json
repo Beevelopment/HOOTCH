@@ -1,0 +1,35 @@
+{
+ "drinkName": [
+  {
+   "name": "Point Reyes Punch",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2015/11/23081243/lo-fi-point-reyes-punch-720x720-recipe.jpg",
+   "about": "Who doesn’t love an equal-parts cocktail? Pineapple syrup lends a silky thread to this sunny blend of rum and dry vermouth.",
+   "ingredients": [
+    {
+     "ingredient": "Lo-Fi Dry Vermouth",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Dry white rum",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Pineapple syrup*",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Fresh lemon juice",
+     "amount": "30 ml"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all ingredients to a shaker with ice."
+    },
+    {
+     "how": "Shake, and strain into a coupe."
+    }
+   ]
+  }
+ ]
+}

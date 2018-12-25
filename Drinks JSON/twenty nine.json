@@ -1,0 +1,75 @@
+{
+ "drinkName": [
+  {
+   "name": "Undead Gentleman",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2016/06/15161908/undead-gentleman-720x720-recipe.jpg",
+   "about": "This modern Tiki cocktail takes the Zombie, a fairly complex drink, cuts down the number of ingredients and puts it in a coupe.",
+   "ingredients": [
+    {
+     "ingredient": "Absinthe blanc",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Black blended overproof rum (Hamilton 151)",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Blended aged rum (Appleton Estate Reserve or The Real McCoy 5-Year-Old)",
+     "amount": "45 ml"
+    },
+    {
+     "ingredient": "John D. Taylor’s Velvet falernum",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "SC cinnamon syrup*",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh lime juice",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Fresh grapefruit juice (white or pink)",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Angostura bitters",
+     "amount": "1 dash"
+    },
+    {
+     "ingredient": "Intertwined lime and grapefruit twists, for garnish"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Rinse a chilled cocktail coupe with absinthe blanc. Add the remaining ingredients to a cocktail shaker with cracked or cubed ice."
+    },
+    {
+     "how": "Shake and double-strain into the coupe and add the garnish."
+    },
+    {
+     "how": "*SC cinnamon syrup: Put 2 cups of water in a saucepan."
+    },
+    {
+     "how": "Add 3 halved 6-inch pieces of cinnamon stick to the water, and bring to a boil over high heat."
+    },
+    {
+     "how": "Add 4 cups of granulated sugar and stir with a whisk (or an immersion blender) until dissolved for about 1 minute."
+    },
+    {
+     "how": "The liquid should become clear such that you can see the bottom of the pot."
+    },
+    {
+     "how": "Immediately remove from the heat. Cover and let sit at room temperature for 12 hours."
+    },
+    {
+     "how": "Strain through cheesecloth into a bowl, and then use a funnel to pour into a lidded bottle or other sealable container."
+    },
+    {
+     "how": "The syrup will keep, refrigerated, for several weeks. Makes 4 cups (32 oz)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "drinkName": [
+  {
+   "name": "Rooster-Tail",
+   "drinkImage": "https://cdn.liquor.com/wp-content/uploads/2014/04/19114554/rooster-tail-720-720-recipe.jpg",
+   "about": "This raspberry-and-mint tipple is delicious all year round.",
+   "ingredients": [
+    {
+     "ingredient": "Peach brandy (not peach liqueur; may substitute 1.5 oz bonded applejack and .5 oz peach liqueur)",
+     "amount": "60 ml"
+    },
+    {
+     "ingredient": "Rainwater Madeira",
+     "amount": "30 ml"
+    },
+    {
+     "ingredient": "Lemon's juice",
+     "amount": "half"
+    },
+    {
+     "ingredient": "Raspberry syrup",
+     "amount": "15 ml"
+    },
+    {
+     "ingredient": "Peychauds Bitters",
+     "amount": "3 dashes"
+    }
+   ],
+   "mix": [
+    {
+     "how": "Add all the ingredients to a shaker and fill with ice."
+    },
+    {
+     "how": "Shake, and strain into a small goblet filled with fresh cracked ice."
+    },
+    {
+     "how": "Garnish with a mint sprig and a raspberry or two."
+    }
+   ]
+  }
+ ]
+}
